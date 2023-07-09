@@ -1,4 +1,4 @@
-FROM node:12.18.3
+FROM node:14.2.0
 
 LABEL version="1.0"
 
@@ -9,7 +9,7 @@ WORKDIR /app
 
 COPY ["package.json", "package-lock.json", "./"]
 
-RUN npm install --production
+RUN npm install
 
 COPY . .
 
