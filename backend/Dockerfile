@@ -1,4 +1,4 @@
 FROM openjdk:8-jdk-alpine
 MAINTAINER kuailai.com
-COPY target/docker-backend-1.0.0.jar backend-1.0.0.jar
+COPY target/kuai-backend-1.0.0.jar kuai-backend-1.0.0.jar
 ENTRYPOINT ["java","-jar","/message-server-1.0.0.jar"]

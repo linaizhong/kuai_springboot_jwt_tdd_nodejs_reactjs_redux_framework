@@ -11,7 +11,7 @@
 
 	<groupId>com.kuai</groupId>
 	<artifactId>kuai</artifactId>
-	<version>1</version>
+	<version>1.0.0</version>
 	<name>Kuai Platform</name>
 	<description>Build Spring Boot JWT backend quickly</description>
 
