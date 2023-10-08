@@ -1,4 +1,4 @@
-package com.kuai.security;
+package com.kuai.config;
 
 import com.kuai.security.jwt.JwtAuthEntryPoint;
 import com.kuai.security.jwt.JwtAuthTokenFilter;
@@ -22,9 +22,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 
 @Configuration
 @EnableWebSecurity
-@EnableGlobalMethodSecurity(
-		prePostEnabled = true
-)
+@EnableGlobalMethodSecurity(prePostEnabled = true)
 public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     @Autowired
     UserDetailsServiceImpl userDetailsService;
