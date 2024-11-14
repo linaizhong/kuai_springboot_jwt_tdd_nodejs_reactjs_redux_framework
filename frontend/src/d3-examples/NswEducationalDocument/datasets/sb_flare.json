@@ -1,0 +1,382 @@
+{
+    "name": "Australian Curriculum",
+    "children": [
+        {
+            "name": "English",
+            "children": [
+                {
+                    "name": "Foundation Year",
+                    "children": [
+                        {
+                            "name": "Language", 
+                            "children": [
+                                {
+                                    "name": "Language variation and change", 
+                                    "children": [
+                                        {"name": "ACELA1426", "size": 7074}
+                                    ]
+                                },
+                                {
+                                    "name": "Language for interaction", 
+                                    "children": [
+                                        {"name": "ACELA1428", "size": 7074},
+                                        {"name": "ACELA1429", "size": 7074}
+                                    ]
+                                },
+                                {
+                                    "name": "Text structure and organisation", 
+                                    "children": [
+                                        {"name": "ACELA1430", "size": 7074},
+                                        {"name": "ACELA1431", "size": 7074},
+                                        {"name": "ACELA1432", "size": 7074},
+                                        {"name": "ACELA1433", "size": 7074}
+                                    ]
+                                },
+                                {
+                                    "name": "Expressing and developing ideas", 
+                                    "children": [
+                                        {"name": "ACELA1435", "size": 7074},
+                                        {"name": "ACELA1434", "size": 7074},
+                                        {"name": "ACELA1786", "size": 7074},
+                                        {"name": "ACELA1437", "size": 7074}
+                                    ]
+                                },
+                                {
+                                    "name": "Phonics and word knowledge", 
+                                    "children": [
+                                        {"name": "ACELA1439", "size": 7074},
+                                        {"name": "ACELA1440", "size": 7074},
+                                        {"name": "ACELA1438", "size": 7074},
+                                        {"name": "ACELA1817", "size": 7074},
+                                        {"name": "ACELA1818", "size": 7074},
+                                        {"name": "ACELA1819", "size": 7074},
+                                        {"name": "ACELA1820", "size": 7074}
+                                    ]
+                               }
+                            ]
+                        },
+                        {
+                            "name": "Literature", 
+                            "children": [
+                                {
+                                    "name": "Literature and context", 
+                                    "children": [
+                                        {"name": "ACELT1575", "size": 7074}
+                                    ]
+                                },
+                                {
+                                    "name": "Responding to literature", 
+                                    "children": [
+                                        {"name": "ACELT1577", "size": 7074},
+                                        {"name": "ACELT1783", "size": 7074}
+                                    ]
+                                },
+                                {
+                                    "name": "Examining literature", 
+                                    "children": [
+                                        {"name": "ACELT1578", "size": 7074},
+                                        {"name": "ACELT1785", "size": 7074},
+                                        {"name": "ACELT1579", "size": 7074}
+                                    ]
+                                },
+                                {
+                                    "name": "Creating literature", 
+                                    "children": [
+                                        {"name": "ACELT1580", "size": 7074},
+                                        {"name": "ACELT1831", "size": 7074}
+                                    ]
+                               }
+                            ]
+                        },
+                        {
+                            "name": "Literacy", 
+                            "children": [
+                                {
+                                    "name": "Texts in context", 
+                                    "children": [
+                                        {"name": "ACELY1645", "size": 7074}
+                                    ]
+                                },
+                                {
+                                    "name": "Interacting with others", 
+                                    "children": [
+                                        {"name": "ACELY1646", "size": 7074},
+                                        {"name": "ACELY1784", "size": 7074},
+                                        {"name": "ACELY1647", "size": 7074}
+                                    ]
+                                },
+                                {
+                                    "name": "Interpreting, analysing, evaluating", 
+                                    "children": [
+                                        {"name": "ACELY1648", "size": 7074},
+                                        {"name": "ACELY1649", "size": 7074},
+                                        {"name": "ACELY1650", "size": 7074}
+                                    ]
+                                },
+                                {
+                                    "name": "Creating texts", 
+                                    "children": [
+                                        {"name": "ACELY1651", "size": 7074},
+                                        {"name": "ACELY1652", "size": 7074},
+                                        {"name": "ACELY1653", "size": 7074},
+                                        {"name": "ACELY1654", "size": 7074}
+                                    ]
+                               }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Year 1",
+                    "children": [
+                        {"name": "BetweennessCentrality", "size": 3534},
+                        {"name": "LinkDistance", "size": 5731},
+                        {"name": "MaxFlowMinCut", "size": 7840},
+                        {"name": "ShortestPaths", "size": 5914},
+                        {"name": "SpanningTree", "size": 3416}
+                    ]
+                },
+                {
+                    "name": "Year 2",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 3",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 4",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 5",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 6",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 7",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 8",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 9",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 10",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Mathematics",
+            "children": [
+                {
+                    "name": "Foundation Year",
+                    "children": [
+                        {"name": "AgglomerativeCluster", "size": 3938},
+                        {"name": "CommunityStructure", "size": 3812},
+                        {"name": "HierarchicalCluster", "size": 6714},
+                        {"name": "MergeEdge", "size": 743}
+                    ]
+                },
+                {
+                    "name": "Year 1",
+                    "children": [
+                        {"name": "BetweennessCentrality", "size": 3534},
+                        {"name": "LinkDistance", "size": 5731},
+                        {"name": "MaxFlowMinCut", "size": 7840},
+                        {"name": "ShortestPaths", "size": 5914},
+                        {"name": "SpanningTree", "size": 3416}
+                    ]
+                },
+                {
+                    "name": "Year 2",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 3",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 4",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 5",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 6",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 7",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 8",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 9",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 10",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Science",
+            "children": [
+                {
+                    "name": "Foundation Year",
+                    "children": [
+                        {"name": "AgglomerativeCluster", "size": 3938},
+                        {"name": "CommunityStructure", "size": 3812},
+                        {"name": "HierarchicalCluster", "size": 6714},
+                        {"name": "MergeEdge", "size": 743}
+                    ]
+                },
+                {
+                    "name": "Year 1",
+                    "children": [
+                        {"name": "BetweennessCentrality", "size": 3534},
+                        {"name": "LinkDistance", "size": 5731},
+                        {"name": "MaxFlowMinCut", "size": 7840},
+                        {"name": "ShortestPaths", "size": 5914},
+                        {"name": "SpanningTree", "size": 3416}
+                    ]
+                },
+                {
+                    "name": "Year 2",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 3",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 4",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 5",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 6",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 7",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 8",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 9",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                },
+                {
+                    "name": "Year 10",
+                    "children": [
+                        {"name": "AspectRatioBanker", "size": 7074}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Health and Physical Education",
+            "children": [
+            ]
+        },
+        {
+            "name": "Work Studies",
+            "children": [
+            ]
+        },
+        {
+            "name": "Humabities and Social Sciences",
+            "children": [
+            ]
+        },
+        {
+            "name": "The Arts",
+            "children": [
+            ]
+        },
+        {
+            "name": "Technologies",
+            "children": [
+            ]
+        },
+        {
+            "name": "Languages",
+            "children": [
+            ]
+        }
+    ]
+}

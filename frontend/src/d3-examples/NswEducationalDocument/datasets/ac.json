@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {"id": "Austrlian Curriculum", "name": "Austrlian Curriculum", "group": 0},
+    {"id": "English", "name": "English", "group": 1},
+    {"id": "Mathematics", "name": "Mathematics", "group": 1},
+    {"id": "Science", "name": "Science", "group": 1},
+    {"id": "Health And Physical Education", "name": "Health And Physical Education", "group": 1},
+    {"id": "Work Studies", "name": "Work Studies", "group": 1},
+    {"id": "Humanities And Social Science", "name": "Humanities And Social Science", "group": 1},
+    {"id": "The Arts", "name": "The Arts", "group": 1},
+    {"id": "Technologies", "name": "Technologies", "group": 1},
+    {"id": "Languages", "name": "Languages", "group": 1}
+  ],
+  "links": [
+    {"source": "Austrlian Curriculum", "target": "English", "value": 20},
+    {"source": "Austrlian Curriculum", "target": "Mathematics", "value": 20},
+    {"source": "Austrlian Curriculum", "target": "Science", "value": 20},
+    {"source": "Austrlian Curriculum", "target": "Health And Physical Education", "value": 20},
+    {"source": "Austrlian Curriculum", "target": "Work Studies", "value": 20},
+    {"source": "Austrlian Curriculum", "target": "Humanities And Social Science", "value": 20},
+    {"source": "Austrlian Curriculum", "target": "The Arts", "value": 20},
+    {"source": "Austrlian Curriculum", "target": "Technologies", "value": 20},
+    {"source": "Austrlian Curriculum", "target": "Languages", "value": 20}
+  ]
+}

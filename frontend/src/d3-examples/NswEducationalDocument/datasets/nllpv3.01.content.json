@@ -1,0 +1,886 @@
+{
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ef3521b6-97cf-4c09-96d4-175f878203c9",
+  "name" : "National Literacy Learning Progression",
+  "description" : [ ],
+  "children" : [ {
+    "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d8a4b2f0-ae2c-4337-bbc7-49a1b754d276",
+    "name" : "Speaking and listening",
+    "description" : [ ],
+    "children" : [ {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/813244c8-bbba-4728-acbd-9ac9521d4f01",
+      "name" : "Listening",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/56a6c574-8636-4eed-b9c4-12ed37880836",
+        "name" : "LSECL1a",
+        "description" : [ "<ul>\n<li>shows interest in familiar people events and activities (e.g. tracks the speaker's movements, turns head in the direction of a speaker)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/97b802a6-fabc-487b-913c-c9313dd4705d",
+        "name" : "LSECL1b",
+        "description" : [ "<ul>\n<li>responds consistently to social interactions with familiar people (see <em>Interacting</em>)</li>\n</ul>", "<ul>\n<li>uses informal responses which can include vocalising, moving, touching (e.g. touches a target object in response to a question or directive) (see <em>Interacting</em>)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a3e5ef88-e571-47a1-b165-a2e12dc078b8",
+        "name" : "LSLiS1",
+        "description" : [ "<ul>\n<li>responds to a familiar, simple text structure (e.g. indicates yes/no when asked a commonly recurring question such as \"Are you hungry?\") (see <em>Speaking</em>)</li>\n</ul>", "<ul>\n<li>uses conventional behaviours to respond, which can include speech, formal gestures and actions (e.g. head nodding and pointing)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ae30fb05-0f81-4d6e-a25d-c19f2065c069",
+        "name" : "LSLiS2",
+        "description" : [ "<ul>\n<li>responds to short spoken texts relying on key words, obvious cues, tone of voice and intonation</li>\n</ul>", "<ul>\n<li>follows a simple command</li>\n</ul>", "<ul>\n<li>repeats familiar words heard in a text or conversation</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1ea37f90-8dae-4e85-896f-c0536dea3147",
+        "name" : "LSLiS3",
+        "description" : [ "<ul>\n<li>listens actively to short texts consisting of a few sentences</li>\n</ul>", "<ul>\n<li>recalls one or two ideas from a short text or interaction</li>\n</ul>", "<ul>\n<li>responds to simple statements, commands or questions</li>\n</ul>", "<ul>\n<li>uses a small range of listening strategies (e.g. asking what, when, why questions about a text they have listened to)</li>\n</ul>", "<ul>\n<li>responds to subtle tones and cues through facial expressions, gestures and action</li>\n</ul>", "<ul>\n<li>discriminates individual words in a short, spoken sentence (e.g. identifies ‘lunchtime’ in ‘the meeting for the excursion is at lunchtime’)</li>\n</ul>", "<ul>\n<li>describes familiar objects and actions heard in a text or interaction (e.g. the chicken ate the bug)</li>\n</ul>", "<ul>\n<li>repeats accurately, short phrases and statements from a short text or interaction</li>\n</ul>", "<ul>\n<li>repeats accurately, short phrases and statements from a short text or interaction</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0fe409e5-c63b-4f1c-a761-4978e4b4e07f",
+        "name" : "LSLiS4",
+        "description" : [ "<ul>\n<li>responds to simple and predictable texts (see <em>Text complexity</em>)</li>\n</ul>", "<ul>\n<li>recalls specific information from a spoken text (e.g. recalls a message from a school assembly announcement)</li>\n</ul>", "<ul>\n<li>responds to literal and simple inferential questions about a spoken text</li>\n</ul>", "<ul>\n<li>infers obvious meaning from a simple, spoken text (e.g. identifies character’s job as a sales assistant from dialogue with a shopper)</li>\n</ul>", "<ul>\n<li>experiments with a small range of listening strategies (e.g. asks speaker to repeat information, if unclear)</li>\n</ul>", "<ul>\n<li>uses learnt vocabulary and simple adjectives to recount key ideas from heard text</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b7278960-f57e-437a-b509-4fb3956ee980",
+        "name" : "LSLiS5",
+        "description" : [ "<ul>\n<li>responds to predictable texts (see <em>Text complexity</em>)</li>\n</ul>", "<ul>\n<li>listens purposefully to texts to identify specific learning area content</li>\n</ul>", "<ul>\n<li>recalls specific information from a learning area text</li>\n</ul>", "<ul>\n<li>attends to sequence when recounting ideas</li>\n</ul>", "<ul>\n<li>infers meaning that may be less obvious (e.g. hears background sounds of seagulls and surf to infer beach context)</li>\n</ul>", "<ul>\n<li>describes tone and intonation of spoken text (e.g. she spoke with an angry tone)</li>\n</ul>", "<ul>\n<li>listens to a familiar story and retells, making minor adaptations if needed</li>\n</ul>", "<ul>\n<li>selects appropriate listening strategies (e.g. asking questions to elicit extra information, rephrasing others’ contributions to check own comprehension)</li>\n</ul>", "<ul>\n<li>listens for cohesive vocabulary to support comprehension (e.g. listens for temporal connectives such as first, then, finally and conjunctions such as also to identify next section in text)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bfe3b220-3e17-46e4-8358-808f739f1953",
+        "name" : "LSLiS6",
+        "description" : [ "<ul>\n<li>responds to moderately complex texts (see <em>Text complexity</em>)</li>\n</ul>", "<ul>\n<li>responds to texts with unfamiliar content</li>\n</ul>", "<ul>\n<li>identifies main ideas of a spoken text using supporting details</li>\n</ul>", "<ul>\n<li>identifies purpose and intended audience of a spoken text</li>\n</ul>", "<ul>\n<li>infers layered meaning from texts (e.g. musical overlay that creates mood)</li>\n</ul>", "<ul>\n<li>asks relevant questions to extend understanding</li>\n</ul>", "<ul>\n<li>describes language and audio features of the text</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8a5a7cb7-a493-42a8-b0f5-3f07b122b869",
+        "name" : "LSLiS7",
+        "description" : [ "<ul>\n<li>responds to complex texts (see <em>Text complexity</em>)</li>\n</ul>", "<ul>\n<li>identifies and analyses how spoken language is used for different effects</li>\n</ul>", "<ul>\n<li>explains the use of intonation, pausing, rhythm and phrasing to give emphasis and weight to ideas</li>\n</ul>", "<ul>\n<li>selects appropriate listening strategies for planned and unplanned situations (e.g. records and organises information from a text in a table or with detailed notes)</li>\n</ul>", "<ul>\n<li>explains how vocabulary is used for impact on the target audience</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ae3ce860-7318-4716-a6b1-7832d06de3dc",
+        "name" : "LSLiS8",
+        "description" : [ "<ul>\n<li>responds to highly complex texts (see <em>Text complexity</em>)</li>\n</ul>", "<ul>\n<li>identifies and paraphrases key points of a speaker’s arguments</li>\n</ul>", "<ul>\n<li>describes their own and others’ listening behaviours</li>\n</ul>", "<ul>\n<li>evaluates strategies used by the speaker to elicit emotional responses</li>\n</ul>", "<ul>\n<li>explains any shift in direction, line of argument or purpose made by the speaker</li>\n</ul>", "<ul>\n<li>adopts and re-uses complex abstractions heard in texts</li>\n</ul>", "<ul>\n<li>explains how speakers’ language can be inclusive or alienating (e.g. a speaker using language which is only readily understood by certain user groups such as teenagers or people involved in particular pastimes)</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8e438595-51ce-4023-a8d4-ea99df4be153",
+      "name" : "Interacting",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/488c6531-defd-4ff3-a478-a1f446160dc2",
+        "name" : "LSECI1a",
+        "description" : [ "<ul>\n<li>interacts using informal behaviours to express a feeling or need (e.g. vocalising, moving, using facial expressions)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f30c67ee-2594-4f8c-bdef-65f7dbcfc92e",
+        "name" : "LSECI1b",
+        "description" : [ "<ul>\n<li>interacts purposefully with familiar people (e.g. refuse or request)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a186f012-f67e-41db-8be2-e6ff7968772c",
+        "name" : "LSInT1",
+        "description" : [ "<ul>\n<li>shares simple ideas with peers</li>\n</ul>", "<ul>\n<li>responds to questions in class discussion using non-verbal responses (e.g. nodding)</li>\n</ul>", "<ul>\n<li>listens without interrupting (see <em>Listening</em>)</li>\n</ul>", "<ul>\n<li>uses home language or dialect to interact with familiar peers and adults</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/dfb9bf76-70c5-40b0-b59a-508b82831883",
+        "name" : "LSInT2",
+        "description" : [ "<ul>\n<li>contributes simple ideas and shares personal experiences to participate in informal group discussions</li>\n</ul>", "<ul>\n<li>shows signs of active listening, by sustaining attention across a short, spoken text</li>\n</ul>", "<ul>\n<li>shows beginning awareness of discussion conventions (e.g. pauses when another speaker starts)</li>\n</ul>", "<ul>\n<li>uses appropriate language or dialect to interact with speakers of the same language</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/cb88e0a4-5c20-4cc7-9d44-8f96f9f743f4",
+        "name" : "LSInT3",
+        "description" : [ "<ul>\n<li>actively listens to stay on topic in a small group discussion</li>\n</ul>", "<ul>\n<li>joins in small group and whole-class discussion</li>\n</ul>", "<ul>\n<li>asks relevant questions for clarification or to find out others’ ideas (e.g. What do you think about that?)</li>\n</ul>", "<ul>\n<li>takes turns in interactions</li>\n</ul>", "<ul>\n<li>interacts using appropriate language in pairs or a small group to complete tasks</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/363b326a-c3c1-4d44-a447-041b423ffff6",
+        "name" : "LSInT4",
+        "description" : [ "<ul>\n<li>interacts to extend and elaborate ideas in a discussion (e.g. provides an additional example)</li>\n</ul>", "<ul>\n<li>presents simple ideas clearly in group situations</li>\n</ul>", "<ul>\n<li>actively encourages or supports other speakers</li>\n</ul>", "<ul>\n<li>shows awareness of discussion conventions (e.g. uses appropriate language to express agreement and disagreement in class discussions)</li>\n</ul>", "<ul>\n<li>uses language to initiate interactions in a small group situation (e.g. ‘I have an idea’)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f6271dcf-5032-41fe-a7b5-fe73cb4525d2",
+        "name" : "LSInT5",
+        "description" : [ "<ul>\n<li>interacts to critically evaluate ideas and refine meaning</li>\n</ul>", "<ul>\n<li>explains new learning from interacting with others</li>\n</ul>", "<ul>\n<li>uses a range of strategies for effective dialogue (e.g. questions claims made by a speaker or presents an alternative point to the previous speaker)</li>\n</ul>", "<ul>\n<li>initiates interactions confidently in group and whole-class discussions</li>\n</ul>", "<ul>\n<li>poses pertinent questions to make connections between a range of ideas</li>\n</ul>", "<ul>\n<li>uses open questions to prompt a speaker to provide more information</li>\n</ul>", "<ul>\n<li>clarifies task goals and negotiates roles in group learning</li>\n</ul>", "<ul>\n<li>monitors discussion to manage digression from the topic</li>\n</ul>", "<ul>\n<li>identifies and articulates a point of view of a speaker, to move a conversation forward</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6e662ae6-2275-4b1f-a544-3992e0cd3c28",
+        "name" : "LSInT6",
+        "description" : [ "<ul>\n<li>interacts within school context or the broader community, adjusting language and responses to suit purpose and audience</li>\n</ul>", "<ul>\n<li>synthesises ideas from group discussion into a common theme or hypothesis</li>\n</ul>", "<ul>\n<li>poses problems, hypothesises and formulates questions about abstract ideas in group situations</li>\n</ul>", "<ul>\n<li>restates different views and makes suggestions to negotiate agreement</li>\n</ul>", "<ul>\n<li>poses questions to clarify assumptions made by the speaker</li>\n</ul>", "<ul>\n<li>questions others to evaluate accuracy of thinking or problem-solving processes</li>\n</ul>", "<ul>\n<li>uses language to align the listener with personal position (e.g. of course, as you can imagine, obviously)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/cd007b36-a391-4a66-90d3-d18e4532a4ff",
+        "name" : "LSInT7",
+        "description" : [ "<ul>\n<li>interacts strategically and confidently with a broad range of interactional partners</li>\n</ul>", "<ul>\n<li>gives an extended explanation and evaluation of a complex concept, issue or process</li>\n</ul>", "<ul>\n<li>justifies a personal stance, after analysis of arguments on a particular issue, using evidence and elaboration in a group situation</li>\n</ul>", "<ul>\n<li>uses language strategically to subtly align others to own point of view as appropriate to audience and purpose</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2d41d197-a4e7-479e-bca0-68afda358274",
+      "name" : "Speaking",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e4b7f41b-ee0d-4c0b-b064-1125056623a7",
+        "name" : "LSECS1a",
+        "description" : [ "<ul>\n<li>uses vocalisation, body movement or facial expressions in response to  personal feelings and sensory experiences (e.g. looks pleased to be sitting in a particular place)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/381839ff-0d42-4101-97f0-12033015b1b6",
+        "name" : "LSECS1b",
+        "description" : [ "<ul>\n<li>uses informal responses to indicate a single message with familiar people in familiar environments (e.g. smiles when dinner is served and pushes away unwanted food) (see <em>Interacting</em>)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a0a49250-1a89-4f2d-a0d9-6ae6681fafc4",
+        "name" : "LSECS1c",
+        "description" : [ "<ul>\n<li>uses conventional behaviours to communicate intentionally with familiar people in different contexts (e.g. single words, gestures, pictorial representations) (see <em>Interacting</em>)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5a5fca13-eaaa-40c0-8026-db2663deeb37",
+        "name" : "LSSpK1",
+        "description" : [ "<ul>\n<li>speaks in short phrases or simple sentences about familiar objects, people or events</li>\n</ul>", "<ul>\n<li>uses simple language to express feelings and needs (e.g. I’m thirsty)</li>\n</ul>", "<ul>\n<li>makes simple requests</li>\n</ul>", "<ul>\n<li>indicates a preference when offered a choice (e.g. selects a fruit from a bowl)</li>\n</ul>", "<ul>\n<li>uses simple, appropriate personal greetings</li>\n</ul>", "<ul>\n<li>uses a small range of familiar words</li>\n</ul>", "<ul>\n<li>names common items from the environment or pictures</li>\n</ul>", "<ul>\n<li>uses appropriate word choice to communicate with familiar people</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3fbd1d85-f20b-4971-8f10-c8a4a5603be2",
+        "name" : "LSSpK2",
+        "description" : [ "<ul>\n<li>retells personal events and experiences to peers and known adults</li>\n</ul>", "<ul>\n<li>shares feelings and thoughts about the events and characters in text</li>\n</ul>", "<ul>\n<li>retells key details or points from a learning experience or text viewed or heard</li>\n</ul>", "<ul>\n<li>uses mainly appropriate word order</li>\n</ul>", "<ul>\n<li>uses appropriate volume for small audiences</li>\n</ul>", "<ul>\n<li>uses rehearsed phrases to introduce themselves (e.g. Good morning, my name is …)</li>\n</ul>", "<ul>\n<li>uses simple connectives to join ideas (e.g. and then) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses familiar spoken language to communicate connected ideas (e.g. Let's draw, I'll get paper and pencils)</li>\n</ul>", "<ul>\n<li>uses simple adjectives to describe (e.g. red, big) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses a small range of qualifying adjectives (e.g. nice, good) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses simple language to compare and contrast (e.g. smaller, more)</li>\n</ul>", "<ul>\n<li>uses common time and causal connectives to relate ideas (e.g. then, because) (see <em>Grammar)</em></li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/09e8f7d0-6be9-4ae1-b8fa-bed14e44b948",
+        "name" : "LSSpK3",
+        "description" : [ "<ul>\n<li>creates short texts using a few connected sentences, on familiar and learnt topics (e.g. retells a familiar story or describes a process)</li>\n</ul>", "<ul>\n<li>speaks audibly and clearly to a familiar audience (e.g. own class)</li>\n</ul>", "<ul>\n<li>uses some extended sentences</li>\n</ul>", "<ul>\n<li>organises key ideas in logical sequence</li>\n</ul>", "<ul>\n<li>provides some supporting details</li>\n</ul>", "<ul>\n<li>expresses causal relationships (e.g. when the egg cracked, the chicken came out)</li>\n</ul>", "<ul>\n<li>provides simple justifications (e.g. I chose cherries because they are red)</li>\n</ul>", "<ul>\n<li>uses some varying intonation or volume for emphasis</li>\n</ul>", "<ul>\n<li>regulates pace with pausing</li>\n</ul>", "<ul>\n<li>uses some precise vocabulary from learning areas</li>\n</ul>", "<ul>\n<li>uses connectives to sequence ideas (e.g. first, then, next, finally) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses vocabulary to express cause and effect (e.g. the excursion was cancelled because it rained)</li>\n</ul>", "<ul>\n<li>uses some modal language to influence or persuade (e.g. should, will) (see <em>Grammar</em>)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c9dc837d-5957-4d5f-a59c-78df70cc0292",
+        "name" : "LSSpK4",
+        "description" : [ "<ul>\n<li>creates spoken texts for a range of purposes across learning areas (e.g. explains how the mathematics problem was solved)</li>\n</ul>", "<ul>\n<li>uses complex sentence constructions including relative clauses (e.g. the boy who drew the picture got a prize) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>adjusts register to suit audience and purpose</li>\n</ul>", "<ul>\n<li>elaborates on ideas using a short sequence of sentences</li>\n</ul>", "<ul>\n<li>incorporates learnt content into spoken text</li>\n</ul>", "<ul>\n<li>sequences ideas and events appropriately</li>\n</ul>", "<ul>\n<li>uses mainly correct grammatical constructions (e.g. pronoun references; noun-verb agreement)</li>\n</ul>", "<ul>\n<li>varies volume and intonation to suit purpose and audience</li>\n</ul>", "<ul>\n<li>plans and delivers spoken presentations using appropriate structure and language</li>\n</ul>", "<ul>\n<li>includes video and audio enhancements to spoken texts, where appropriate (e.g. includes slides or pictures in a spoken presentation)</li>\n</ul>", "<ul>\n<li>experiments with vocabulary drawn from a variety of sources</li>\n</ul>", "<ul>\n<li>uses adverbials to give more precise meaning to verbs (e.g. talking loudly) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses a range of vocabulary to indicate connections (e.g. consequences)</li>\n</ul>", "<ul>\n<li>uses conditional vocabulary to expand upon ideas (e.g. if Goldilocks ate all the porridge the bears would be hungry)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0b7b27fe-a370-4142-8740-5935a5181dfc",
+        "name" : "LSSpK5",
+        "description" : [ "<ul>\n<li>creates detailed spoken texts on a broad range of learning area topics</li>\n</ul>", "<ul>\n<li>includes details and elaborations to expand ideas</li>\n</ul>", "<ul>\n<li>uses connectives to signal a change in perspective (e.g. however, although, on the other hand) or to show causal relationships (e.g. due to, since) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses a range of expressions to introduce an alternative point of view (e.g. in my opinion, he did not agree with)</li>\n</ul>", "<ul>\n<li>rehearses spoken text to accommodate time and technology</li>\n</ul>", "<ul>\n<li>controls tone, volume, pitch and pace to suit content and audience</li>\n</ul>", "<ul>\n<li>uses technologies or audio and visual features to enhance spoken text (e.g. videos a spoken presentation with music, sound effect enhancements)</li>\n</ul>", "<ul>\n<li>uses a broader range of more complex noun groups to expand description (e.g. protective, outer covering)</li>\n</ul>", "<ul>\n<li>selects more specific and precise words to replace general words (e.g. uses difficult or challenging for hard)</li>\n</ul>", "<ul>\n<li>uses some rhetorical devices (e.g. don’t you agree?)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3123cd46-6a19-4c78-b82f-b00db92b4718",
+        "name" : "LSSpK6",
+        "description" : [ "<ul>\n<li>creates spoken texts responsive to audience and a broad range of learning area topics, clearly articulating words and ideas</li>\n</ul>", "<ul>\n<li>organises more complex ideas or concepts logically, selecting details to accentuate key points</li>\n</ul>", "<ul>\n<li>speaks audibly and coherently to a less familiar audience for a sustained period</li>\n</ul>", "<ul>\n<li>shows increasing awareness of audience by moderating length, content and delivery of spoken texts</li>\n</ul>", "<ul>\n<li>adjusts register according to purpose and audience</li>\n</ul>", "<ul>\n<li>researches to prepare spoken texts</li>\n</ul>", "<ul>\n<li>uses a range of technology and audio and visual resources to engage audience and enhance content</li>\n</ul>", "<ul>\n<li>varies vocabulary to add interest and to describe with greater precision (e.g. uses topic-specific noun groups such as exploitation of resources) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses language creatively (e.g. the moon shines bravely)</li>\n</ul>", "<ul>\n<li>uses sensory vocabulary to engage the audience (e.g. a gasp of dismay)</li>\n</ul>", "<ul>\n<li>uses technical vocabulary to demonstrate topic knowledge (e.g. deforestation)</li>\n</ul>", "<ul>\n<li>consistently uses a range of synonyms to add variety and precision to spoken text</li>\n</ul>", "<ul>\n<li>uses abstractions (e.g. freedom, fairness)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ce0e96de-1ed8-41ac-95a6-86281f55151b",
+        "name" : "LSSpK7",
+        "description" : [ "<ul>\n<li>creates spoken texts which explore and interpret concepts drawn from research or learning area content</li>\n</ul>", "<ul>\n<li>selects voice appropriate to purpose (e.g. third person to create distance and authority or first person to achieve personal connection)</li>\n</ul>", "<ul>\n<li>uses ideas and language features appropriate to complex topics</li>\n</ul>", "<ul>\n<li>controls a range of language features to affect the audience (e.g. uses modal language for emphasis)</li>\n</ul>", "<ul>\n<li>rephrases or clarifies to repair or refine meaning</li>\n</ul>", "<ul>\n<li>uses language structures and features appropriate to learning area content</li>\n</ul>", "<ul>\n<li>uses technologies and visual and audio resources to enhance meaning and effect in presentations</li>\n</ul>", "<ul>\n<li>selects vocabulary to intensify and sharpen the focus (e.g. scarcely, absolutely, real, simply)</li>\n</ul>", "<ul>\n<li>uses a range of evaluative language to express opinions or convey emotion (e.g. significant benefits, devastating consequences)</li>\n</ul>", "<ul>\n<li>uses a range of emotive language appropriate to topic, purpose and audience</li>\n</ul>", "<ul>\n<li>uses rich, evocative, descriptive language</li>\n</ul>", "<ul>\n<li>uses figurative language (e.g. hungry for success)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f41b30a0-fbbf-4762-9bd2-c5c51c45d35b",
+        "name" : "LSSpK8",
+        "description" : [ "<ul>\n<li>creates complex and creative spoken texts which analyse and evaluate issues drawn from research or learning area content</li>\n</ul>", "<ul>\n<li>includes a range of alternative viewpoints in spoken texts, where appropriate</li>\n</ul>", "<ul>\n<li>controls and manipulates a sophisticated range of language features to affect the audience</li>\n</ul>", "<ul>\n<li>uses a range of rhetorical devices and humour to engage an audience</li>\n</ul>", "<ul>\n<li>references and quotes authorities or statistics to add authority (e.g. according to a recent OECD report)</li>\n</ul>", "<ul>\n<li>delivers spoken text flexibly, allowing for questions and maintaining the flow of ideas</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    } ]
+  }, {
+    "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c3b6c1c0-c584-4c06-87d2-40c86700d548",
+    "name" : "Reading and viewing",
+    "description" : [ ],
+    "children" : [ {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e8a45571-fde2-4766-a0d9-fdb59415a44d",
+      "name" : "Phonological awareness",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/785002ff-c9a1-4d3e-9900-393a19bcfb71",
+        "name" : "LRPhA1",
+        "description" : [ "<ul>\n<li>participates in rhymes and chants and songs including in home language or dialect (see <em>Listening</em>)</li>\n</ul>", "<ul>\n<li>repeats sounds, words, sayings, poems</li>\n</ul>", "<ul>\n<li>completes familiar phrases in texts including chants, songs and poems</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7171e21d-3413-4994-af55-bd13232d97d3",
+        "name" : "LRPhA2",
+        "description" : [ "<ul>\n<li>segments a short, spoken sentence of three to five words into separate spoken words</li>\n</ul>", "<ul>\n<li>orally blends and segments words with two and three syllables (e.g. hopp-ing, fam-i-ly)</li>\n</ul>", "<ul>\n<li>blends onset/rime to say a word (e.g. m/um = mum, h/at =hat, sh/op = shop)</li>\n</ul>", "<ul>\n<li>provides a word when given a starting phoneme (e.g. p, picture)</li>\n</ul>", "<ul>\n<li>consistently says the first phoneme of a spoken word (e.g. good, g)</li>\n</ul>", "<ul>\n<li>listens and indicates words that end the same (rhyme) from a choice of up to four one-syllable words (e.g. sing, thing, dog, wing)</li>\n</ul>", "<ul>\n<li>listens to a group of words and indicates those that start with the same phoneme and says other words that start with that phoneme</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ea0009fb-3d0c-43f6-8cb9-2f8918ab82c3",
+        "name" : "LRPhA3",
+        "description" : [ "<ul>\n<li>orally blends two or three phonemes together to make a one-syllable word (e.g. a-sh, s-u-n, b-i-n, sh-i-p)</li>\n</ul>", "<ul>\n<li>orally segments words of two or three phonemes into separate phonemes (e.g. c-a-t, s-u-n, k-i-ck)</li>\n</ul>", "<ul>\n<li>identifies the number of phonemes that make up a spoken one-syllable word comprised of less than four phonemes</li>\n</ul>", "<ul>\n<li>identifies first and final phoneme in a word</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/01204c15-e8ff-4301-896a-9d5411b2f4c4",
+        "name" : "LRPhA4",
+        "description" : [ "<ul>\n<li>orally blends four phonemes together to make a one-syllable spoken word (e.g. s-t-o-p, stop)</li>\n</ul>", "<ul>\n<li>orally segments spoken words comprised of four phonemes into separate phonemes (e.g. fresh, f-r-e-sh)</li>\n</ul>", "<ul>\n<li>identifies the number of phonemes that make up a spoken, one-syllable word comprised of less than five phonemes</li>\n</ul>", "<ul>\n<li>identifies the vowel phoneme in single syllable words</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4049dbbb-6df6-4137-8d3b-fdecbfc86aa7",
+        "name" : "LRPhA5",
+        "description" : [ "<ul>\n<li>says the new word when asked to delete an initial phoneme (e.g. cat becomes at)</li>\n</ul>", "<ul>\n<li>says the new word when asked to add an initial phoneme (e.g. all becomes ball)</li>\n</ul>", "<ul>\n<li>says the new word when asked to substitute an initial phoneme (e.g. cat becomes bat) says the new word when asked to delete a final phoneme (e.g. puppy becomes pup)</li>\n</ul>", "<ul>\n<li>says the new word when asked to add a final phoneme at (e.g. me becomes meet)</li>\n</ul>", "<ul>\n<li>says the new word when asked to substitute a final phoneme (e.g. bet becomes bell)</li>\n</ul>", "<ul>\n<li>says the new word when asked to substitute a medial phoneme (e.g. mat becomes met)</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/74421364-a0c0-4f6a-8dcf-0eba45b3a3de",
+      "name" : "Phonic knowledge and word recognition",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/59a68e8b-fe3a-47bb-9b46-ca3e438bf472",
+        "name" : "LRPKW1",
+        "description" : [ "<ul>\n<li>indicates words and letters in a variety of situations in the environment (e.g. in written texts, on a whiteboard). Note: Not required to read the word or say the sound or name of the letter</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a7a78f9b-eb63-4f7f-99f6-d0811cee6664",
+        "name" : "LRPKW2",
+        "description" : [ "<ul>\n<li>identifies pictures, words, spaces between words and numerals in texts (e.g. points to/indicates pictures, words and spaces around words in a continuous text)</li>\n</ul>", "<ul>\n<li>recognises some familiar words and identifies them in environmental print (e.g. for example, labels, shop names, street signs)</li>\n</ul>", "<ul>\n<li>identifies own name or familiar names when presented in written form</li>\n</ul>", "<ul>\n<li>distinguishes own name from a small number of alternative words</li>\n</ul>", "<ul>\n<li>identifies two or more letters that are the same in two words (e.g. bird, red)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5a29a04c-153a-4920-ae7a-2fcd4b327fe8",
+        "name" : "LRPKW3",
+        "description" : [ "<ul>\n<li>says the most common phoneme for taught single-letter graphemes (e.g. Tt, Mm, Ss)</li>\n</ul>", "<ul>\n<li>identifies and names letters for taught single-letter graphemes</li>\n</ul>", "<ul>\n<li>blends phonemes for taught single letter graphemes to decode VC (e.g. at) CVC (e.g. hop) words</li>\n</ul>", "<ul>\n<li>identifies first phoneme in words</li>\n</ul>", "<ul>\n<li>orally segments and writes CVC words (e.g. c-a-t, h-a-t)</li>\n</ul>", "<ul>\n<li>recognises taught graphemes when represented in various fonts, capitals and lower-case (e.g. Aa, Rr, Dd)</li>\n</ul>", "<ul>\n<li>reads taught high-frequency words in a text and in the environment (e.g. the, to, I, no, said)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b6a6c19f-eabd-4b0d-9008-b8564476910a",
+        "name" : "LRPKW4",
+        "description" : [ "<ul>\n<li>says the most common phoneme for all single-letter graphemes</li>\n</ul>", "<ul>\n<li>identifies and names letters for all single-letter graphemes including those represented in various letter styles, capitals and lower-case (e.g. Bb, Gg)</li>\n</ul>", "<ul>\n<li>writes/selects corresponding graphemes for all common phonemes</li>\n</ul>", "<ul>\n<li>blends phonemes for all common, single-letter graphemes to read VC (e.g. in) and CVC words (e.g. pan) and applies this knowledge when reading decodable texts</li>\n</ul>", "<ul>\n<li>segments and writes VC and CVC words with letters in correct order and reads them aloud</li>\n</ul>", "<ul>\n<li>reads single syllable words with common double consonants and applies this when reading decodable texts (e.g. fuss, II will, ff puff)</li>\n</ul>", "<ul>\n<li>reads an increasing number of taught high-frequency words in decodable texts and own writing (e.g. was, you, one, said, have, were)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/98e16def-2e58-4784-af4f-05be68b76370",
+        "name" : "LRPKW5",
+        "description" : [ "<ul>\n<li>gives examples of phonemes that can be represented by more than one consonant (e.g. ck, ph)</li>\n</ul>", "<ul>\n<li>blends phonemes for all common, single-letter graphemes to read CCVC (e.g. blot) CVCC (e.g. list) words and applies this knowledge when reading decodable texts</li>\n</ul>", "<ul>\n<li>reads words with split digraphs (e.g. cake, blame)</li>\n</ul>", "<ul>\n<li>reads single-syllable words with taught consonant digraphs and applies this when reading decodable texts (e.g. sh, ch and ck - sh-i-p, r-i-ch, l-o-ck)</li>\n</ul>", "<ul>\n<li>reads words with taught common vowel graphemes (e.g. ee, ea, ie, -e and including -y) and applies when reading decodable texts</li>\n</ul>", "<ul>\n<li>reads one-and two-syllable words with common suffixes (e.g. -ed, -ing, -s/es) and applies when reading decodable texts (e.g. jumping , boxes)</li>\n</ul>", "<ul>\n<li>segments and represents CCVC and CVCC words containing consonant digraphs and / or clusters of consonants (e.g. ch-o-p, w-i-sh, b-e-s-t)</li>\n</ul>", "<ul>\n<li>reads an increasing number of taught high-frequency words in decodable texts and different contexts (e.g. own writing, shared reading)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a59695c7-8b2f-4bc2-9975-a5c386a99f1d",
+        "name" : "LRPKW6",
+        "description" : [ "<ul>\n<li>reads words with taught vowel digraphs (e.g. ee, oo, ay, ai, ea, oa, ow) and applies when reading decodable texts</li>\n</ul>", "<ul>\n<li>reads and writes common, one and two syllable words with clusters of consonants (e.g. plant, string, object)</li>\n</ul>", "<ul>\n<li>reads two syllable words with open or long vowel sounds when reading decodable texts (e.g. label, project, even)</li>\n</ul>", "<ul>\n<li>reads most common high-frequency words (e.g. 100 or more) in continuous text</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/84bd8a33-0823-46f4-8f0b-2eb18a943fdf",
+        "name" : "LRPKW7",
+        "description" : [ "<ul>\n<li>reads CCVCC words (e.g. trust), CCCVC words (e.g. scrap), CCCVCC words (e.g. thrust) and applies when reading continuous texts</li>\n</ul>", "<ul>\n<li>reads words with r-controlled vowel digraphs ar, er, or, ur, ir and writes words accordingly and applies when reading continuous texts (e.g. ir bird, er sister, ar card, ur hurt, or word)</li>\n</ul>", "<ul>\n<li>applies common phonic generalisations when reading continuous texts (e.g. soft g-age; hard g-game)</li>\n</ul>", "<ul>\n<li>says and represents the new word when asked to delete a phoneme within an initial blend of a single-syllable word (e.g. spat/sat)</li>\n</ul>", "<ul>\n<li>reads multisyllabic words with common double graphemes and applies this when reading continuous texts (e.g. ss blossom, tt letter, zz fizzy, ff offend)</li>\n</ul>", "<ul>\n<li>reads words with graphemes representing diphthongs when reading continuous texts (e.g. ou ground, ow cow, oi boil)</li>\n</ul>", "<ul>\n<li>reads new words containing taught grapheme-phoneme correspondences in a variety of contexts without using obvious sounding-out strategies</li>\n</ul>", "<ul>\n<li>reads high-frequency words within a continuous text accurately and without hesitation (see Fluency)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fb1479ee-215f-4350-b04f-732361fd08ef",
+        "name" : "LRPKW8",
+        "description" : [ "<ul>\n<li>reads less common graphemes that contain alternative spelling for phonemes (e.g. /ch/tch/j/g/) and applies when reading continuous texts</li>\n</ul>", "<ul>\n<li>reads multisyllabic words, including those with prefixes and suffixes, and applies when reading continuous texts (e.g. in-, ex-, dis-, -ful, -able, -ly)</li>\n</ul>", "<ul>\n<li>reads words with silent letters in digraphs and applies when reading continuous texts (e.g. kn, knot, mb lamb)</li>\n</ul>", "<ul>\n<li>reads multisyllabic words with more complex letter combinations and letter clusters (e.g. -igh, right, -tion station, -ough cough)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/27fecea0-17fa-4ebe-8182-367384ebe3f0",
+        "name" : "LRPKW9",
+        "description" : [ "<ul>\n<li>uses grapheme-phoneme knowledge and blending skills to read continuous texts containing multisyllabic, complex and unfamiliar words quickly and accurately (see <em>Understanding texts, Fluency</em>)</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e160b236-80bd-4b19-84bd-94bc3c80ad69",
+      "name" : "Fluency",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/76089aab-b24e-4df3-82de-d2769e474235",
+        "name" : "LRFlY1",
+        "description" : [ "<ul>\n<li>reads aloud decodable or familiar texts word by word, with emphasis on one-to-one matching</li>\n</ul>", "<ul>\n<li>reads with some intonation and expression</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/142ba923-59eb-4d6d-b5dd-da929c757ead",
+        "name" : "LRFlY2",
+        "description" : [ "<ul>\n<li>reads decodable or familiar texts by phrasing two words at a time with some attention to expression</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3dcbca2a-18ab-4248-920a-80748a295456",
+        "name" : "LRFlY3",
+        "description" : [ "<ul>\n<li>reads aloud a decodable or simple text at a reasonable pace, grouping words into meaningful phrases (see <em>Understanding texts</em>)</li>\n</ul>", "<ul>\n<li>uses punctuation cues and some intonation and expression</li>\n</ul>", "<ul>\n<li>reads accurately at an efficient pace without overt sounding and blending</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0c049374-d1e5-4b54-b7ec-26136d30eb7a",
+        "name" : "LRFlY4",
+        "description" : [ "<ul>\n<li>reads aloud a predictable text at a flowing pace, pausing to attend to more complex punctuation</li>\n</ul>", "<ul>\n<li>uses effective intonation, stress and expression that indicate comprehension</li>\n</ul>", "<ul>\n<li>maintains pace and accuracy when reading with an experienced reader</li>\n</ul>", "<ul>\n<li>reads without finger tracing</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/95ff31fa-c6ed-4e11-9e48-b3b428276abf",
+        "name" : "LRFlY5",
+        "description" : [ "<ul>\n<li>reads aloud a range of moderately complex texts with fluency and phrasing, adjusting pace, volume, pitch and pronunciation to enhance meaning and expression</li>\n</ul>", "<ul>\n<li>varies pace according to purpose and audience</li>\n</ul>", "<ul>\n<li>reads aloud with expression that reflects the author’s purpose and meaning (see <em>Understanding texts</em>)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/229e6097-04b4-4f27-85dd-7768f89c4e14",
+        "name" : "LRFlY6",
+        "description" : [ "<ul>\n<li>reads aloud a range of complex and highly complex texts which include multisyllabic words and complex sentences with fluency and appropriate expression</li>\n</ul>", "<ul>\n<li>consistently and automatically integrates pausing, intonation, phrasing and rate</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6555ade2-1e67-4097-9d4e-c345b94b6e72",
+      "name" : "Understanding texts",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ccb1dcbf-6d2a-495f-ad12-482896fa6fb9",
+        "name" : "LRECU1a",
+        "description" : [ "<ul>\n<li>shows interest in familiar people, events and activities (e.g. tracks the speaker’s movements, turns head in the direction of the speaker)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6b03be86-f78f-4228-b3b2-bb16ba420b01",
+        "name" : "LRECU1b",
+        "description" : [ "<ul>\n<li>responds consistently to social interactions with familiar people</li>\n</ul>", "<ul>\n<li>uses informal responses which can include vocalising, facial expressions, gestures, moving, touching (e.g. touches a target object in response to a question or directive)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ef25ee0e-7dbf-4cf8-8ceb-9ea7a863126f",
+        "name" : "LRUnT1",
+        "description" : [ "<ul>\n<li>demonstrates interest in texts</li>\n</ul>", "<ul>\n<li>recognises images in texts</li>\n</ul>", "<ul>\n<li>recognises some icons or symbols from the environment (e.g. familiar logos)</li>\n</ul>", "<ul>\n<li><span>names familiar objects in texts including texts in the environment (e.g. apple, table, boy)</span></li>\n</ul>", "<ul>\n<li>names some familiar icons or symbols in the environment (e.g. school crossing sign)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/51ca6a97-d0db-47da-a744-d7751c7458b2",
+        "name" : "LRUnT2",
+        "description" : [ "<ul>\n<li>responds to texts read by a proficient reader</li>\n</ul>", "<ul>\n<li>repeats fragments of text</li>\n</ul>", "<ul>\n<li>invents a spoken text based on images</li>\n</ul>", "<ul>\n<li>recognises symbols and words in texts (e.g. recognises own name)</li>\n</ul>", "<ul>\n<li>distinguishes between print and images</li>\n</ul>", "<ul>\n<li>shows awareness of correct orientation of text (e.g. holds the book or tablet the right way up)</li>\n</ul>", "<ul>\n<li>imitates reading behaviour, by turning pages, swiping the screen and inventing own version of the text</li>\n</ul>", "<ul>\n<li>names familiar objects in texts and adds some detail (e.g. the apple is red)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/cec1342b-d072-48e9-9fc6-eea3dabf0f97",
+        "name" : "LRUnT3",
+        "description" : [ "<ul>\n<li>listens actively and responds to a range of texts read by others</li>\n</ul>", "<ul>\n<li>makes a simple statement about the content of a text (e.g. it was about the farm)</li>\n</ul>", "<ul>\n<li>engages in group discussion about a text or shared learning experience</li>\n</ul>", "<ul>\n<li>talks about images and/or some printed words in a text</li>\n</ul>", "<ul>\n<li>answers and poses mainly literal questions about the text</li>\n</ul>", "<ul>\n<li>infers and then describes obvious cause and effect relationships (e.g. uses information in the text to infer why a character is smiling in an image)</li>\n</ul>", "<ul>\n<li>follows text direction when read to by a proficient reader</li>\n</ul>", "<ul>\n<li>locates the front and back of a book and turns pages correctly</li>\n</ul>", "<ul>\n<li>locates the starting point for reading on a page or screen</li>\n</ul>", "<ul>\n<li>uses touch or click features to navigate a text (e.g. clicks arrows to move text along, uses pause/play button to start/stop text, clicks icons to view specific aspects of screen-based texts)</li>\n</ul>", "<ul>\n<li>asks questions to find out meaning of unfamiliar words</li>\n</ul>", "<ul>\n<li>uses words in discussions that have been encountered in simple texts</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/351af8f1-38fc-47d9-bc02-ba3eb097760e",
+        "name" : "LRUnT4",
+        "description" : [ "<ul>\n<li>reads and views simple texts with support from a proficient reader (see Text complexity)</li>\n</ul>", "<ul>\n<li>retells a familiar story or shared learning experience</li>\n</ul>", "<ul>\n<li>contributes to group discussion demonstrating understanding of a range of texts read by proficient readers</li>\n</ul>", "<ul>\n<li>makes relevant comments or asks relevant questions to demonstrate understanding of a text</li>\n</ul>", "<ul>\n<li>makes connections between texts and personal experiences</li>\n</ul>", "<ul>\n<li>uses some phonic and contextual knowledge to decode simple texts (see <em>Phonic knowledge and word recognition</em>)</li>\n</ul>", "<ul>\n<li>decodes a few words in a text using phonic knowledge (see <em>Phonic knowledge and word recognition</em>)</li>\n</ul>", "<ul>\n<li>identifies taught high frequency words in a text (see <em>Phonic knowledge and word recognition</em>)</li>\n</ul>", "<ul>\n<li>demonstrates one-to-one correspondence by pointing to words in a continuous text or in the environment (see <em>Phonic knowledge and word recognition</em>)</li>\n</ul>", "<ul>\n<li>tracks text left to right</li>\n</ul>", "<ul>\n<li>uses return sweep</li>\n</ul>", "<ul>\n<li>consistently reads left page before right page</li>\n</ul>", "<ul>\n<li>makes predictions (e.g. uses the cover of a book or screen image to predict the content)</li>\n</ul>", "<ul>\n<li>identifies simple grammatical features (e.g. identifies verbs in a set of instructions) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>pauses or appeals for support when meaning is disrupted</li>\n</ul>", "<ul>\n<li>recognises sentence boundary punctuation (see <em>Punctuation</em>)</li>\n</ul>", "<ul>\n<li>demonstrates knowledge of common morphemic word families when reading (e.g. identifies the word run in running)</li>\n</ul>", "<ul>\n<li>recognises key content or repeated words in a simple text (see <em>Text complexity</em>)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6cc355b6-5c4b-42d4-b2e0-0a3d4af8c20e",
+        "name" : "LRUnT5",
+        "description" : [ "<ul>\n<li>reads and views simple texts independently (see <em>Text complexity</em>)</li>\n</ul>", "<ul>\n<li>locates directly stated information</li>\n</ul>", "<ul>\n<li>recounts or describes sequenced ideas or information</li>\n</ul>", "<ul>\n<li>identifies a clearly evident main idea in a simple text</li>\n</ul>", "<ul>\n<li>listens to texts to engage with learning area content (e.g. a text about family histories)</li>\n</ul>", "<ul>\n<li>reads and views the content of texts and describes new or learnt information</li>\n</ul>", "<ul>\n<li>expresses an opinion or preference for a topic or text with a supporting reason</li>\n</ul>", "<ul>\n<li>draws obvious inferences by integrating print, visual and audio aspects of simple texts (e.g. uses images and key words to infer a character’s job)</li>\n</ul>", "<ul>\n<li>identifies some differences between imaginative and informative texts (e.g. different styles of images in a fairy tale and instructions for a game)</li>\n</ul>", "<ul>\n<li>uses phonic knowledge, word recognition, sentence structure, punctuation and contextual knowledge to read simple texts (see <em>Phonic knowledge and word recognition</em>) (see <em>Text complexity</em>)</li>\n</ul>", "<ul>\n<li>reads high frequency words in continuous text</li>\n</ul>", "<ul>\n<li>reads using sentence features such as word order and sentence boundary punctuation (e.g. question marks)</li>\n</ul>", "<ul>\n<li>pauses when meaning breaks down and attempts to self-correct</li>\n</ul>", "<ul>\n<li>uses visual and auditory cues to build meaning (e.g. colour, shape and size of images, sound effects)</li>\n</ul>", "<ul>\n<li>selects appropriate reading paths when reading simple texts and navigates simple screen-based texts for specific purposes</li>\n</ul>", "<ul>\n<li>identifies key words and the meaning they carry (e.g. nouns, verbs)</li>\n</ul>", "<ul>\n<li>makes plausible interpretations of the meaning of unfamiliar words</li>\n</ul>", "<ul>\n<li>understands simple qualifying or emotive words</li>\n</ul>", "<ul>\n<li>uses context to understand homonyms</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/307c2473-b436-468d-bbb7-45b97757b5d3",
+        "name" : "LRUnT6",
+        "description" : [ "<ul>\n<li>reads and views simple texts and some predictable texts (see <em>Text complexity</em>)</li>\n</ul>", "<ul>\n<li>scans texts to locate specific information in a predictable print text</li>\n</ul>", "<ul>\n<li>recounts or describes the most relevant details from a text</li>\n</ul>", "<ul>\n<li>tracks ideas or information throughout the text</li>\n</ul>", "<ul>\n<li>identifies main idea by synthesising information across a simple text</li>\n</ul>", "<ul>\n<li>identifies the arguments or points in a text</li>\n</ul>", "<ul>\n<li>identifies the purpose of predictable informative, imaginative and persuasive texts (e.g. uses verbs and dot points to identify a set of instructions)</li>\n</ul>", "<ul>\n<li>draws inferences and explains using background knowledge or text features (e.g. infers character’s feelings from actions)</li>\n</ul>", "<ul>\n<li>makes connections between texts (e.g. compares two versions of a well-known story)</li>\n</ul>", "<ul>\n<li>integrates new learning from reading with current knowledge (e.g. I know that insects have wings but I didn’t know all insects have six legs)</li>\n</ul>", "<ul>\n<li>predicts the content and purpose of a text based on a range of text features</li>\n</ul>", "<ul>\n<li>uses a bank of phonic knowledge and word recognition skills and grammatical and contextual knowledge to read simple and predictable texts (see <em>Phonic knowledge and word recognition</em>)</li>\n</ul>", "<ul>\n<li>recognises when meaning breaks down, pauses and uses phonic knowledge, contextual knowledge, and strategies such as repeating words, re-reading and reading on to self-correct (see <em>Phonic knowledge and word recognition</em>)</li>\n</ul>", "<ul>\n<li>identifies parts of text used to answer literal and inferential questions</li>\n</ul>", "<ul>\n<li>uses cohesive devices to connect ideas or events (e.g. tracks pronoun referencing) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses phrasing and punctuation to support reading for meaning (e.g. noun, verb and adjectival groups) (see <em>Fluency</em> and <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>identifies common features in similar texts (e.g. photographs in informative texts)</li>\n</ul>", "<ul>\n<li>uses morphological knowledge to explain words (e.g. help (e.g. base) + less (e.g. suffix) = helpless)</li>\n</ul>", "<ul>\n<li>interprets language devices (e.g. exaggeration or repetition)</li>\n</ul>", "<ul>\n<li>interprets simple imagery (e.g. simile, onomatopoeia)</li>\n</ul>", "<ul>\n<li>uses context and grammar knowledge to understand unfamiliar words (e.g. the word vast in the phrase vast desert)</li>\n</ul>", "<ul>\n<li>identifies words that state opinions (e.g. I think)</li>\n</ul>", "<ul>\n<li>understands the use of common idiomatic or colloquial language in texts (e.g. get your head around it)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ad0889e7-e176-4c92-b30e-d6ce20aa106b",
+        "name" : "LRUnT7",
+        "description" : [ "<ul>\n<li>reads and views predictable texts (see <em>Text complexity</em>)</li>\n</ul>", "<ul>\n<li>locates information or details embedded in the text</li>\n</ul>", "<ul>\n<li>identifies the main idea in a predictable text</li>\n</ul>", "<ul>\n<li>identifies the purpose of a broad range of informative, imaginative and persuasive texts (e.g. advertisements, diary entry)</li>\n</ul>", "<ul>\n<li>draws inferences and identifies supporting evidence in the text</li>\n</ul>", "<ul>\n<li>monitors the development of ideas using language and visual features (e.g. topic sentences, key verbs, graphs)</li>\n</ul>", "<ul>\n<li>recognises that texts can present different points of view</li>\n</ul>", "<ul>\n<li>distinguishes between fact and opinion in texts</li>\n</ul>", "<ul>\n<li>compares and contrasts texts on the same topic to identify how authors represent the same ideas differently</li>\n</ul>", "<ul>\n<li>integrates phonic knowledge, word recognition skills, grammatical and contextual knowledge to read predictable texts (see <em>Phonic knowledge and word recognition</em> and <em>Fluency</em>)</li>\n</ul>", "<ul>\n<li>identifies language and text features that signal purpose in a predictable text (e.g. diagrams, dialogue)</li>\n</ul>", "<ul>\n<li>uses strategies to predict and confirm meaning (e.g. uses sentence structure to predict how ideas will be developed)</li>\n</ul>", "<ul>\n<li>navigates texts using common signposting devices such as headings, subheadings, paragraphs, navigation bars and links</li>\n</ul>", "<ul>\n<li>interprets creative use of metaphor (e.g. figurative language, metaphor, simile, onomatopoeia)</li>\n</ul>", "<ul>\n<li>interprets unfamiliar words using grammatical knowledge, morphological knowledge and etymological knowledge</li>\n</ul>", "<ul>\n<li>describes the language and visual features of texts using metalanguage (e.g. grammatical terms such as cohesion, tense, noun groups)</li>\n</ul>", "<ul>\n<li>recognises how synonyms are used to enhance a text (e.g. transport, carry, transfer)</li>\n</ul>", "<ul>\n<li>draws on knowledge of word origin to work out meaning of discipline-specific terms (e.g. universe)</li>\n</ul>", "<ul>\n<li>recognises how evaluative and modal words are used to influence the reader (e.g. important, should, dirty)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/231c07b2-4f65-4685-a673-c837deb4835f",
+        "name" : "LRUnT8",
+        "description" : [ "<ul>\n<li>reads and views some moderately complex texts (see <em>Text complexity</em>)</li>\n</ul>", "<ul>\n<li>accurately retells a text including most relevant details</li>\n</ul>", "<ul>\n<li>identifies main idea and related or supporting ideas in moderately complex texts (see <em>Text complexity</em>)</li>\n</ul>", "<ul>\n<li>evaluates the accuracy within and across texts on the same topic</li>\n</ul>", "<ul>\n<li>explains how authors use evidence and supporting detail to build and verify ideas</li>\n</ul>", "<ul>\n<li>draws inferences and verifies using textual evidence</li>\n</ul>", "<ul>\n<li>monitors reading for meaning using grammatical and contextual knowledge (see <em>Fluency</em>)</li>\n</ul>", "<ul>\n<li>explains how textual features support the text’s purpose</li>\n</ul>", "<ul>\n<li>identifies and explains techniques used to present perspective (e.g. emotive or descriptive language, order in which ideas are presented)</li>\n</ul>", "<ul>\n<li>predicts the development of ideas based on a partial read (e.g. predicts the final chapter of a narrative drawing on understanding of the textual features in the previous chapters)</li>\n</ul>", "<ul>\n<li>uses prior knowledge and context to read unknown words (e.g. uses morphemic knowledge of ‘explosion’ to decode ‘explosive’ and uses context and knowledge of metaphorical use of language to understand ‘explosive outburst’.)</li>\n</ul>", "<ul>\n<li>uses knowledge of cohesive devices to track meaning throughout a text (e.g. connectives such as however, on the other hand) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses knowledge of the features and conventions of the type of text to build meaning (e.g. recognises that the beginning of a persuasive text may introduce the topic and the line of argument)</li>\n</ul>", "<ul>\n<li>identifies language features used to present opinions or points of view</li>\n</ul>", "<ul>\n<li>skims and scans texts for key words to track the development of ideas</li>\n</ul>", "<ul>\n<li>uses sophisticated punctuation to support meaning (e.g. commas to separate clauses in complex sentences)</li>\n</ul>", "<ul>\n<li>uses knowledge of prefixes and suffixes to read and interpret unfamiliar words</li>\n</ul>", "<ul>\n<li>identifies how technical and discipline-specific words develop meaning in texts</li>\n</ul>", "<ul>\n<li>analyses the effect of antonyms, synonyms and idiomatic language</li>\n</ul>", "<ul>\n<li>understands precise meaning of words with similar connotations (e.g. generous, kind-hearted, charitable)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b0633006-28a8-4bd7-bad8-d2c8a8ca8eba",
+        "name" : "LRUnT9",
+        "description" : [ "<ul>\n<li>reads and views complex texts (see <em>Text complexity</em>)</li>\n</ul>", "<ul>\n<li>identifies the main themes or concepts in complex texts by synthesising key ideas or information</li>\n</ul>", "<ul>\n<li>summarises the text identifying key details only</li>\n</ul>", "<ul>\n<li>draws inferences, synthesising clues and evidence across a text</li>\n</ul>", "<ul>\n<li>builds meaning by actively linking ideas from a number of texts or a range of digital sources</li>\n</ul>", "<ul>\n<li>distils information from a number of texts according to task and purpose (e.g. uses graphic organisers)</li>\n</ul>", "<ul>\n<li>identifies different interpretations of the text citing evidence from a text</li>\n</ul>", "<ul>\n<li>evaluates text features for relevance to purpose and audience</li>\n</ul>", "<ul>\n<li>analyses texts which have more than one purpose and explains how parts of the text support a particular purpose</li>\n</ul>", "<ul>\n<li>analyses the use of language appropriate to different types of texts (e.g. compare the use of pun in imaginative and persuasive texts)</li>\n</ul>", "<ul>\n<li>identifies techniques used to obscure author’s purpose (e.g. inclusion or omission of content)</li>\n</ul>", "<ul>\n<li>uses processes such as predicting, confirming predictions, monitoring, and connecting relevant elements of the text to build or repair meaning</li>\n</ul>", "<ul>\n<li>uses knowledge of a broader range of cohesive devices to track meaning (e.g. word associations) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>selects reading/viewing strategies appropriate to reading purpose (e.g. scans text for evidence)</li>\n</ul>", "<ul>\n<li>judiciously selects texts for learning area tasks and purposes</li>\n</ul>", "<ul>\n<li>identifies language used to create tone or atmosphere</li>\n</ul>", "<ul>\n<li>analyses language and visual features in texts using metalanguage (e.g. cohesion, interpretation, figurative)</li>\n</ul>", "<ul>\n<li>applies knowledge of root words and word origins to understand the meaning of unfamiliar, discipline-specific words</li>\n</ul>", "<ul>\n<li>uses a range of context and grammatical cues to understand unfamiliar words</li>\n</ul>", "<ul>\n<li>interprets complex figurative language (e.g. euphemisms, hyperbole)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6b57d8c7-e895-434c-aa8b-29390a71bc22",
+        "name" : "LRUnT10",
+        "description" : [ "<ul>\n<li>reads and views complex or some highly complex texts (see <em>Text complexity</em>)</li>\n</ul>", "<ul>\n<li>interprets abstract concepts integrating complex ideas</li>\n</ul>", "<ul>\n<li>analyses how text features are used to support or conflate the point of view in the text (e.g. the strategic use of images such as a cartoon in an editorial)</li>\n</ul>", "<ul>\n<li>draws inferences using evidence from the text and discounting possible inferences that are not supported by the text</li>\n</ul>", "<ul>\n<li>applies and articulates criteria to evaluate the language structures and features for relevance to purpose and audience</li>\n</ul>", "<ul>\n<li>evaluates the reasoning and evidence in a persuasive text</li>\n</ul>", "<ul>\n<li>explains how context (e.g. time, place, situation) influences interpretations of a text</li>\n</ul>", "<ul>\n<li>analyses the author’s perspectives in complex or some highly complex texts</li>\n</ul>", "<ul>\n<li>analyses the techniques authors use to position readers</li>\n</ul>", "<ul>\n<li>recognises when ideas or evidence have been omitted from a text to position the reader</li>\n</ul>", "<ul>\n<li>integrates automatically a range of processes such as predicting, confirming predictions, monitoring, and connecting relevant elements of the text to build meaning</li>\n</ul>", "<ul>\n<li>describes how sophisticated cohesive devices establish patterns of meaning (e.g. class - subclass)</li>\n</ul>", "<ul>\n<li>navigates extended texts including complex digital texts</li>\n</ul>", "<ul>\n<li>demonstrates an understanding of nuances and subtleties in words of similar meaning (e.g. frustrated, discouraged, baffled)</li>\n</ul>", "<ul>\n<li>verifies interpretations of unfamiliar words using grammatical and contextual cues</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3ced5c92-a15e-4768-8ecc-72f9a442bdfc",
+        "name" : "LRUnT11",
+        "description" : [ "<ul>\n<li>reads and views highly complex texts (see <em>Text complexity</em>)</li>\n</ul>", "<ul>\n<li>interprets symbolism in texts, providing evidence to justify interpretation</li>\n</ul>", "<ul>\n<li>judiciously selects and synthesises evidence from multiple texts to support ideas and arguments</li>\n</ul>", "<ul>\n<li>analyses the credibility and validity of primary and secondary sources</li>\n</ul>", "<ul>\n<li>evaluates the use of devices such as analogy, irony, rhetoric and satire and how they contribute to author’s individual style</li>\n</ul>", "<ul>\n<li>analyses the cumulative impact of use of language features and vocabulary across texts</li>\n</ul>", "<ul>\n<li>explains assumptions, beliefs and implicit values in texts (e.g. economic growth is always desirable)</li>\n</ul>", "<ul>\n<li>evaluates the social, moral and ethical positions taken in texts</li>\n</ul>", "<ul>\n<li>strategically adjusts the processes of reading and viewing to build meaning according to the demands of tasks and texts</li>\n</ul>", "<ul>\n<li>identifies subtle contradictions and inconsistencies in texts</li>\n</ul>", "<ul>\n<li>interprets complex, formal and impersonal language in academic texts</li>\n</ul>", "<ul>\n<li>uses lexical cues to interpret unfamiliar vocabulary</li>\n</ul>", "<ul>\n<li>demonstrates self-reliance in exploration and application of word learning strategies</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    } ]
+  }, {
+    "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/01e15047-6553-4e94-9e24-33f01cfa7231",
+    "name" : "Writing",
+    "description" : [ ],
+    "children" : [ {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/608097d3-26bb-4c1e-b820-db5f81fc4b94",
+      "name" : "Creating texts",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e2a92800-26cd-4202-91ff-43fd4c3a2cae",
+        "name" : "LWECC1a",
+        "description" : [ "<ul>\n<li>uses informal responses such as vocalising, turning, moving, smiling or touching to indicate a single message with familiar people in familiar environment (e.g. touches a target object in response to a question or directive)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fd753b09-f4e6-4d5e-a791-fd29defd0b71",
+        "name" : "LWECC1b",
+        "description" : [ "<ul>\n<li>uses conventional behaviours or concrete symbols to communicate intentionally with familiar people in different contexts (e.g. single words, gestures, pictorial representations)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d0090262-d4cf-4b12-a5f7-88ce0877ed2b",
+        "name" : "LWCrT1",
+        "description" : [ "<ul>\n<li>conveys messages through actions or talk (see <em>Speaking</em>)</li>\n</ul>", "<ul>\n<li>shares ideas using icons and images</li>\n</ul>", "<ul>\n<li>acts out texts through play</li>\n</ul>", "<ul>\n<li>observes others writing with interest and attention (e.g. asks what the writing is for and what it says) (see <em>Speaking</em>)</li>\n</ul>", "<ul>\n<li>intentionally creates letter-like shapes or strings, experimenting with forms and shapes (e.g. horizontal and vertical lines, and/or circular shapes)</li>\n</ul>", "<ul>\n<li>draws pictures and shapes to make meaning</li>\n</ul>", "<ul>\n<li>asks about words used in the environment (e.g. signs, labels, titles, names, captions)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9c2ff46f-b38a-4bdf-9bf9-34328391bebc",
+        "name" : "LWCrT2",
+        "description" : [ "<ul>\n<li>composes emergent texts for specific purposes (e.g. creates a birthday card)</li>\n</ul>", "<ul>\n<li>articulates or draws ideas for writing (see <em>Speaking</em>)</li>\n</ul>", "<ul>\n<li>dictates a text to a scribe</li>\n</ul>", "<ul>\n<li>differentiates between drawing and writing</li>\n</ul>", "<ul>\n<li>describes reasons for writing</li>\n</ul>", "<ul>\n<li>assigns messages to own texts (e.g. ‘reads’ back own play writing, but with varying meanings)</li>\n</ul>", "<ul>\n<li>writes some recognisable letters (e.g. one or two letters of own name)</li>\n</ul>", "<ul>\n<li>identifies symbols/letters and words written or drawn with prompting (see <em>Phonic knowledge and word recognition</em>)</li>\n</ul>", "<ul>\n<li>searches for and sometimes copies words of personal significance found in written texts or in the environment</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c0cbbd40-7730-45c2-8efb-1f4755e4600d",
+        "name" : "LWCrT3",
+        "description" : [ "<ul>\n<li>expresses an idea drawing on familiar experiences and topics using attempted words and pictures</li>\n</ul>", "<ul>\n<li>assigns message to own texts ‘reading back’ own attempts at writing</li>\n</ul>", "<ul>\n<li>writes attempted words in a logical sequence</li>\n</ul>", "<ul>\n<li>writes a few words correctly</li>\n</ul>", "<ul>\n<li>writes from left to right</li>\n</ul>", "<ul>\n<li>writes letters to represent words (see <em>Phonic knowledge and word recognition</em>)</li>\n</ul>", "<ul>\n<li>writes own name and other personally significant words (e.g. family names, dog, house)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b9ab1367-56fe-4134-a365-1df411346d8d",
+        "name" : "LWCrT4",
+        "description" : [ "<ul>\n<li>includes one or more ideas which are not necessarily related, using sentence fragments (e.g. labels a drawing)</li>\n</ul>", "<ul>\n<li>explains the purpose and audience of familiar imaginative and informative texts</li>\n</ul>", "<ul>\n<li>creates short texts in different forms such as a simple recount</li>\n</ul>", "<ul>\n<li>combines visuals with written text where appropriate</li>\n</ul>", "<ul>\n<li>reads back own writing word by word</li>\n</ul>", "<ul>\n<li>talks about own text and describes subject matter and images</li>\n</ul>", "<ul>\n<li>writes some appropriate letter combinations to represent less familiar words (see <em>Spelling</em> and <em>Phonic knowledge and word recognition</em>)</li>\n</ul>", "<ul>\n<li>writes with noun-verb agreement (e.g. I am), articles (e.g. a man) and personal pronouns (e.g. my mum) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>writes from left to right using spaces between attempted words</li>\n</ul>", "<ul>\n<li>uses basic noun groups (e.g. my house) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses some sentence punctuation (e.g. capital letters at the beginning of a text)</li>\n</ul>", "<ul>\n<li>writes simple familiar words (e.g. saw, food, they)</li>\n</ul>", "<ul>\n<li>includes some learning area vocabulary in own texts (e.g. season)</li>\n</ul>", "<ul>\n<li>uses taught high frequency words</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fdfd7cbe-3afd-4636-b190-c7a8191d05e9",
+        "name" : "LWCrT5",
+        "description" : [ "<ul>\n<li>creates a text including two or three related ideas for a familiar purpose such as recounting an event, telling a story, expressing thoughts, feelings and opinions</li>\n</ul>", "<ul>\n<li>includes beginning structural features (e.g. statement of an opinion, a heading, description of an event linked to time and place)</li>\n</ul>", "<ul>\n<li>creates texts for learning area purposes (e.g. labelling a simple diagram, ordering events on a timeline)</li>\n</ul>", "<ul>\n<li>writes simple sentences made up of basic verb groups, noun groups and phrases (e.g. we visited my aunty’s house last week)</li>\n</ul>", "<ul>\n<li>writes compound sentences using common conjunctions (e.g. my house is big but the garden is small)</li>\n</ul>", "<ul>\n<li>makes plausible attempts to write unfamiliar words phonetically (e.g. enjn for engine) (see <em>Spelling</em>)</li>\n</ul>", "<ul>\n<li>uses capital letters correctly to indicate proper nouns (see <em>Punctuation</em>)</li>\n</ul>", "<ul>\n<li>uses capital letters at the start and full stops at the end of sentences (see <em>Punctuation</em>)</li>\n</ul>", "<ul>\n<li>spells some high-frequency words correctly (see <em>Spelling</em>)</li>\n</ul>", "<ul>\n<li>uses appropriate key words to represent simple concepts (e.g. aunty, sister, cousin in a text about family)</li>\n</ul>", "<ul>\n<li>uses adjectives to add meaning by describing qualities or features (e.g. small, long, red) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses words in own writing adopted from other writers</li>\n</ul>", "<ul>\n<li>uses simple words to add clarity to ideas (e.g. modifying and qualifying words such as ‘very’)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ef48b4c5-6cf7-4a5c-9a46-610db94937c4",
+        "name" : "LWCrT6",
+        "description" : [ "<ul>\n<li>creates texts for a range of purposes such as observing and describing, providing reasons, expressing thoughts and feelings about a topic</li>\n</ul>", "<ul>\n<li>includes four or more simply stated and clearly connected ideas (e.g. introduces a topic and includes one or two facts; states an opinion with a reason; gives a recount of an event)</li>\n</ul>", "<ul>\n<li>includes a simple introduction to orient the reader (e.g. states a fact to introduce a report; states an opinion to introduce an argument; introduces a character to begin a narrative)</li>\n</ul>", "<ul>\n<li>writes ideas appropriate to a task or topic in sequenced sentences (e.g. writes informative texts with all the facts related to the topic)</li>\n</ul>", "<ul>\n<li>selects and discards ideas to make texts suitable for familiar audiences and purposes</li>\n</ul>", "<ul>\n<li>writes simple, compound and some complex sentences related to a topic using a broader range of conjunctions (e.g. and, but, so, because, when) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>maintains tense within a sentence (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>selects images to complement writing</li>\n</ul>", "<ul>\n<li>spells many high-frequency words correctly (see <em>Spelling</em>)</li>\n</ul>", "<ul>\n<li>uses sentence punctuation correctly (e.g. !, ?) (see <em>Punctuation</em>)</li>\n</ul>", "<ul>\n<li>uses noun groups to add detail (e.g. the tomato plant in the pot) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses a range of simple cohesive devices such as pronoun referencing and sequencing connectives</li>\n</ul>", "<ul>\n<li>uses adverbs to give precise meaning to verbs (e.g. talking loudly) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses a range of qualifying words (e.g. every day; action movie)</li>\n</ul>", "<ul>\n<li>selects more specific adjectives (e.g. giant for tall; golden for yellow)</li>\n</ul>", "<ul>\n<li>uses learning area topic vocabulary (e.g. natural)</li>\n</ul>", "<ul>\n<li>uses common homophones correctly (e.g. two, too, to)</li>\n</ul>", "<ul>\n<li>uses common idiomatic and colloquial phrases (e.g. a piece of cake)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e4b9cab7-5b6b-4316-b719-ffdbc8e41dfa",
+        "name" : "LWCrT7",
+        "description" : [ "<ul>\n<li>creates informative, imaginative and persuasive texts for a range of learning area purposes, such as to recount a sequence of events; to describe a person, thing or process; to explain a process; to argue with evidence or reasons; to express emotions</li>\n</ul>", "<ul>\n<li>includes learnt ideas on a range of topics from learning areas</li>\n</ul>", "<ul>\n<li>stages text using typical or familiar features such as an introduction and body paragraphs</li>\n</ul>", "<ul>\n<li>supports ideas with some detail and elaboration (e.g. expands on a topic sentence by adding more details in following sentences)</li>\n</ul>", "<ul>\n<li>uses sources to support ideas (e.g. introduces ideas from a shared text to add detail and engage the reader)</li>\n</ul>", "<ul>\n<li>writes a range of compound and complex sentences (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses pronouns correctly to link to an object or person across the text (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses images to reinforce ideas in written text</li>\n</ul>", "<ul>\n<li>maintains consistent tense within and between sentences (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>groups sentences on related ideas into simple paragraphs</li>\n</ul>", "<ul>\n<li>uses cohesive vocabulary to indicate order, cause and effect (e.g. uses text connectives such as next, since)</li>\n</ul>", "<ul>\n<li>correctly spells some words with irregular spelling patterns (e.g. cough) (see <em>Spelling</em>)</li>\n</ul>", "<ul>\n<li>applies learnt spelling generalisations</li>\n</ul>", "<ul>\n<li>accurately spells high-frequency words (see <em>Spelling</em>)</li>\n</ul>", "<ul>\n<li>consistently uses correct simple punctuation (e.g. uses commas in a list) (see <em>Punctuation</em>)</li>\n</ul>", "<ul>\n<li>uses expressive words to describe action and affect the reader (e.g. tiptoed, instead of walked)</li>\n</ul>", "<ul>\n<li>uses creative wordplay to affect the reader (e.g. repetition, alliteration)</li>\n</ul>", "<ul>\n<li>uses synonyms to replace common and generic words and avoid repetition across a text (e.g. thrilled for excited)</li>\n</ul>", "<ul>\n<li>uses a range of learning area topic words (e.g. environment, equipment)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2f991042-0c27-4cc4-9bff-8c68418f3450",
+        "name" : "LWCrT8",
+        "description" : [ "<ul>\n<li>uses tense with variable accuracy throughout the text (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>consistently writes sentences correctly and uses a greater range of complex sentences (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses a variety of sentence structures and sentence beginnings</li>\n</ul>", "<ul>\n<li>spells some complex words with complex letter patterns correctly (e.g. correctly adds prefixes and suffixes to base words) (see <em>Spelling</em>)</li>\n</ul>", "<ul>\n<li>uses all sentence punctuation, simple punctuation and some complex punctuation correctly (e.g. uses commas to separate clauses) (see <em>Punctuation</em>)</li>\n</ul>", "<ul>\n<li>uses articles accurately (e.g. a, an, the) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses adverbial phrases to support the staging of the text (e.g. before lunch, after midnight)</li>\n</ul>" ],
+        "children" : [ {
+          "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8018aafb-6bde-4b32-a127-dfaae5d9b869",
+          "name" : "Informative text indicators",
+          "description" : [ ],
+          "children" : [ {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/08703a0f-d22a-4cf5-bf54-76c439133011",
+            "name" : "LWCrT8.5",
+            "description" : [ "<ul>\n<li>creates informative texts for a broader range of learning area purposes (e.g. explains a life cycle of a butterfly, recounts a process, describes an artwork)</li>\n</ul>", "<ul>\n<li>includes structural features appropriate to the type of text and task such as opening statements to define the topic and at least two body paragraphs</li>\n</ul>", "<ul>\n<li>includes ideas which are relevant to the topic and purpose of the text</li>\n</ul>", "<ul>\n<li>organises information into paragraphs to support the reader</li>\n</ul>", "<ul>\n<li>includes a relevant graphic to support the reader (e.g. diagram or photo)</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2a778913-238e-4e38-b25f-5cdd23b1eceb",
+            "name" : "LWCrT8.9",
+            "description" : [ "<ul>\n<li>uses cohesive devices to signpost sections of text (e.g. uses text connectives such as finally, as a result, in addition)</li>\n</ul>", "<ul>\n<li>uses present or timeless present tense consistently throughout text (e.g. bears hibernate in winter) (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>selects visual and audio features to expand ideas in written texts (e.g. diagrams, tables, images)</li>\n</ul>", "<ul>\n<li>uses adjectives to create more accurate description (e.g. the warm-blooded mammal) (see <em>Grammar</em>)</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/afd2b52d-e182-4d0c-828c-856e7885b054",
+            "name" : "LWCrT8.10",
+            "description" : [ "<ul>\n<li>uses a range of technical and subject specific words to add detail and authority to information (e.g. hibernate instead of sleep)</li>\n</ul>" ],
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a3d58eb9-7267-465a-b9a1-1ff1ada17b81",
+          "name" : "Persuasive text indicators",
+          "description" : [ ],
+          "children" : [ {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6af9942b-3683-4975-9320-d85eb524c289",
+            "name" : "LWCrT8.16",
+            "description" : [ "<ul>\n<li>creates persuasive texts for a broader range of learning area purposes (e.g. designs a healthy food campaign)</li>\n</ul>", "<ul>\n<li>includes structural features appropriate to the type of text and task such as an introduction with a statement of position, body paragraphs and simple conclusion</li>\n</ul>", "<ul>\n<li>presents a position and supports it with one or a few simply stated arguments</li>\n</ul>", "<ul>\n<li>includes arguments and ideas which are relevant to the purpose of the text</li>\n</ul>", "<ul>\n<li>organises arguments into paragraphs to support the reader</li>\n</ul>", "<ul>\n<li>concludes by restating</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b627af6b-678b-4a12-a0e7-a83affb88e66",
+            "name" : "LWCrT8.22",
+            "description" : [ "<ul>\n<li>uses cohesive devices to link points in an argument (e.g. uses text connectives such as however, on the other hand)</li>\n</ul>", "<ul>\n<li>uses some rhetorical devices such as repetition</li>\n</ul>", "<ul>\n<li>uses adjectives to persuade (e.g. dangerous behaviour)</li>\n</ul>", "<ul>\n<li>uses simple modal verbs and adverbs (e.g. should, will, quickly)</li>\n</ul>", "<ul>\n<li>selects visual and audio features to expand argument in written texts (e.g. images, music)</li>\n</ul>", "<ul>\n<li>uses inclusive language (e.g. we cannot allow this to happen)</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d499407c-3d12-40b0-84b5-e0066cd412e0",
+            "name" : "LWCrT8.23",
+            "description" : [ "<ul>\n<li>uses a range of learnt topic words to add credibility to arguments</li>\n</ul>" ],
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d99d3d82-6cf4-4b65-82d7-f20aa3da51ad",
+          "name" : "Imaginative text indicators",
+          "description" : [ ],
+          "children" : [ {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4ad6a79b-ac66-4974-8179-b69cfe89c8d5",
+            "name" : "LWCrT8.27",
+            "description" : [ "<ul>\n<li>creates imaginative texts for a broader range of learning area purposes (e.g. narrates a historical event)</li>\n</ul>", "<ul>\n<li>includes structural features appropriate to the type of text such as orientation, complication and resolution</li>\n</ul>", "<ul>\n<li>includes ideas which are relevant to the purpose of the text (e.g. includes ideas to develop simple narrative theme of good and evil)</li>\n</ul>", "<ul>\n<li>organises events into a sequence with a predictable ending</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/73f7adec-1955-4501-ad73-041f49351c1c",
+            "name" : "LWCrT8.33",
+            "description" : [ "<ul>\n<li>uses cohesive devices to link ideas (e.g. uses word associations such as repetition, synonyms and antonyms)</li>\n</ul>", "<ul>\n<li>uses pronouns to track multiple characters (<em>e.g. Peter and Leanne … he … they … she … them</em>)</li>\n</ul>", "<ul>\n<li>maintains a point of view (e.g. writes predominantly in first person)</li>\n</ul>", "<ul>\n<li>uses complex noun group adjectives to create more accurate description (e.g. that tangy, lemon-scented aroma)</li>\n</ul>", "<ul>\n<li>selects visual and audio features to expand ideas in written texts (e.g. matches images to points in a text)</li>\n</ul>", "<ul>\n<li>uses simple figurative devices (e.g. simile)</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a707cdca-0796-464b-9412-7e8d706d8349",
+            "name" : "LWCrT8.34",
+            "description" : [ "<ul>\n<li>uses a range of learnt topic words and words from other authors</li>\n</ul>" ],
+            "children" : [ ]
+          } ]
+        } ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e0cf26be-b1e8-4397-8a2d-ee48cf36156a",
+        "name" : "LWCrT9",
+        "description" : [ "<ul>\n<li>maintains appropriate tense throughout the text (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>uses a range of sentences including correctly structured complex sentences (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>spells simple, most complex and some challenging words correctly (see <em>Spelling</em>)</li>\n</ul>", "<ul>\n<li>uses all simple and complex punctuation correctly (e.g. semi colons) apostrophes of possession) (see <em>Punctuation</em>)</li>\n</ul>", "<ul>\n<li>writes cohesive paragraphs that develop one main idea</li>\n</ul>" ],
+        "children" : [ {
+          "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6707ac43-fb12-4879-8017-feb1edc00420",
+          "name" : "Informative text indicators",
+          "description" : [ ],
+          "children" : [ {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f9db3940-24f5-437d-b231-e2600a9d4c13",
+            "name" : "LWCrT9.6",
+            "description" : [ "<ul>\n<li>creates informative texts that describe, explain and document (e.g. describe an artwork, document the materials and explain why it was created)</li>\n</ul>", "<ul>\n<li>selects structural elements to comprehensively and accurately represent the information (e.g. a fact sheet includes an opening statement, labelled diagrams and text boxes)</li>\n</ul>", "<ul>\n<li>orients the reader to the topic or concept using a definition or classification</li>\n</ul>", "<ul>\n<li>develops ideas with details and examples</li>\n</ul>", "<ul>\n<li>uses ideas derived from research</li>\n</ul>", "<ul>\n<li>uses written and visual supporting evidence</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a03801be-7291-42b0-a959-aff8e06d07bd",
+            "name" : "LWCrT9.11",
+            "description" : [ "<ul>\n<li>uses cohesive devices to link concepts across texts (e.g. uses lexical cohesion such as word associations and synonyms)</li>\n</ul>", "<ul>\n<li>uses cohesive devices to express cause and effect (e.g. uses text connectives such as therefore, subsequently)</li>\n</ul>", "<ul>\n<li>includes salient visual and audio features to expand on written information (e.g. creates graphs and other technical diagrams from authentic data)</li>\n</ul>", "<ul>\n<li>uses language to compare (e.g. alternatively, whereas)</li>\n</ul>", "<ul>\n<li>uses formatting appropriately to reference and label graphics</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b9397cca-2914-41d6-9b87-fff9545e524c",
+            "name" : "LWCrT9.13",
+            "description" : [ "<ul>\n<li>uses a range of learnt, technical and discipline-specific terms (e.g. adapt, survive)</li>\n</ul>", "<ul>\n<li>uses more sophisticated words to express cause and effect (e.g. therefore, subsequently)</li>\n</ul>" ],
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3fe905e4-7945-41ba-9e5d-37d1a3579036",
+          "name" : "Persuasive text indicators",
+          "description" : [ ],
+          "children" : [ {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/297758dd-e363-444a-9df3-0a231ae0eeb5",
+            "name" : "LWCrT9.19",
+            "description" : [ "<ul>\n<li>creates persuasive texts that take a position and supports it with arguments (e.g. examines the benefits of physical activity to health and wellbeing)</li>\n</ul>", "<ul>\n<li>selects structural elements to suit the purpose (e.g. introduces an argument with a clearly articulated statement of position)</li>\n</ul>", "<ul>\n<li>includes two or more elaborated arguments</li>\n</ul>", "<ul>\n<li>develops a clear persuasive line through inclusion of a number of arguments with supporting points</li>\n</ul>", "<ul>\n<li>orients the reader to the persuasive premise</li>\n</ul>", "<ul>\n<li>concludes by synthesising the arguments</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2c47163a-3266-4274-b1ad-fa5f0f9bc5ab",
+            "name" : "LWCrT9.23",
+            "description" : [ "<ul>\n<li>uses cohesive devices to link arguments, evidence and reasons (e.g. uses text connectives such as therefore, furthermore)</li>\n</ul>", "<ul>\n<li>includes salient visual and audio features to complement written ideas</li>\n</ul>", "<ul>\n<li>uses vocabulary to position the reader (e.g. precise nouns and adjectives)</li>\n</ul>", "<ul>\n<li>uses a broader range of modal verbs and adverbs (e.g. definitely)</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5788c815-f698-44ae-95fd-9b8d5741cc6b",
+            "name" : "LWCrT9.26",
+            "description" : [ "<ul>\n<li>uses words to express cause and effect (e.g. consequently, thus)</li>\n</ul>", "<ul>\n<li>selects vocabulary to persuade (e.g. uses words to introduce an argument such as obviously)</li>\n</ul>", "<ul>\n<li>uses technical and topic specific words to add authority (e.g. innovative design, solution)</li>\n</ul>" ],
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/cee5e4ec-9712-4122-bff7-61f72147f18e",
+          "name" : "Imaginative text indicators",
+          "description" : [ ],
+          "children" : [ {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/086ca480-2894-43fb-be0c-915a03480095",
+            "name" : "LWCrT9.32",
+            "description" : [ "<ul>\n<li>creates imaginative texts that experiment with textual features (e.g. reinterprets or creates alternative versions of songs or stories)</li>\n</ul>", "<ul>\n<li>selects structural elements to suit the purpose (e.g. uses a series of events to build a complication, includes an ending that resolves the complication)</li>\n</ul>", "<ul>\n<li>uses ideas that support a less familiar underpinning theme or concept (e.g. survival or heroism)</li>\n</ul>", "<ul>\n<li>uses actions and events to develop the character</li>\n</ul>", "<ul>\n<li>orients the reader to the imaginary premise (e.g. character/s and situation and may pre-empt the conclusion)</li>\n</ul>", "<ul>\n<li>creates a cohesive text by integrating narrative elements (e.g. character, setting and events)</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7fa60aff-fe68-4094-b155-125c308c6812",
+            "name" : "LWCrT9.37",
+            "description" : [ "<ul>\n<li>uses cohesive devices to develop ideas across the text (e.g. uses lexical cohesion such as word associations and synonyms</li>\n</ul>", "<ul>\n<li>includes salient visual and audio features to enhance the text</li>\n</ul>", "<ul>\n<li>intentionally tightens a text by leaving out words that can be readily inferred from the context (e.g. Kokou must be hungry. But he was not [hungry])</li>\n</ul>", "<ul>\n<li>selects a point of view appropriate to the purpose and audience</li>\n</ul>", "<ul>\n<li>uses figurative devices such as personification and metaphor (e.g. the fairy lights danced along the street)</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b8576f23-c356-4ff5-82b0-98ba3e5ee4ea",
+            "name" : "LWCrT9.40",
+            "description" : [ "<ul>\n<li>uses vivid and less predictable vocabulary to affect the reader (e.g. stroll, prowl for walk)</li>\n</ul>", "<ul>\n<li>uses words to create imagery (e.g. the wind whistled and swirled around her)</li>\n</ul>", "<ul>\n<li>uses vocabulary to evoke humour (e.g. pun)</li>\n</ul>" ],
+            "children" : [ ]
+          } ]
+        } ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fbd24db4-a5ce-464e-a65b-3e60dd4108c8",
+        "name" : "LWCrT10",
+        "description" : [ "<ul>\n<li>organises related information and ideas into paragraphs/sections</li>\n</ul>", "<ul>\n<li>uses a range of complex punctuation flexibly and correctly to pace and control the reading of a text (see <em>Punctuation</em>)</li>\n</ul>", "<ul>\n<li>spells complex and most challenging words correctly (see <em>Spelling</em>)</li>\n</ul>", "<ul>\n<li>uses a range of sentence types for effect</li>\n</ul>" ],
+        "children" : [ {
+          "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4cfc4d1e-00e7-42d9-ac5a-2867e5636f71",
+          "name" : "Informative text indicators",
+          "description" : [ ],
+          "children" : [ {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3f8c27db-aa61-4fae-a4c5-860ac63c63cc",
+            "name" : "LWCrT10.5",
+            "description" : [ "<ul>\n<li>creates informative texts to explain and analyse (e.g. analyses how artists use visual conventions in artworks)</li>\n</ul>", "<ul>\n<li>creates texts to compare and contrast phenomena (e.g. identify the similarities and differences between species of animals)</li>\n</ul>", "<ul>\n<li>orients the reader clearly to the topic or concept (e.g. using a definition or classification in the opening paragraph)</li>\n</ul>", "<ul>\n<li>intentionally selects structural elements for effect (e.g. includes an effective conclusion that synthesises complex ideas)</li>\n</ul>", "<ul>\n<li>uses evidence and research including digital resources to expand upon information and elaborate concepts</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4ad1699d-ebee-4037-bfa8-f978bf0c6419",
+            "name" : "LWCrT10.10",
+            "description" : [ "<ul>\n<li>varies sentence structure for effect (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>judiciously uses language, visual and audio features to emotionally or intellectually affect the reader</li>\n</ul>", "<ul>\n<li>uses more elaborate noun groups that include classifying adjectives and specific nouns (e.g. mineral component of sedimentary rocks)</li>\n</ul>", "<ul>\n<li>creates cohesive flow by condensing previous information into a summarising noun (e.g. a series of tumultuous events culminated in the outbreak of WWI - modern history’s turning point)</li>\n</ul>", "<ul>\n<li>uses passive voice and nominalisation to write succinctly (e.g. the results were analysed) (see <em>Grammar</em>)</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/79359550-83dc-4a7a-936b-c505c8488d8d",
+            "name" : "LWCrT10.13",
+            "description" : [ "<ul>\n<li>uses discipline-specific terminology to provide accurate and explicit information (e.g. discipline metalanguage)</li>\n</ul>", "<ul>\n<li>uses a range of synonyms for frequently occurring words, in a longer text (e.g. repair, fix, remedy)</li>\n</ul>", "<ul>\n<li>uses vocabulary to indicate and describe relationships (e.g. additionally, similarly)</li>\n</ul>" ],
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3ce3c7ae-97c5-4219-af3d-efdaa0fbadf2",
+          "name" : "Persuasive text indicators",
+          "description" : [ ],
+          "children" : [ {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/96446efc-a2c6-4354-8e3b-16a979f65f35",
+            "name" : "LWCrT10.18",
+            "description" : [ "<ul>\n<li>creates persuasive texts to discuss, evaluate and review (e.g. evaluates and reviews design ideas)</li>\n</ul>", "<ul>\n<li>includes persuasive points with effective elaborations and supporting evidence</li>\n</ul>", "<ul>\n<li>intentionally selects structural elements for effect (e.g. includes an appropriate conclusion that sums up, recommends or reiterates)</li>\n</ul>", "<ul>\n<li>includes counter argument or refutation if appropriate</li>\n</ul>", "<ul>\n<li>uses evidence and research including digital resources to expand upon information and elaborate concepts</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fadce101-31bc-43a1-8c49-884d3695789a",
+            "name" : "LWCrT10.24",
+            "description" : [ "<ul>\n<li>uses rhetorical devices such as rhetorical questions</li>\n</ul>", "<ul>\n<li>varies sentence structure for effect (see <em>Grammar</em>)</li>\n</ul>", "<ul>\n<li>judiciously uses language, visual and audio features to emotionally or intellectually affect the audience</li>\n</ul>", "<ul>\n<li>skilfully uses a range of cohesive devices to make connections between arguments (e.g. foreshadows key points in introduction and reinforces key points in topic sentences)</li>\n</ul>", "<ul>\n<li>judiciously selects evidence and language to strengthen arguments</li>\n</ul>", "<ul>\n<li>uses passive voice and nominalisation strategically to avoid stating the actor in the sentence (e.g. an expectation of failure became common)</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5bb76554-2373-416b-8216-72404c53386c",
+            "name" : "LWCrT10.28",
+            "description" : [ "<ul>\n<li>uses a range of synonyms for frequently occurring words, in a longer text (e.g. impact, consequence, result)</li>\n</ul>", "<ul>\n<li>uses topic-specific vocabulary to add credibility and weight to arguments (e.g. cadence, interplanetary, silt)</li>\n</ul>", "<ul>\n<li>uses language that evokes an emotional response (e.g. although they faced relentless opposition, the netballers triumphed)</li>\n</ul>", "<ul>\n<li>uses words that create connotations (e.g. miserly, frugal)</li>\n</ul>" ],
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5910417c-1527-40da-9676-abc7ef3bb898",
+          "name" : "Imaginative text indicators",
+          "description" : [ ],
+          "children" : [ {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/75402205-1da0-4f17-83db-9e62e63fbd23",
+            "name" : "LWCrT10.34",
+            "description" : [ "<ul>\n<li>creates imaginative texts with less predictable features to emotionally and intellectually engage the reader (e.g. writes to convey character perspective)</li>\n</ul>", "<ul>\n<li>includes relevant, rich, evocative description</li>\n</ul>", "<ul>\n<li>uses literary techniques such as dialogue and vivid description, to carry the plot, develop character and create a sense of place and atmosphere</li>\n</ul>", "<ul>\n<li>intentionally selects structural features (e.g. includes an unpredictable ending or circular plot)</li>\n</ul>", "<ul>\n<li>generates, selects and crafts ideas to support a theme</li>\n</ul>", "<ul>\n<li>selects text form or type to effectively support ideas (e.g. adventure story, short video which provides a fictional perspective on a real event)</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f94e4a65-1c68-4618-8da2-cc07577056a9",
+            "name" : "LWCrT10.38",
+            "description" : [ "<ul>\n<li>uses language features to engage reader (e.g. uses sensory imagery to build atmosphere)</li>\n</ul>", "<ul>\n<li>uses a range of figurative devices to effectively impact the reader (e.g. well-crafted metaphor)</li>\n</ul>", "<ul>\n<li>includes visual and audio resources to evoke mood or atmosphere of text</li>\n</ul>", "<ul>\n<li>varies sentence structure for effect (see <em>Grammar</em>)</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0077ab86-e4b9-4fbe-bac5-4ba871721262",
+            "name" : "LWCrT10.40",
+            "description" : [ "<ul>\n<li>uses words that create connotations (e.g. startled, dismayed)</li>\n</ul>", "<ul>\n<li>uses language that evokes an emotional response (e.g. a piercing scream echoed through the valley)</li>\n</ul>" ],
+            "children" : [ ]
+          } ]
+        } ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/37c30e58-7e7c-4362-9bdf-e15e54fbd9a4",
+        "name" : "LWCrT11",
+        "description" : [ "<ul>\n<li>spells a range of challenging words correctly (see <em>Spelling</em>)</li>\n</ul>" ],
+        "children" : [ {
+          "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b800ba40-1160-4d1c-9560-aaf6585024ea",
+          "name" : "Informative text indicators",
+          "description" : [ ],
+          "children" : [ {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b54bd027-02f8-4f59-a487-171ead0535dd",
+            "name" : "LWCrT11.5",
+            "description" : [ "<ul>\n<li>creates sustained, informative texts that precisely explain, analyse and evaluate concepts or abstract entities</li>\n</ul>", "<ul>\n<li>uses structural features flexibly to organise ideas strategically (e.g. includes a defined, cogent conclusion /summation)</li>\n</ul>", "<ul>\n<li>creates texts with forms and features combined strategically for purpose (e.g. describes a historical event from the perspective of a secondary source)</li>\n</ul>", "<ul>\n<li>uses evidence and references</li>\n</ul>", "<ul>\n<li>creates succinct short-answer explanatory texts as well as complex, multi-staged extended texts</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ed030b76-d39f-45c6-9f79-f7248363b47c",
+            "name" : "LWCrT11.7",
+            "description" : [ "<ul>\n<li>maintains tone appropriate to the audience</li>\n</ul>", "<ul>\n<li>uses extended noun groups including adjectival phrases (e.g. a sturdy construction with modern design features) (see <em>Grammar</em>)</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4e99bfda-754a-4591-9d03-e0ba920409d3",
+            "name" : "LWCrT11.8",
+            "description" : [ "<ul>\n<li>uses complex abstractions (e.g. economic, sociocultural)</li>\n</ul>" ],
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d0f0cf64-4faf-4a62-b11f-a861f5e27437",
+          "name" : "Persuasive text indicators",
+          "description" : [ ],
+          "children" : [ {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/360e344b-26a9-4635-816a-5dee623aeefe",
+            "name" : "LWCrT11.14",
+            "description" : [ "<ul>\n<li>creates sustained, robust arguments on complex learning area topics (e.g. should bushrangers be afforded hero status?)</li>\n</ul>", "<ul>\n<li>uses structural features flexibly to organise ideas strategically (e.g. includes a defined, cogent summation or call to action)</li>\n</ul>", "<ul>\n<li>uses citation and referencing from authoritative sources</li>\n</ul>", "<ul>\n<li>anticipates reader knowledge and possible bias and accommodates these in development of arguments (e.g. you may have thought that …)</li>\n</ul>", "<ul>\n<li>positions the reader effectively by providing a clear thesis and relevant context (e.g. by previewing the arguments)</li>\n</ul>", "<ul>\n<li>strategically selects visual and audio resources to position the reader/viewer (e.g. a video clip of an authoritative source)</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/412d1f10-f60f-496a-8e52-f9e5d5978017",
+            "name" : "LWCrT11.15",
+            "description" : [ "<ul>\n<li>uses sophisticated evaluative language devices such as allusion, evocative vocabulary and extended metaphor</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2196549e-23d4-49cf-919b-239f0f0c381d",
+            "name" : "LWCrT11.16",
+            "description" : [ "<ul>\n<li>uses vocabulary for precision (e.g. the underwhelming performance of the opening batsmen)</li>\n</ul>" ],
+            "children" : [ ]
+          } ]
+        }, {
+          "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7f9ab28c-e5c3-43ad-bc69-6835f976d830",
+          "name" : "Imaginative text indicators",
+          "description" : [ ],
+          "children" : [ {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/46255b80-5e07-4c0f-91d6-212aeb3f2b45",
+            "name" : "LWCrT11.19",
+            "description" : [ "<ul>\n<li>creates sustained texts that develop more abstract themes or concepts in imaginative ways</li>\n</ul>", "<ul>\n<li>uses structural features flexibly to organise ideas strategically (e.g. deliberate repetition to reinforce a point or create a rhythmic flow)</li>\n</ul>", "<ul>\n<li>develops an imaginative text around a theme or social issue</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f4093c89-f65a-41ce-8041-0c42620560f8",
+            "name" : "LWCrT11.23",
+            "description" : [ "<ul>\n<li>uses stylistic features for effect (e.g. narrates from an omniscient point of view)</li>\n</ul>", "<ul>\n<li>uses recurring imagery for cohesion</li>\n</ul>", "<ul>\n<li>uses language to create humour (e.g. irony, satire)</li>\n</ul>", "<ul>\n<li>uses complementary noun and verb groups (e.g. through narrowed eyes she scrutinised the haggard face) (see <em>Grammar</em>)</li>\n</ul>" ],
+            "children" : [ ]
+          }, {
+            "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7887df7e-51cc-4370-a585-8c44c3a4df90",
+            "name" : "LWCrT11.25",
+            "description" : [ "<ul>\n<li>uses vocabulary for precision (e.g. shrouded for covered)</li>\n</ul>", "<ul>\n<li>uses figurative language to create subtle and complex meaning (e.g. offering a silent prayer to the deaf sky)</li>\n</ul>" ],
+            "children" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0c11e6b4-785d-4b7d-b8d4-408dd479db20",
+      "name" : "Grammar",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/dc5ba6a1-56fe-4f8b-b6ba-e291708562aa",
+        "name" : "LWGrA1",
+        "description" : [ "<ul>\n<li>represents people, animals, places and things using words or phrases such as nouns or basic noun groups as labels (e.g. my house)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e7c25b94-a173-487c-8cc7-09f670fc49da",
+        "name" : "LWGrA2",
+        "description" : [ "<ul>\n<li>writes sentence fragments or short, simple sentences using subject-verb and subject-verb-object structure (e.g. I play soccer)</li>\n</ul>", "<ul>\n<li>uses regular plural nouns correctly (e.g. dog, dogs)</li>\n</ul>", "<ul>\n<li>represents processes using a small range of verbs (e.g. relating verbs - is, are; action verbs - ran)</li>\n</ul>", "<ul>\n<li>writes common prepositional phrases to indicate time and place (e.g. in the morning, to the shops)</li>\n</ul>", "<ul>\n<li>writes sentence fragments (e.g. me and my dog) with inconsistencies in subject-verb agreement (e.g. he play)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b2be2521-cafc-4bf1-a16b-2eb3da4323dd",
+        "name" : "LWGrA3",
+        "description" : [ "<ul>\n<li>sequences sentences to reflect a logical flow of ideas</li>\n</ul>", "<ul>\n<li>uses common cohesive devices such as simple pronoun reference when the referent is close to the pronoun (e.g. I have a bird. It can talk.)</li>\n</ul>", "<ul>\n<li>uses basic text connectives repetitively (e.g. and, then)</li>\n</ul>", "<ul>\n<li>writes coherent simple sentences to express an idea or event</li>\n</ul>", "<ul>\n<li>uses pronouns to represent participants (e.g. she, we, them)</li>\n</ul>", "<ul>\n<li>uses a small range of adjectives to build description in basic noun groups (e.g. the little dog)</li>\n</ul>", "<ul>\n<li>uses common and proper nouns</li>\n</ul>", "<ul>\n<li>uses single verbs or simple verb groups with subject-verb agreement (e.g. they are playing)</li>\n</ul>", "<ul>\n<li>uses predominantly simple present, continuous and past tense to represent processes (e.g. I play, I am playing, I played)</li>\n</ul>", "<ul>\n<li>uses articles a, an and the with varying accuracy (e.g. a dog, a apple)</li>\n</ul>", "<ul>\n<li>writes comprehensible sentences that contain some misuse of prepositions (e.g. mine is different than/then yours), pronouns (e.g. me and him went swimming) and adverbs (e.g. we walked quick)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/df1a92a7-0bd2-45cc-a58b-80bce4f87c49",
+        "name" : "LWGrA4",
+        "description" : [ "<ul>\n<li>uses time connectives to sequence ideas and events (e.g. first, then, next, after)</li>\n</ul>", "<ul>\n<li>groups related ideas into paragraphs</li>\n</ul>", "<ul>\n<li>writes simple sentences correctly</li>\n</ul>", "<ul>\n<li>writes compound sentences to make connections between ideas using coordinating conjunctions (e.g. and, but, so)</li>\n</ul>", "<ul>\n<li>uses simple adverbials to give details such as time, place and manner (e.g. in the afternoon, nearby, quickly)</li>\n</ul>", "<ul>\n<li>uses simple present, past and future tenses accurately to represent processes</li>\n</ul>", "<ul>\n<li>uses adjectives in noun groups to build more accurate descriptions of participants (e.g. the spotted dog)</li>\n</ul>", "<ul>\n<li>uses a broader range of prepositions to indicate direction or position (e.g. across, towards, through)</li>\n</ul>", "<ul>\n<li>uses articles accurately (e.g. a, an, the)</li>\n</ul>", "<ul>\n<li>writes comprehensible sentences that may contain inaccuracies such as misuse of prepositions (e.g. they should of waited, mine is different than/then yours) and past tense irregular verbs (e.g. he <em>goed</em> to the shop)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/368c4242-5309-4b8b-ac59-12047a685849",
+        "name" : "LWGrA5",
+        "description" : [ "<ul>\n<li>uses cohesive devices (e.g. word groups - repetition, synonyms and antonyms; signposting devices - headings and subheadings; text connectives - however, on the other hand, therefore)</li>\n</ul>", "<ul>\n<li>uses determiners to support cohesion (e.g. this hat, those apples)</li>\n</ul>", "<ul>\n<li>uses well-structured paragraphs with topic sentences</li>\n</ul>", "<ul>\n<li>writes simple and compound sentences correctly including a range of sentence types (e.g. command, question, exclamation)</li>\n</ul>", "<ul>\n<li>writes complex sentences using conjunctions (e.g. when, because)</li>\n</ul>", "<ul>\n<li>uses a wide range of verbs and verb groups (e.g. uses thinking, feeling and perceiving verbs to represent inner processes; uses saying verbs to represent interaction)</li>\n</ul>", "<ul>\n<li>employs a range of tenses to represent processes</li>\n</ul>", "<ul>\n<li>maintains subject-verb agreement in simple and compound sentences</li>\n</ul>", "<ul>\n<li>uses adjectives in noun groups to include details of participants, give opinion and classify (e.g. that crazy little cattle dog)</li>\n</ul>", "<ul>\n<li>uses adverbials to present more surrounding details for time, place, manner and reason</li>\n</ul>", "<ul>\n<li>writes generally accurate simple, compound and complex sentences with few run-on sentences and dangling clauses (e.g. Because he was afraid.)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/37c46b54-ae1f-4d40-9844-9bd6a2c68bcc",
+        "name" : "LWGrA6",
+        "description" : [ "<ul>\n<li>uses cohesive devices to alert the reader about how the text is unfolding (e.g. foreshadowing the key points at the beginning, reinforcing the key points with topic sentences, and linking back to key points in the conclusion)</li>\n</ul>", "<ul>\n<li>selects simple, compound and complex sentences to express and connect ideas, occasionally manipulating the structure for emphasis, clarity or effect</li>\n</ul>", "<ul>\n<li>uses subordinating conjunctions (e.g. 'even though' in 'Even though a storm was predicted, the search and rescue mission still went ahead.’)</li>\n</ul>", "<ul>\n<li>uses an extended range of verbs and verb groups for a particular effect (e.g. characterisation - howls, was trembling; and expressing causality - results in)</li>\n</ul>", "<ul>\n<li>adjusts tense in a text if required (e.g. uses simple present tense to represent ‘timeless’ happenings (e.g. bears <em>hibernate</em> in winter) and uses continuous present tense when referring to an ongoing event (e.g. bears are <em>becoming</em> extinct)</li>\n</ul>", "<ul>\n<li>creates elaborated noun groups to build richer description by extending the noun group(e.g. that crazy, little cattle dog, with the crooked tail, that ran away last week)</li>\n</ul>", "<ul>\n<li>uses possessive pronouns (e.g. his, hers, theirs) and relative pronouns (e.g. who, which, whom)</li>\n</ul>", "<ul>\n<li>uses adverbials to represent a greater range of circumstances (e.g. time - subsequently; place - in their environment; manner - excitedly; reason - due to several factors)</li>\n</ul>", "<ul>\n<li>makes few grammatical errors, such as inappropriate tense selections or lack of agreement between subject and verb</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/72c0965c-b2d6-4dd8-a32c-09e1ae505a7c",
+        "name" : "LWGrA7",
+        "description" : [ "<ul>\n<li>uses a wide range of cohesive devices such as text connectives that link sentences and paragraphs, and patterns of meaning (e.g. part-whole, class-subclass, compare-contrast, cause and effect)</li>\n</ul>", "<ul>\n<li>crafts both compact and lengthy sentences with challenging structures, such as embedded/relative clauses, non-finite clauses, interrupting clauses, nominalisations, passive voice</li>\n</ul>", "<ul>\n<li>makes more sophisticated connections between ideas by creating complex sentences expressing relationships of cause, reason, concession</li>\n</ul>", "<ul>\n<li>presents elaborated verb groups that capture nuances and complex expressions of time and probability (e.g. he was thought to have been arriving late; the errors could be attributed to faulty equipment)</li>\n</ul>", "<ul>\n<li>selects from succinct noun groups through to highly elaborated noun groups for effect, clarity or complexity of description</li>\n</ul>", "<ul>\n<li>uses nominalisations to create concise noun groups</li>\n</ul>", "<ul>\n<li>intentionally uses a wide array of adverbials to represent a greater variety of circumstances (e.g. with whom? to what extent? how much? in what role? by what means? in what manner? compared to what?)</li>\n</ul>", "<ul>\n<li>maintains subject-verb agreement in complex sentences</li>\n</ul>", "<ul>\n<li>writes well-structured texts, rarely making grammatical errors</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e81c7756-615c-44c0-8f07-2f7482d0aea4",
+      "name" : "Punctuation",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f166b01d-264c-4be8-82c7-ca9f21c3fd97",
+        "name" : "LWPuN1",
+        "description" : [ "<ul>\n<li>identifies capital letters in familiar words (e.g. identifies capital letter in own name)</li>\n</ul>", "<ul>\n<li>identifies full stops</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/04b28302-951c-4d3a-aff3-e4b5c0eadc0d",
+        "name" : "LWPuN2",
+        "description" : [ "<ul>\n<li>writes basic sentence boundary punctuation (e.g. capital letter at beginning, full stop at end)</li>\n</ul>", "<ul>\n<li>names and explains the purpose of basic boundary punctuation</li>\n</ul>", "<ul>\n<li>writes capital letters for some proper nouns</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/738d73f5-a353-4186-8044-b320fc55cee3",
+        "name" : "LWPuN3",
+        "description" : [ "<ul>\n<li>uses sentence boundary punctuation including question marks or exclamation marks</li>\n</ul>", "<ul>\n<li>consistently writes capitals appropriately for names of people and days of the week</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0c8f4af8-fcc7-4c8d-b9cb-b921e66928e6",
+        "name" : "LWPuN4",
+        "description" : [ "<ul>\n<li>uses commas in lists of nouns (e.g. add the sugar, lemon, water and juice)</li>\n</ul>", "<ul>\n<li>uses apostrophes for regular single possessives (e.g. girl’s)</li>\n</ul>", "<ul>\n<li>capitalises key events, geographic names, titles (e.g. Easter, Sydney, Ms)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/01bd99ba-72be-42cd-b7f7-d94d7956bb83",
+        "name" : "LWPuN5",
+        "description" : [ "<ul>\n<li>uses quotation marks for simple dialogue (e.g. ‘I can’t see it,’ he said.)</li>\n</ul>", "<ul>\n<li>uses apostrophes for plural possessives (e.g. planes' wings)</li>\n</ul>", "<ul>\n<li>follows conventions of use of capitals in headings</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bf0afcf9-4551-4ea5-b5d4-9f333afdca11",
+        "name" : "LWPuN6",
+        "description" : [ "<ul>\n<li>writes commas to separate clauses where appropriate</li>\n</ul>", "<ul>\n<li>punctuates more complex dialogue correctly (e.g. ‘The team have made some interesting recommendations,’ she said, nodding. ‘But I do not want to act upon them before I have read the full report.’)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/dc7b1e88-82f1-4519-aa69-b88472d9fb65",
+        "name" : "LWPuN7",
+        "description" : [ "<ul>\n<li>uses complex punctuation conventions (e.g. colons, semicolons, brackets)</li>\n</ul>", "<ul>\n<li>uses punctuation conventions for quotations and referencing</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/072ad56d-1458-4c5b-9c67-29c530e0a2c3",
+        "name" : "LWPuN8",
+        "description" : [ "<ul>\n<li>uses punctuation to clarify meaning in complex sentences, drawing on their knowledge of sentence structure (e.g. commas before introductory words, phrases or clauses; semicolons; colons; and dashes) (see <em>Grammar</em>)</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7a072d4a-a9b6-4a5a-b91b-1e15f725c050",
+      "name" : "Spelling",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2858d001-8a23-477b-98db-f2ed4e95054b",
+        "name" : "LWSpG1",
+        "description" : [ "<ul>\n<li>writes letters to represent words</li>\n</ul>", "<ul>\n<li>spells own name</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/16916d77-2628-4fc2-bcbe-9aa88d227558",
+        "name" : "LWSpG2",
+        "description" : [ "<ul>\n<li>explains that words can be represented with letters</li>\n</ul>", "<ul>\n<li>experiments with writing letters and words</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f6d12709-057c-48e2-b497-4fd4b1fb75b3",
+        "name" : "LWSpG3",
+        "description" : [ "<ul>\n<li>writes letters of the alphabet and says a common corresponding phoneme (sound)</li>\n</ul>", "<ul>\n<li>writes letters to correspond to a given phoneme (sound)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6e92c5fe-d9a4-4260-8e0d-d0566e6ad763",
+        "name" : "LWSpG4",
+        "description" : [ "<ul>\n<li>writes letters to represent the dominant or first phonemes in words, when attempting to spell words (e.g. d for dog)</li>\n</ul>", "<ul>\n<li>writes some appropriate letters in sequence to represent words (e.g. bis for because)</li>\n</ul>", "<ul>\n<li>writes correctly some common one-syllable words with common phoneme/grapheme correspondences (e.g. am)</li>\n</ul>", "<ul>\n<li>uses onset and rime to spell words (e.g. p-at)</li>\n</ul>", "<ul>\n<li>writes correctly some common high-frequency words with uncommon phoneme/grapheme correspondences (e.g. was)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/24958f10-14c8-4819-9119-fac9b9d05b34",
+        "name" : "LWSpG5",
+        "description" : [ "<ul>\n<li>uses visual knowledge, phonic knowledge and morphemic knowledge to attempt to spell words</li>\n</ul>", "<ul>\n<li>represents all phonemes when attempting to spell one- and two-syllable words (e.g. sista for sister)</li>\n</ul>", "<ul>\n<li>spells less familiar words using common phoneme/grapheme correspondences (e.g. spells ‘some’ as ‘sum’)</li>\n</ul>", "<ul>\n<li>writes common plurals formed by adding ‘s’ correctly (e.g. cats)</li>\n</ul>", "<ul>\n<li>writes words with common suffixes that indicate tense (e.g. play, played, playing)</li>\n</ul>", "<ul>\n<li>contributes to a group discussion about word origins (e.g. bi means two in bicycle)</li>\n</ul>", "<ul>\n<li>writes a range of words from the hundred high-frequency words correctly</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/00395879-f85a-4c16-85a3-7c1daeccd698",
+        "name" : "LWSpG6",
+        "description" : [ "<ul>\n<li>exchanges one letter in a word to make a new word (e.g. fan, tan, tap)</li>\n</ul>", "<ul>\n<li>writes two-letter consonant blends in words correctly (e.g. sl in slip)</li>\n</ul>", "<ul>\n<li>writes common plurals formed with adding ‘es’ correctly (e.g. boxes)</li>\n</ul>", "<ul>\n<li>writes words with consonants doubled after a short vowel (e.g. shopping)</li>\n</ul>", "<ul>\n<li>recognises some spelling errors using visual, phonic and morphemic knowledge</li>\n</ul>", "<ul>\n<li>spells simple words with split digraph correctly (e.g. blame, tide)</li>\n</ul>", "<ul>\n<li>spells common words with simple vowel digraphs (e.g. tree, tail)</li>\n</ul>", "<ul>\n<li>writes simple contractions (e.g. I’m, isn’t)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f831f5da-521a-4f3f-9183-4b8ed350fc11",
+        "name" : "LWSpG7",
+        "description" : [ "<ul>\n<li>uses morphemic word families to spell words (e.g. small, smaller)</li>\n</ul>", "<ul>\n<li>writes more difficult, unfamiliar words phonetically, with all phonemes represented (e.g. enjin for engine)</li>\n</ul>", "<ul>\n<li>spells words with learnt consonant digraphs (e.g. sheep, tooth)</li>\n</ul>", "<ul>\n<li>spells multisyllabic words with learnt long vowel phonemes (e.g. pi-lot, di-et)</li>\n</ul>", "<ul>\n<li>writes one- and two-syllable words with consonant blends (e.g. clapping)</li>\n</ul>", "<ul>\n<li>uses knowledge of morphemes to spell compound words with common base words (e.g. handbag, bedroom)</li>\n</ul>", "<ul>\n<li>uses simple dictionaries and spellcheckers</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9f6fb27a-5432-476c-975d-a49d3deedffb",
+        "name" : "LWSpG8",
+        "description" : [ "<ul>\n<li>uses bank of spelling strategies and knowledge to attempt to spell words (e.g. phonic knowledge, visual knowledge, morphemic knowledge)</li>\n</ul>", "<ul>\n<li>writes most common and high-frequency words correctly</li>\n</ul>", "<ul>\n<li>writes common words with silent letters correctly (e.g. crumb, knee)</li>\n</ul>", "<ul>\n<li>writes some common contractions correctly (e.g. you're, won’t)</li>\n</ul>", "<ul>\n<li>uses three-letter consonant blends in words correctly (e.g. three, string, splash)</li>\n</ul>", "<ul>\n<li>uses knowledge of morphemes to spell compound words, where the base word remains unchanged (e.g. grandmother)</li>\n</ul>", "<ul>\n<li>recognises spelling errors in own writing</li>\n</ul>", "<ul>\n<li>spells words with -r controlled vowel digraphs (e.g. start, worm)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bdddd344-71a9-4b07-b0cd-2dfeb844feb1",
+        "name" : "LWSpG9",
+        "description" : [ "<ul>\n<li>uses learnt spelling rules and knowledge, word origins and generalisations to spell (e.g. phonological knowledge, morphemic knowledge, visual knowledge, etymological knowledge and orthographic knowledge)</li>\n</ul>", "<ul>\n<li>writes words with common prefixes and suffixes (e.g. unhappy, helpful)</li>\n</ul>", "<ul>\n<li>uses some common spelling generalisations when attempting to spell unfamiliar words (e.g. drop e from base word when adding a suffix)</li>\n</ul>", "<ul>\n<li>uses less common vowel digraphs (e.g. head, suit)</li>\n</ul>", "<ul>\n<li>writes all common contractions correctly (e.g. doesn’t)</li>\n</ul>", "<ul>\n<li>spells common homophones according to context (e.g. hear or here their or there or they're)</li>\n</ul>", "<ul>\n<li>uses spell check function</li>\n</ul>", "<ul>\n<li>uses authoritative sources (e.g. dictionaries/web search to spell unfamiliar words)</li>\n</ul>", "<ul>\n<li>identifies errors and attempts to correct spelling</li>\n</ul>", "<ul>\n<li>writes words using diphthongs correctly (e.g. house, boil)</li>\n</ul>", "<ul>\n<li>writes all words from the hundred high-frequency words correctly</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d58c83b1-07ca-4afb-828c-e385fdb94f38",
+        "name" : "LWSpG10",
+        "description" : [ "<ul>\n<li>writes words correctly which do not include common phoneme/grapheme correspondences (e.g. island)</li>\n</ul>", "<ul>\n<li>spells less common homophones correctly (e.g. site, sight)</li>\n</ul>", "<ul>\n<li>applies spelling generalisations when writing words</li>\n</ul>", "<ul>\n<li>explains and uses a range of morphemic word families (e.g. friend, friendship, unfriendly)</li>\n</ul>", "<ul>\n<li>uses knowledge of prefixes and suffixes to spell less common words (e.g. triangle, disagree)</li>\n</ul>", "<ul>\n<li>explains that some different areas of the world have different accepted spelling rules and makes choices accordingly when producing text (e.g. colour, color)</li>\n</ul>", "<ul>\n<li>spells a range of words with less common letter groupings correctly (e.g. ion-fashion)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/588a619c-81d0-4efc-90c0-66e0f2590cf0",
+        "name" : "LWSpG11",
+        "description" : [ "<ul>\n<li>explains how words are spelt using morphemic, visual, phonological, etymological and orthographic knowledge</li>\n</ul>", "<ul>\n<li>writes irregular plurals correctly (e.g. mice)</li>\n</ul>", "<ul>\n<li>spells words with less common silent letters correctly (e.g. subtle, pneumonia)</li>\n</ul>", "<ul>\n<li>explains how the spellings and meanings of some words have changed over time</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/749faf04-6c63-4561-b709-39224575a2e5",
+        "name" : "LWSpG12",
+        "description" : [ "<ul>\n<li>uses less common prefixes and suffixes including those which require changes to the base word (e.g. glamour-glamorous, explain- explanation)</li>\n</ul>", "<ul>\n<li>spells multisyllabic words including some with more complex letter patterns (e.g. democracy)</li>\n</ul>", "<ul>\n<li>uses knowledge of Latin and Greek word origins to explain spelling of technical words (e.g. physical, maritime, vacuum)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/48455d01-9467-4f1c-835d-b7b133111105",
+        "name" : "LWSpG13",
+        "description" : [ "<ul>\n<li>uses spelling rules and generalisations, morphemic, visual, phonological, etymological and orthographic knowledge to spell unfamiliar words</li>\n</ul>", "<ul>\n<li>spells a range of challenging words with less common letter groupings (e.g. naive, cadence)</li>\n</ul>", "<ul>\n<li>spells words with less common prefixes and suffixes (e.g. im-precise, imprecise employ-ee, employee)</li>\n</ul>", "<ul>\n<li>spells less common plurals (e.g. octopi)</li>\n</ul>", "<ul>\n<li>explains how spelling can be a support to both reading and writing</li>\n</ul>", "<ul>\n<li>explains the limitations of spell check features in digital communication</li>\n</ul>", "<ul>\n<li>uses spelling rules and generalisations, word origins and visual memory to spell unfamiliar words</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/81e0807d-6e7d-42a6-a550-85dc454fb048",
+        "name" : "LWSpG14",
+        "description" : [ "<ul>\n<li>integrates spelling knowledge and spelling resources to spell complex, unfamiliar words (e.g. photosynthesis)</li>\n</ul>", "<ul>\n<li>monitors spelling in own texts and makes appropriate corrections</li>\n</ul>", "<ul>\n<li>explains how spelling is used creatively in texts for particular effects (e.g. characterisation and humour and to represent accents and styles of speech)</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ed4669a5-3caf-4c2c-84bc-c90d260387fe",
+      "name" : "Handwriting and keyboarding",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/67ce4353-92fa-4f5d-a0bb-a4d747a37bc8",
+        "name" : "LWHwK1",
+        "description" : [ "<ul>\n<li>produces simple handwriting movements</li>\n</ul>", "<ul>\n<li>experiments with pencils, writing implements or devices during play</li>\n</ul>", "<ul>\n<li>writes letters which resemble standard letter formations</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e25cee22-c88d-4b7e-9e96-603915805055",
+        "name" : "LWHwK2",
+        "description" : [ "<ul>\n<li>uses pencils or writing implements appropriately</li>\n</ul>", "<ul>\n<li>writes or types some letters or words correctly</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e13a859d-28ec-4754-83ea-6aa9b2bdf612",
+        "name" : "LWHwK3",
+        "description" : [ "<ul>\n<li>correctly forms most lower-case letters</li>\n</ul>", "<ul>\n<li>correctly forms some upper-case letters</li>\n</ul>", "<ul>\n<li>writes or types a few words</li>\n</ul>", "<ul>\n<li>uses numeral keys</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/23a7eed0-818f-4906-b5ea-4af2b9e4e0f7",
+        "name" : "LWHwK4",
+        "description" : [ "<ul>\n<li>correctly forms all letters</li>\n</ul>", "<ul>\n<li>uses spaces between handwritten words</li>\n</ul>", "<ul>\n<li>positions letters and words on a line</li>\n</ul>", "<ul>\n<li>demonstrates keyboarding skills by typing short letter clusters and short common words as single units (e.g. er, ing, the, my)</li>\n</ul>", "<ul>\n<li>types using spaces between words and sentence punctuation</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2522a12b-f181-400f-a546-3e8635b3acc9",
+        "name" : "LWHwK5",
+        "description" : [ "<ul>\n<li>fluently writes clearly formed, unjoined letters</li>\n</ul>", "<ul>\n<li>writes all letters with consistent size and spacing between words</li>\n</ul>", "<ul>\n<li>begins to use joined letters</li>\n</ul>", "<ul>\n<li>maintains legible handwriting throughout a text</li>\n</ul>", "<ul>\n<li>uses some features of text editing applications</li>\n</ul>", "<ul>\n<li>recognises and uses keys to show more complex punctuation or symbols</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/987fd718-43ed-49bb-91fc-959f84e74b1b",
+        "name" : "LWHwK6",
+        "description" : [ "<ul>\n<li>writes using joined letters of consistent size</li>\n</ul>", "<ul>\n<li>slopes writing if appropriate to script</li>\n</ul>", "<ul>\n<li>begins to develop quick finger action when keying</li>\n</ul>", "<ul>\n<li>fluently handwrites and types to produce a range of texts</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8de61f3f-1ce7-4711-90e3-9de38528d337",
+        "name" : "LWHwK7",
+        "description" : [ "<ul>\n<li>writes with a legible, fluent, personal handwriting style</li>\n</ul>", "<ul>\n<li>uses a range of digital applications to compose and edit</li>\n</ul>", "<ul>\n<li>self-corrects using appropriate keyboard and screen functions</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e853c3e4-c5e7-4084-8100-ecf0643cb8d0",
+        "name" : "LWHwK8",
+        "description" : [ "<ul>\n<li>uses handwriting efficiently in formal and informal situations</li>\n</ul>", "<ul>\n<li>demonstrates automaticity when using keyboarding and screen functions</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    } ]
+  } ]
+}

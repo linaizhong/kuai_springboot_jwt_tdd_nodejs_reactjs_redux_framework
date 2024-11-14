@@ -1,0 +1,676 @@
+{
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d9df3bd1-d361-4f00-a813-c47865f63c4c",
+  "name" : "National Numeracy Learning Progression",
+  "description" : [ ],
+  "children" : [ {
+    "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2ad48b32-fd6c-4e99-a1e9-d050c07a1917",
+    "name" : "Number sense and algebra",
+    "description" : [ ],
+    "children" : [ {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0a8bc7e6-3408-4d13-96af-e0303c7afd18",
+      "name" : "Number and place value",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/61029c53-e973-49c2-9ad2-516f32bccc30",
+        "name" : "NNNPV1",
+        "description" : [ "<ul>\n<li>identifies and produces familiar number names and numerals such as those associated with age or home address, but may not distinguish whether they refer to a quantity, an ordinal position or a label (e.g. I am five and my sister is seven; I wear the number 7 jumper; I live at 4 Baker Street; this is the number 2)</li>\n</ul>", "<ul>\n<li>compares two collections visually and states which group has more items and which group has less</li>\n</ul>", "<ul>\n<li>instantly recognises collections up to three without needing to count</li>\n</ul>", "<ul>\n<li>uses language to describe order and place (e.g. understands ‘who wants to go first?’; in the middle; ‘who was the last person to read this book?’)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/315eca53-e4d8-4638-8b5b-418e428f0798",
+        "name" : "NNNPV2",
+        "description" : [ "<ul>\n<li>identifies and names numerals in the range of 1-10 (e.g. when asked ‘which is three?’ points to the numeral 3; when shown the numeral 5, says ‘that’s five’)</li>\n</ul>", "<ul>\n<li>matches a quantity of items in a collection to the correct number name or numeral in the range of 1-10 (e.g. when shown the numeral 5 and asked to ‘go and collect this many items’, gathers five items)</li>\n</ul>", "<ul>\n<li>identifies standard number configurations such as on a standard dice or dominos or in other arrangements up to six, using subitising (e.g. moves a counter the correct number of places on a board game based on the roll of a dice; recognises a collection of five items by perceptually subitising 3 and 2)</li>\n</ul>", "<ul>\n<li>orders numerals to at least 10 (e.g. using number cards, places the numerals 1-10 in the correct order)</li>\n</ul>", "<ul>\n<li>indicates the larger or smaller of two numerals in the range from 1 to 10 (e.g. when shown the numerals 6 and 3, identifies 3 as representing the smaller amount)</li>\n</ul>", "<ul>\n<li>identifies smaller collections within collections to ten</li>\n</ul>", "<ul>\n<li>demonstrates that one ten is the same as ten ones (e.g. using concrete manipulatives such as ten frames and bundles of ten)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9ca8de01-0ec6-487a-be16-ccda3ceea157",
+        "name" : "NNNPV3",
+        "description" : [ "<ul>\n<li>identifies and names numerals up to 20 (e.g. when shown the numbers 4, 17, 9 and 16 and asked, ‘which is 16?’, points to the number 16 or when shown the numeral 17 says its correct name)</li>\n</ul>", "<ul>\n<li>identifies the 1-9 repeating sequence in the writing of teen numerals</li>\n</ul>", "<ul>\n<li>identifies a whole quantity as the result of recognising smaller quantities up to 20 (e.g. uses part, part, whole knowledge of numbers to solve problems)</li>\n</ul>", "<ul>\n<li>orders numbers from 1-20 (e.g. determines the largest number from a group of numbers in the range from 1 to 20; students are allocated a number between 1 and 20 and asked to arrange themselves in numerical order)</li>\n</ul>", "<ul>\n<li>reads, writes, models and describes teen numbers as ten and some more (e.g. 16 is ten and 6 more; using ten frames)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ad668590-c3a6-485e-bc3f-617548c4b961",
+        "name" : "NNNPV4",
+        "description" : [ "<ul>\n<li>identifies, models and names numerals up to and beyond 100 (e.g. is shown the numerals 70, 38, 56 and 26 and when asked ‘which is 38?’, identifies the numeral 38)</li>\n</ul>", "<ul>\n<li>identifies the 1-9 repeating sequence, both in and between the decade numerals (e.g. using hundreds charts or vertical number lists)</li>\n</ul>", "<ul>\n<li>identifies zero as both a number and a placeholder for reading and writing larger numerals, denoted by the numeral 0</li>\n</ul>", "<ul>\n<li>uses knowledge of place value to order numerals within the range of 0 to at least 100 (e.g. locates the numeral 21 on a number line between 20 and 22; re-orders a set of numerals from smallest to largest)</li>\n</ul>", "<ul>\n<li>models, represents, orders and renames two-digit numbers as counts of tens and ones (e.g. 68 is 6 tens and 8 ones, 68 ones, or 60 + 8; uses concrete materials such as bundles of ten straws or base ten blocks)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1f133cf2-f264-4be6-b64b-0d2c823df076",
+        "name" : "NNNPV5",
+        "description" : [ "<ul>\n<li>identifies and names a numeral from a range of numerals up to 1000 (e.g. is shown the numerals 70, 318, 576 and 276 and when asked ‘which is 276?’, identifies 276)</li>\n</ul>", "<ul>\n<li>orders and flexibly regroups three-digit numbers according to their place value (e.g. 247 is 2 hundreds, 4 tens and 7 ones or 2 hundreds and 47 ones or 24 tens and 7 ones)</li>\n</ul>", "<ul>\n<li>applies an understanding of zero in place value notation when reading numerals that include internal zeros (e.g. says 807 as eight hundred and seven or 80 tens and seven ones, not eighty and seven)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c6ea06c3-6657-4f02-b6e5-c1bc3450491c",
+        "name" : "NNNPV6",
+        "description" : [ "<ul>\n<li>identifies, reads and writes numerals beyond 1000 applying knowledge of place value, including numerals that contain a zero (e.g. student reads 1345 as one thousand, three hundred and forty-five; student reads one thousand and fifteen and writes as 1015)</li>\n</ul>", "<ul>\n<li>flexibly partitions numbers by their place value into thousands, hundreds, tens and ones</li>\n</ul>", "<ul>\n<li>estimates and rounds whole numbers to the nearest ten or nearest hundred (e.g. pencils come in a pack of ten, estimate the number of packs required for 127 Year 6 students; to check the reasonableness of their solution to the computation 212 + 195, student rounds both numbers to 200)</li>\n</ul>", "<ul>\n<li>represents and names tenths as one out of 10 equal parts of a whole (e.g. uses a bar model to represent the whole and its parts; uses a straw that has been cut into ten equal pieces to demonstrate that one piece is one-tenth of a whole straw and two pieces are two-tenths of the whole straw)</li>\n</ul>", "<ul>\n<li>represents and names one-tenth as its decimal equivalent 0.1, zero point one</li>\n</ul>", "<ul>\n<li>extends the place value system to tenths</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9f3396d6-63ae-41a9-b484-252b471738f9",
+        "name" : "NNNPV7",
+        "description" : [ "<ul>\n<li>identifies, reads and writes numerals, beyond four digits in length, with spacing after every three digits (e.g. 10 204, 25 000 000; 12 230.25; reads 152 450 as ‘one hundred and fifty-two thousand four hundred and fifty’)</li>\n</ul>", "<ul>\n<li>identifies, reads and writes decimals to one and two decimal places</li>\n</ul>", "<ul>\n<li>estimates and rounds whole numbers to the nearest ten thousand, thousand etc. (e.g. estimates the crowd numbers at a football match; says that the $9863 raised at a charity event was close to ten thousand dollars)</li>\n</ul>", "<ul>\n<li>explains that the place value names for decimal numbers relate to the ones place value</li>\n</ul>", "<ul>\n<li>explains and demonstrates that the place value system extends beyond tenths to hundredths, thousandths …</li>\n</ul>", "<ul>\n<li>models, represents, compares and orders decimals up to 2 decimal places (e.g. constructs a number line to include decimal values between 0 and 1, when asked ‘which is larger 0.19 or 0.2?’ responds ‘0.2’)</li>\n</ul>", "<ul>\n<li>rounds decimals to the nearest whole number in order to estimate answers (e.g. estimates the length of material needed by rounding up the measurement to the nearest whole number)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2f516730-aa36-46cb-82c4-af6b66595656",
+        "name" : "NNNPV8",
+        "description" : [ "<ul>\n<li>identifies, reads and writes decimal numbers applying knowledge of the place value periods of tenths, hundredths and thousandths and beyond</li>\n</ul>", "<ul>\n<li>compares the size of decimals including whole numbers and decimals expressed to different number of places (e.g. selects 0.35 as the largest from the set 0.2, 0.125, 0.35; explains that 2 is larger than 845)</li>\n</ul>", "<ul>\n<li>describes the multiplicative relationship between the adjacent positions in place value for decimals (e.g. understands that 0.2 is 10 times as large as 0.02 and that 100 times 0.005 is 0.5)</li>\n</ul>", "<ul>\n<li>compares and orders decimals greater than 1 including those expressed to an unequal number of places (e.g. compares the heights of students in the class that are expressed in metres such as 1.50 m is shorter than 1.52 m; correctly orders 1.4, 1.375 and 2 from largest to smallest)</li>\n</ul>", "<ul>\n<li>rounds decimals to one and two decimal places for a purpose</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a2b90fe1-cade-4f3f-ade2-1696344b19ef",
+        "name" : "NNNPV9",
+        "description" : [ "<ul>\n<li>reads, represents and uses negative numbers in computation (e.g. explains that the temperature −10 °C is colder than the temperature −2.5 °C; recognises that negative numbers are less than zero; locates −12 on a number line)</li>\n</ul>", "<ul>\n<li>identifies that negative numbers are integers that represent both size and direction (e.g. uses a number line to model, position and order negative numbers; uses negative numbers in financial contexts such as to model an overdrawn account)</li>\n</ul>", "<ul>\n<li>understands that multiplying and dividing numerals by 10, 100, 1000 changes the positional value of the numeral (e.g. explains that 100 times 0.125 is 12.5 because each digit value in 0.125 is multiplied by 100, so 100 x 0.1 is 10, 100 x 0.02 is 2 and 100 x 0.005 is 0.5)</li>\n</ul>", "<ul>\n<li>rounds decimals to a specified number of decimal places for a purpose (e.g. the mean distance thrown in a school javelin competition was rounded to two decimal places; if the percentage profit was calculated as 12.467921% the student rounds the calculation to 12.5%)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fe4f993b-2ac8-4f46-9c5d-25a76152a875",
+        "name" : "NNNPV10",
+        "description" : [ "<ul>\n<li>identifies, reads and interprets very large numbers and very small numbers (e.g. reads that the world population is estimated to be seven billion and interprets this to mean 7 000 000 000 or 7 × 10<sup>9</sup>; interprets the approximate mass of protons and neutrons as 1.67 × 10<sup>-24</sup> g)</li>\n</ul>", "<ul>\n<li>compares and orders very large numbers and very small numbers (e.g. understands the relative size of very large time scales such as a millennium)</li>\n</ul>", "<ul>\n<li>relates place value parts to indices (e.g. 1000 is 100 times larger than 10, and that is why 10 ×10<sup>2</sup> = 10<sup>3</sup> and why 10<sup>3</sup> divided by 10 is equal to 10<sup>2</sup></li>\n</ul>", "<ul>\n<li>expresses numbers in scientific notation (e.g. when calculating the distance of the earth from the sun uses 1.5 × 10<sup>8</sup> as an approximation)</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f5e00219-9084-446c-8359-2989805c5665",
+      "name" : "Counting processes",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3a90ce8b-9f2d-44ed-9137-5a1985371b5c",
+        "name" : "NNCPr1",
+        "description" : [ "<ul>\n<li>identifies number words when reciting counting rhymes or when asked to count (e.g. holds up three fingers to represent three little ducks)</li>\n</ul>", "<ul>\n<li>subitises small collections of objects, typically up to three items</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e1f3e86c-a98d-4860-b113-711c4a179cf4",
+        "name" : "NNCPr2",
+        "description" : [ "<ul>\n<li>counts in stable counting order from one within a known number range (e.g. engages with counting in nursery rhymes, songs and children’s literature)</li>\n</ul>", "<ul>\n<li>conceptually subitises a collection up to 5 (e.g. recognises a collection of five items as a result of perceptually subitising smaller parts such as 3 and 2)</li>\n</ul>", "<ul>\n<li>counts a small number of items typically less than 4</li>\n</ul>", "<ul>\n<li>engages in basic counting during play-based activities such as cooking or shopping (e.g. places 3 bananas in a shopping basket one at a time and says ‘1, 2, 3’) </li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3cf3a832-03b8-45a6-ba91-315c277604e9",
+        "name" : "NNCPr3",
+        "description" : [ "<ul>\n<li>counts forward by one using the full counting sequence to determine the number before or after a given number, within the range of 1-10 (e.g. when asked what number comes after 6, student needs to count from 1 in sequence up to 7 then says ‘it’s 7’; when asked what number comes before 6 student needs to count from 1, 1-2-3-4-5-6 and responds ‘its 5’)</li>\n</ul>", "<ul>\n<li>matches the count to objects, using one-to-one correspondence (e.g. counts visible or orderly items by ones; may use objects, tally marks, bead strings, sounds or fingers to count; identifies that two sirens means it is lunchtime)</li>\n</ul>", "<ul>\n<li>determines that the last number said in a count names the quantity or total of that collection (e.g. when asked ‘how many’ after they have counted the collection, repeats the last number in the count and indicates that it refers to the number of items in the collection)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d73fc664-db7b-45d2-92f4-06e8e36ddc8c",
+        "name" : "NNCPr4",
+        "description" : [ "<ul>\n<li>uses knowledge of the counting sequence to determine the next number or previous number from a number in the range 1-10 (e.g. when asked what number comes directly after 8, students immediately respond ‘nine’ without needing to count from one)</li>\n</ul>", "<ul>\n<li>continues a count starting from a number other than 1</li>\n</ul>", "<ul>\n<li>interprets the count independently of the type of objects being counted (e.g. a quantity of five counters is the same quantity as five basketball courts)</li>\n</ul>", "<ul>\n<li>counts a collection, keeping track of items that have been counted and those that haven’t been counted yet to ensure they are only counted exactly once (e.g. when asked to count a pile of blocks, they move each block to the side as it is counted)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/579920cc-2133-43c7-add5-a9570a4fbaac",
+        "name" : "NNCPr5",
+        "description" : [ "<ul>\n<li>uses knowledge of the counting sequence to determine the next number or previous number from any starting point within the range 1-100</li>\n</ul>", "<ul>\n<li>matches known numerals to collections of up to 20, counting items using a one-to-one correspondence</li>\n</ul>", "<ul>\n<li>uses zero to denote when no objects are present (e.g. when asked ‘how many cards have you got?’ and has no cards left, says ‘zero’)</li>\n</ul>", "<ul>\n<li>counts objects in a collection independent of the order, appearance or arrangement (e.g. understands that counting seven people in a row from left to right, is the same as counting them from right to left)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0ce3336e-3e3b-4239-9947-9052a940db8f",
+        "name" : "NNCPr6",
+        "description" : [ "<ul>\n<li>continues counting from any number forwards and backwards beyond 100 using knowledge of place value</li>\n</ul>", "<ul>\n<li>counts in sequence by twos and fives starting at zero (e.g. counts items using number rhymes ‘2, 4, 6, 8 Mary’s at the cottage gate …’; skip counts in fives as ‘5, 10, 15, 20’)</li>\n</ul>", "<ul>\n<li>counts in sequence forwards and backwards by tens on the decade up to 100</li>\n</ul>", "<ul>\n<li>counts items in groups of twos, fives and tens (e.g. e.g. counts a quantity of 10-cent pieces as 10, 20, 30 … to give the total value of the coins; counts the number of students by twos when lined up in pairs)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/81a5dae1-1c6e-4bc1-9892-57afc8fa5d55",
+        "name" : "NNCPr7",
+        "description" : [ "<ul>\n<li>counts in sequence forwards and backwards by tens or fives off the decade to 100 (e.g. 2, 12, 22 … or 8, 13, 18, 23)</li>\n</ul>", "<ul>\n<li>counts large quantities in groups or multiples (e.g. grouping items into piles of ten, then counts the piles, adding on the residual to quantify the whole collection)</li>\n</ul>", "<ul>\n<li>estimates the number of items to count to assist with determining group sizes (e.g. decides that counting in twos would not be the most efficient counting strategy based on a quick estimate of the quantity and decides instead to use groups of ten)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/27164547-6b2b-4d72-8561-adb9a26dbd0c",
+        "name" : "NNCPr8",
+        "description" : [ "<ul>\n<li>counts forwards and backwards from any rational number</li>\n</ul>", "<ul>\n<li>applies counting processes flexibly to count in rational numbers (e.g. counts in thirds such as \\(\\frac13\\), \\(\\frac23\\), 1,  1\\(\\frac13\\), 1\\(\\frac23\\),  2 …; counts backwards by 0.3 starting from four 4, 3.7, 3.4, 3.1 …)</li>\n</ul>", "<ul>\n<li>counts backwards from zero understanding that the count can be extended in the negative direction (e.g. 0, -1, -2, -3, -4)</li>\n</ul>", "<ul>\n<li>applies counting processes to any collection beyond the tangible (e.g. systematically counts the number of possible outcomes of an event; applies a frequency count)</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b65d8dbd-5044-4f4c-82b5-9c64658fe2e2",
+      "name" : "Additive strategies",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/51036faa-492c-4cbd-84d3-783e14e59f7d",
+        "name" : "NNAdS1",
+        "description" : [ "<ul>\n<li>describes the effects of ‘adding to’ and ‘taking away’ from a collection of objects</li>\n</ul>", "<ul>\n<li>combines two groups of objects and attempts to determine the total</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d1b51383-1ce1-46aa-bf48-d6afb42ce274",
+        "name" : "NNAdS2",
+        "description" : [ "<ul>\n<li>represents additive situations involving a small number of items with objects, drawings and diagrams</li>\n</ul>", "<ul>\n<li>counts all items to determine the total of two groups (e.g. when told ‘I have three red bottle tops in this pile and two blue bottle tops in this pile how many do I have all together?’ student counts each bottle top ‘one, two, three’ then ‘four, five' responding ‘five’)</li>\n</ul>", "<ul>\n<li>counts or changes a quantity by adding to or taking away from, using concrete materials or fingers</li>\n</ul>", "<ul>\n<li>combines two or more objects to form collections up to 10</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/587c33fb-f13e-4ffc-96d7-544635232524",
+        "name" : "NNAdS3",
+        "description" : [ "<ul>\n<li>solves additive tasks involving two concealed collections of items by visualising the numbers, then counts from one to determine the total (e.g. student can construct a mental image of five and of three but when asked to combine to give a total, will count from one and may use head gestures to keep track of the count)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1de6ac36-22ca-46f0-8b3a-eaf892578c5c",
+        "name" : "NNAdS4",
+        "description" : [ "<ul>\n<li>uses a range of counting strategies to solve addition problems such as counting-up-to and counting-up-from (e.g. to solve ‘I have seven apples, I want ten. How many more do I need?’ counts the number of apples needed to increase the quantity from seven to ten; uses a counting on strategy to calculate 6 + 3, says ‘6, 7, 8, 9 it's 9’; to solve 6 + ? = 9, says ‘6 ... 7, 8, 9 it's 3’)</li>\n</ul>", "<ul>\n<li>uses the additive property of zero, that a number will not change in value when zero is added to or taken away from it (e.g. when asked what is 5 + 0 the student responds ‘five’)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9f1fbfe6-af6a-4f28-bd4d-47c92b0975c4",
+        "name" : "NNAdS5",
+        "description" : [ "<ul>\n<li>uses a range of counting strategies to solve subtraction problems such as counting-down-from, counting-down-to (e.g. to solve ‘Mia had ten cupcakes. She gave three cupcakes away, how many cupcakes does Mia have left?’ she counts back from ten, ‘9, 8, 7 I have 7 left’; to solve 9 take away something equals 6, responds 9 ... 8, 7, 6 ... It's 3)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4d8361f2-960b-4282-8c1f-4ea50bb0295e",
+        "name" : "NNAdS6",
+        "description" : [ "<ul>\n<li>describes subtraction as the difference between numbers rather than taking away using diagrams and a range of representations (e.g. using a number line to model 8 - 3 as the difference between 8 and 3)</li>\n</ul>", "<ul>\n<li>uses a range of strategies to add or subtract two or more numbers within the range of 1-20 (e.g. bridging to 10; near doubles; adding the same to both numbers 7 + 8 = 15 because double 8 is 16 and 7 is one less than 8; 8 + 6 = 14 because 8 + 2 = 10 and 4 more is 14; 15 - 8 = 7 because I can add 2 to both to give 17 - 10 = 7)</li>\n</ul>", "<ul>\n<li>uses knowledge of part-part-whole number construction to partition a whole number into parts to solve addition problems (e.g. to solve 6 + ? = 13, says ‘6 plus 4 makes 10, and 3 more … so it’s 7’)</li>\n</ul>" ],
+        "children" : [ {
+          "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a9bb2219-2778-4744-84f8-423aeff61fb1",
+          "name" : "NNAdS6.4",
+          "description" : [ ],
+          "children" : [ ]
+        } ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a1b0f954-6224-454b-a5d6-111982aaba12",
+        "name" : "NNAdS7",
+        "description" : [ "<ul>\n<li>chooses from a range of known strategies to solve additive problems involving two-digit numbers (e.g. uses place value knowledge, known facts and part-part-whole number knowledge to solve problems like 24 + 8 + 13, partitioning 8 as 6 and 2 more, then combining 24 and 6 to rename it as 30 before combining it with 13 to make 43, and then combining the remaining 2 to find 45 …; adding the same to both numbers 47 - 38 = 49 - 40)</li>\n</ul>", "<ul>\n<li>identifies that the same combinations and partitions to ten are repeated within each decade (e.g. knowing that 8 + 2 = 10, they know 18 + 2 = 20 and 28 + 2 = 30 etc.)</li>\n</ul>", "<ul>\n<li>identifies addition as associative and commutative but subtraction is neither</li>\n</ul>", "<ul>\n<li>applies the commutative and associative properties of addition to simplify mental computation (e.g. to calculate 23 + 9 + 7 adds 23 to 7 to get 30, then adds 9 to give 39)</li>\n</ul>", "<ul>\n<li>applies inverse relationship of addition and subtraction to solve problems and uses the inverse relationship to justify an answer (e.g. when solving 23 - 16 chooses to use addition 16 + ? = 23) </li>\n</ul>", "<ul>\n<li>represents a wide range of additive problem situations involving two-digit numbers using appropriate addition and subtraction number sentences</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fa827b74-dc75-4b57-9c8b-a8ea2ef199f9",
+        "name" : "NNAdS8",
+        "description" : [ "<ul>\n<li>uses place value, standard and non-standard partitioning, trading or exchanging of units to mentally add and subtract numbers with three or more digits (e.g. to add 250 and 457, partitions 250 into 2 hundreds and 5 tens, says 457 plus 2 hundreds is 657, plus 5 tens is 707; to add 184 and 270 partitions into 150 + 34 + 250 + 20 = 400 + 34+ 20 = 454)</li>\n</ul>", "<ul>\n<li>chooses and uses strategies including algorithms and technology to efficiently solve additive problems</li>\n</ul>", "<ul>\n<li>uses estimation to determine the reasonableness of the solution to an additive problem (e.g. when asked to add 249 and 437 says ‘250 + 440 is 690’)</li>\n</ul>", "<ul>\n<li>represents a wide range of familiar real-world additive situations involving large numbers as standard number sentences explaining their reasoning</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1d8ef8ac-d1d0-4060-b674-7773bf30e491",
+        "name" : "NNAdS9",
+        "description" : [ "<ul>\n<li>uses knowledge of place value and how to partition numbers in different ways to make the calculation easier to add and subtract decimals with up to three decimal places</li>\n</ul>", "<ul>\n<li>identifies and justifies the need for a common denominator when solving additive problems involving fractions with related denominators</li>\n</ul>", "<ul>\n<li>represents a wide range of familiar real-world additive situations involving decimals and common fractions as standard number sentence, explaining their reasoning</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/048a2716-843d-4b43-8153-e0937a2c32ab",
+        "name" : "NNAdS10",
+        "description" : [ "<ul>\n<li>uses knowledge of equivalent fractions, multiplicative thinking and how to partition fractional numbers to make calculations easier when adding and subtracting fractions with different denominators</li>\n</ul>", "<ul>\n<li>solves additive problems involving the addition and subtraction of rational numbers including fractions with unrelated denominators and integers</li>\n</ul>", "<ul>\n<li>chooses and uses appropriate strategies to solve multiple-step problems involving rational numbers</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8a6d2ba7-3faa-4f12-a5a2-5f8b16069781",
+      "name" : "Multiplicative strategies",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c52f56dd-22d4-4cd0-9399-a4e9e5491ebb",
+        "name" : "NNMuS1",
+        "description" : [ "<ul>\n<li>shares collections equally by dealing (e.g. distributing all items one-to-one until they are exhausted, checking that the final groups are equal)</li>\n</ul>", "<ul>\n<li>makes equal groups and counts by ones to determine the total</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ca96f22e-5e93-42eb-afb6-8b77bce06631",
+        "name" : "NNMuS2",
+        "description" : [ "<ul>\n<li>uses groups or multiples in counting and sharing concrete objects (e.g. skip counting by twos, fives or tens with all objects visible)</li>\n</ul>", "<ul>\n<li>represents authentic situations involving equal sharing and equal grouping with drawings and objects (e.g. draws a picture to represent 4 tables that seat 6 people to determine how many chairs they will need; uses eight counters to represent sharing $8 between four friends)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b721b4e6-0fb1-40f9-9948-b0c34efdca75",
+        "name" : "NNMuS3",
+        "description" : [ "<ul>\n<li>uses perceptual markers to represent concealed quantities of equal amounts to determine the total number of items (e.g. to count how many whiteboard markers in four packs, knowing they come in packs of 5, the student counts the number of markers as 5, 10, 15, 20)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bf1c6a56-91fc-4a3e-a377-79bacf8b773d",
+        "name" : "NNMuS4",
+        "description" : [ "<ul>\n<li>uses composite units in repeated addition using the unit a specified number of times (e.g. interprets ‘four lots of three’ additively and calculates 3 + 3 + 3 + 3 answering ‘12’)</li>\n</ul>", "<ul>\n<li>uses composite units in repeated subtraction using the unit a specified number of times (e.g. when asked ‘how many groups of four can be formed from our class of 24?’, the student repeatedly takes away four from 24 and counts the number of times this can be done. Says ‘20, 16, 12, 8, 4 and 0 so we can form six groups of four’)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2996bd0b-d6a7-4322-b849-10c1d3c273d3",
+        "name" : "NNMuS5",
+        "description" : [ "<ul>\n<li>identifies and represents multiplication in various ways and solves simple multiplicative problems using these representations (e.g. modelling as equal groups, arrays or regions)</li>\n</ul>", "<ul>\n<li>identifies and represents division in various ways such as sharing division or grouping division (e.g. sharing a carton of 12 eggs equally between four people , draws 12 dots and circles three groups of four  with 3 in each share)</li>\n</ul>", "<ul>\n<li>identifies and represents multiplication and division abstractly using the symbols × and ÷ (e.g. represents 3 groups of 4 as 3 × 4; uses 9 ÷ 3 to represent 9 pieces of fruit being equally shared by 3 people)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fc39703d-77c2-4c07-9a3f-007212eeec98",
+        "name" : "NNMuS6",
+        "description" : [ "<ul>\n<li>draws on the structure of multiplication to use known multiples in calculating related multiples (e.g. uses multiples of 4 to calculate multiples of 8)</li>\n</ul>", "<ul>\n<li>interprets a range of multiplicative situations using the context of the problem to form a number sentence (e.g. to calculate the total number of buttons in 2 containers, each with 5 buttons, uses the number sentence 2 × 5 = ?; if a packet of 20 pens is to be shared equally between 4, writes 20 ÷ 4 = ?)</li>\n</ul>", "<ul>\n<li>demonstrates flexibility in the use of single-digit multiplication facts (e.g. 7 boxes of 6 donuts is 42 donuts altogether because 7 × 6 = 42; multiplying any factor by one will always give a product of that factor i.e.: 1 × 6 = 6; if you multiply any number by zero the result will always be zero)</li>\n</ul>", "<ul>\n<li>uses the commutative and distributive properties of multiplication to aid computation when solving problems (e.g. 5 × 6 is the same as 6 × 5; calculates 7 × 4 by adding 5 × 4 and 2 × 4)</li>\n</ul>", "<ul>\n<li>applies mental strategies for multiplication to division and can justify their use (e.g. to divide 64 by 4, halves 64 then halves 32 to get an answer of 16)</li>\n</ul>", "<ul>\n<li>explains the idea of a remainder as what is ‘left over’ from the division (e.g. an incomplete group, lot of, next row or multiple)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d825bcc7-9b13-4312-9e0d-bb01047d808e",
+        "name" : "NNMuS7",
+        "description" : [ "<ul>\n<li>uses multiplication and division as inverse operations to solve problems or to justify a solution</li>\n</ul>", "<ul>\n<li>uses known mental and written strategies such as using the distributive property, decomposition into place value or factors to solve multiplicative problems involving numbers with up to three digits and can justify their use (e.g. 7 × 83 equals 7 × 80 plus 7 × 3; to multiply a number by 72, first multiply by 12 and then multiply the result by 6; 327 × 14 is equal to 4 × 327 plus 10 × 327)</li>\n</ul>", "<ul>\n<li>uses estimation and rounding to check the reasonableness of products and quotients (e.g. multiplies 200 by 30 to determine if 6138 is a reasonable answer to 198 × 31)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b74b3303-c4e0-4ac9-9de4-b3dd01c6e0e6",
+        "name" : "NNMuS8",
+        "description" : [ "<ul>\n<li>solves multi-step problems involving multiplicative situations using appropriate mental strategies, technology and algorithms</li>\n</ul>", "<ul>\n<li>interprets, represents and solves multifaceted problems involving all four operations with whole numbers</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/32e5fc91-a8fa-4735-b464-11cb518fb2bc",
+        "name" : "NNMuS9",
+        "description" : [ "<ul>\n<li>expresses a number as a product of its prime factors for a purpose</li>\n</ul>", "<ul>\n<li>expresses repeated factors of the same number in index form (e.g. 2 × 2 × 2 × 3 × 3 = 2<sup>3</sup> × 3<sup>2</sup>)</li>\n</ul>", "<ul>\n<li>identifies and describes products of the same number as square or cube numbers (e.g. 3 × 3 is the same as 3<sup>2</sup> which is read as three squared)</li>\n</ul>", "<ul>\n<li>describes the effect of multiplication by a decimal or fraction less than one (e.g. when multiplying whole numbers by a fraction or decimal less than 1 such as 15 × \\(\\frac12\\) = 7.5)</li>\n</ul>", "<ul>\n<li>connects and converts decimals to fractions to assist in mental computation involving multiplication or division (e.g. to calculate 16 × 0.25, recognises 0.25 as a quarter, and determines a quarter of 16 or determines 0.5 ÷ 0.25, by reading this as one half, how many quarters and giving the answer as 2)</li>\n</ul>", "<ul>\n<li>calculates the percentage of a quantity flexibly using multiplication and division (e.g. to calculate 13% of 1600 uses 0.13 × 1600 or 1600 ÷ 100 × 13)</li>\n</ul>", "<ul>\n<li>uses multiplicative strategies efficiently to solve problems involving rational numbers including integers  (e.g. calculates the average temperature for Mt Wellington for July to be -1.6 ˚C)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/dace9e76-d8bd-43b6-9ac0-a0cb5373d457",
+        "name" : "NNMuS10",
+        "description" : [ "<ul>\n<li>uses knowledge of place value and multiplicative partitioning to multiply and divide decimals efficiently (e.g. 0.461 × 200 = 0.461 × 100 × 2 = 46.1 × 2 = 92.2)</li>\n</ul>", "<ul>\n<li>flexibly operates multiplicatively with extremely large or very small numbers expressed in scientific notation (e.g. calculates the area of a computer chip measuring 2.56 × 10<sup>-6</sup> m in width by 1.4 × 10<sup>-7</sup> m in length)</li>\n</ul>", "<ul>\n<li>chooses and uses appropriate strategies to solve multiple-step problems involving rational numbers</li>\n</ul>", "<ul>\n<li>represents and solves multifaceted problems in a wide range of multiplicative situations including those involving very small or very large numbers (e.g. chooses to calculate the percentage of a percentage to determine successive discounts; determining the time it takes for sunlight to reach the earth)</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9299665d-b9f8-4e80-a046-626ecbde0e96",
+      "name" : "Interpreting fractions",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/de5c2490-f9aa-40e4-a4b3-762c826e4e18",
+        "name" : "NNInF1",
+        "description" : [ "<ul>\n<li>demonstrates that dividing a whole into two parts can create equal or unequal parts</li>\n</ul>", "<ul>\n<li>identifies the part and the whole in representations of one-half (e.g. joins two equal pieces back together to form the whole shape and can identify the pieces as equal parts of the whole shape)</li>\n</ul>", "<ul>\n<li>creates equal halves using all of the whole (e.g. folds a paper strip in half to make equal pieces by aligning the edges; cuts a sandwich in half diagonally; partitions a collection into two equal groups to represent halving)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/30c8a999-09ce-477e-9d55-56e4c8f750c9",
+        "name" : "NNInF2",
+        "description" : [ "<ul>\n<li>makes quarters and eighths by repeated halving (e.g. locates halfway then halves each half; eight counters halved and then halved again into four groups of two)</li>\n</ul>", "<ul>\n<li>identifies the part and the whole in representations of halves, quarters and eighths (e.g. identifies the fractional parts that make up the whole using fraction puzzles)</li>\n</ul>", "<ul>\n<li>represents known fractions using various models (e.g. discrete collections, continuous linear and continuous area)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0d1f4061-94a5-457d-96df-7070dc78da88",
+        "name" : "NNInF3",
+        "description" : [ "<ul>\n<li>accumulates fractional parts (e.g. knows that two-quarters is inclusive of one-quarter and twice one-quarter, not just the second quarter)</li>\n</ul>", "<ul>\n<li>checks the equality of parts by iterating one part to form the whole (e.g. when given a representation of one-quarter of a length and asked, ‘what fraction is this of the whole length?’, uses the length as a counting unit to make the whole)</li>\n</ul>", "<ul>\n<li>identifies fractions in measurement situations and solves problems using halves, quarters and eighths (e.g. quarters in an AFL match; uses two \\(\\frac12\\)-cup measures in place of a 1-cup measure)  </li>\n</ul>", "<ul>\n<li>demonstrates that fractions can be written symbolically and interprets using part-whole knowledge (e.g. interprets \\(\\frac34\\) to mean three one-quarters or three lots of \\(\\frac14\\))</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7c950ec9-77c8-4608-baa9-368950f52735",
+        "name" : "NNInF4",
+        "description" : [ "<ul>\n<li>creates thirds by visualising or approximating and adjusting (e.g. imagines a strip of paper in 3 parts, then adjusts and folds)</li>\n</ul>", "<ul>\n<li>identifies examples and non-examples of partitioned representations of fractions</li>\n</ul>", "<ul>\n<li>divides a whole into different fractional parts for different purposes (e.g. exploring the problem of sharing a cake equally between different numbers of guests)</li>\n</ul>", "<ul>\n<li>demonstrates that the more parts into which a whole is divided, the smaller the parts become</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/35a96422-1fa7-4bec-95ea-be8079757478",
+        "name" : "NNInF5",
+        "description" : [ "<ul>\n<li>identifies the need to have equal wholes to compare fractional parts (e.g. compares the pieces of pizza when two identical pizzas are cut into six and eight and describes how one-sixth is larger than one-eighth)</li>\n</ul>", "<ul>\n<li>creates fractions larger than 1 by recreating the whole (e.g. when creating four-thirds, demonstrates that three-thirds corresponds to the whole and the fourth third is part of an additional whole)</li>\n</ul>", "<ul>\n<li>creates equivalent fractions by dividing the same-sized whole into different parts (e.g. shows two-sixths is the same as one-third of the same whole; creates a fraction wall)</li>\n</ul>", "<ul>\n<li>uses partitioning to establish relationships between fractions (e.g. creates one-sixth as one-third of one-half)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3c85c5ef-0af5-4a05-b3a5-be723a2d1abd",
+        "name" : "NNInF6",
+        "description" : [ "<ul>\n<li>connects the concepts of fractions and division: a fraction is a quotient, or a division statement (e.g. two-sixths is the same as 2 ÷ 6 or 2 partitioned into 6 equal parts or to solve ‘Two chocolate bars shared among three people’ understands that it is 2 divided by 3, therefore they each get two-thirds of a chocolate bar)</li>\n</ul>", "<ul>\n<li>justifies where to place fractions on a number line (e.g. to show two-thirds on a number line divides the space between 0 and 1 into three equal parts and indicates the correct location)</li>\n</ul>", "<ul>\n<li>explains the equivalence of decimals to benchmark fractions (e.g. \\(\\frac14\\) = 0.25, \\(\\frac12\\) = 0.5, \\(\\frac34\\) = 0.75, \\(\\frac1{10}\\) = 0.1, \\(\\frac1{100}\\) = 0.01)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9a31df48-d201-4a17-8ac0-dc69e61fe5c1",
+        "name" : "NNInF7",
+        "description" : [ "<ul>\n<li>understands the equivalence relationship between a fraction, decimal and percentage as different representations of the same quantity (e.g. \\(\\frac12\\) = 0.5 = 50% because five is half of ten and fifty is half of 100)</li>\n</ul>", "<ul>\n<li>identifies a fraction as a rational number that has relative size</li>\n</ul>", "<ul>\n<li>reasons and uses knowledge of equivalence to compare and order fractions of the same whole (e.g. compares two-thirds and three-quarters of the same collection or whole, by converting them into equivalent fractions of eight-twelfths and nine-twelfths; explains that three-fifths must be greater than four-ninths because three-fifths is greater than a half and four-ninths is less than a half)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fc5f959e-6088-4408-8365-0a2ba883a221",
+        "name" : "NNInF8",
+        "description" : [ "<ul>\n<li>adds or subtracts fractions with the same denominators and justifies the need for a common denominator</li>\n</ul>", "<ul>\n<li>uses strategies to calculate a fraction of a quantity (e.g. to calculate two-thirds of 27, determines one-third then doubles; to find three-eighths of 60, knows a quarter is equivalent to two-eighths and so finds a quarter by halving and halving again to get 15, halves to give 7.5 to find an eighth then adds 15 and 7.5 to accumulate three-eighths of 60 as 22.5)</li>\n</ul>", "<ul>\n<li>explains the difference between multiplying and dividing fractions (e.g. recognises \\(\\frac12\\) × \\(\\frac14\\) as one-half of a quarter and \\(\\frac12\\) ÷ \\(\\frac14\\) as how many quarters are in one half)</li>\n</ul>", "<ul>\n<li>expresses one quantity as a fraction of another (e.g. 140 defective items from the 1120 that were produced represents one-eighth of all items produced)</li>\n</ul>", "<ul>\n<li>demonstrates why dividing by a fraction can result in a larger number</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4b61d164-d887-4cb5-af96-84d152f52643",
+        "name" : "NNInF9",
+        "description" : [ "<ul>\n<li>demonstrates that a fraction can also be used as a ratio to compare the size of two sets (e.g. if the colour ratio of a black and white pattern is 2:3, \\(\\frac25\\) is black and \\(\\frac35\\) is white and the representation of black is \\(\\frac23\\) of the white)</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/574dec5c-fcbd-415a-8c4f-456268b18bf9",
+      "name" : "Proportional thinking",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/68c7ffce-b0aa-45d7-b62c-1af4466109a9",
+        "name" : "NNPrT1",
+        "description" : [ "<ul>\n<li>explains that a percentage is a proportional relationship between a quantity and 100 (e.g. 25% means 25 for every one hundred)</li>\n</ul>", "<ul>\n<li>demonstrates that 100% is a complete whole (e.g. student explains that in order to get 100% on a quiz, you must answer every question correctly)</li>\n</ul>", "<ul>\n<li>uses percentage to describe, represent and compare relative size (e.g. selects which beaker is 75% full, describes an object as 50% of another object)</li>\n</ul>", "<ul>\n<li>uses the complement of a percentage to 100% to determine an amount (e.g. if 10% of the jellybeans in a jar are black then 90% are not black)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/106d1149-16f6-47ec-adcd-a762d9dbc817",
+        "name" : "NNPrT2",
+        "description" : [ "<ul>\n<li>explains and fluently uses interchangeably the equivalence relationship between a fraction, decimal and percentage (e.g.\\(\\frac12\\) = 0.5 = 50%; explains that at quarter time, 75% of the game is left to play)</li>\n</ul>", "<ul>\n<li>uses key percentages and their equivalences to determine the percentage of a quantity (e.g. to solve 75% of 160, I know that 50% [half] of 160 is 80, and 25% [quarter] is 40 so 75% is 120)</li>\n</ul>", "<ul>\n<li>calculates a percentage of an amount (e.g. interprets that a 25% discount on an \\($\\)80 purchase means 25% × \\($\\)80 and determines \\($\\)20 is a quarter of \\($\\)80)</li>\n</ul>", "<ul>\n<li>expresses one quantity as a percentage of another (e.g. determines what percentage 7 is of 35)</li>\n</ul>", "<ul>\n<li>uses the complement of the percentage to calculate the amount after a percentage discount (e.g. to calculate how much to pay after a 20% discount, calculates 80% of the original cost)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d30aecaf-75dc-435c-a87d-f3089c38f421",
+        "name" : "NNPrT3",
+        "description" : [ "<ul>\n<li>represents and models ratios using diagrams or objects (e.g. in a ratio 1:4 of red to blue counters, for each red counter there are four blue counters)</li>\n</ul>", "<ul>\n<li>interprets ratios as a comparison between two like quantities (e.g. ratio of students to teachers in a school is 20:1)</li>\n</ul>", "<ul>\n<li>interprets a rate as a comparison between two different types of quantities (e.g. water flow can be measured at a rate of five litres per second)</li>\n</ul>", "<ul>\n<li>expresses a ratio as equivalent fractions or percentages (e.g. the ratio of rainy days to fine days in Albany is 1:2 and so \\(\\frac13\\) of the days are rainy; in a ratio of 1:1 each part represents one \\(\\frac12\\) or 50% of the whole)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/60c39596-b426-4b36-b491-aaab6bb9d5ac",
+        "name" : "NNPrT4",
+        "description" : [ "<ul>\n<li>uses a ratio to increase or decrease quantities to maintain a given proportion (e.g. uses a scale ratio to determine distance on a map)</li>\n</ul>", "<ul>\n<li>uses rates to determine how quantities change (e.g. when travelling at a constant speed of 60 km/h how far would you have travelled in 30 minutes?)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/20e5bce6-8fe7-42df-b760-8dff5e4299d4",
+        "name" : "NNPrT5",
+        "description" : [ "<ul>\n<li>determines the whole given a percentage (e.g. given 20% is 13 mL, determines the whole is 65 mL)</li>\n</ul>", "<ul>\n<li>identifies the common unit rate to compare rates expressed in different units (e.g. calculating the best buys; comparing the relative speed of two vehicles)</li>\n</ul>", "<ul>\n<li>identifies, compares, represents and solves problems involving different rates in real world contexts</li>\n</ul>", "<ul>\n<li>determines the equivalence between two rates or ratios by expressing them in their simplest form</li>\n</ul>", "<ul>\n<li>describes how the proportion is preserved when using a ratio (e.g. uses the ratio 1:4:15 for the composition of silver, copper and gold to determine the mass of copper in a rose gold ring that weighs 8 grams)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b4ce53fc-3817-4695-afd0-1b49256792c1",
+        "name" : "NNPrT6",
+        "description" : [ "<ul>\n<li>increases and decreases quantities by a percentage (e.g. to determine percentage increases and percentage discounts)</li>\n</ul>", "<ul>\n<li>uses common fractions and decimals for proportional increase or decrease of a given amount</li>\n</ul>", "<ul>\n<li>expresses a percentage increase using a multiplier (e.g. adding 3% is the same as multiplying by 1.03)</li>\n</ul>", "<ul>\n<li>uses percentages to calculate interest payable on loans</li>\n</ul>", "<ul>\n<li>identifies and interprets situations where direct proportion is used (e.g. hours worked and payment received)</li>\n</ul>", "<ul>\n<li>uses ratio and scale factors to enlarge or reduce the size of objects (e.g. interprets the scale used on a map and determines the real distance between two locations)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e19507eb-84cf-4672-8c45-ea641615c0f3",
+        "name" : "NNPrT7",
+        "description" : [ "<ul>\n<li>identifies proportional relationships in formulas and uses proportional thinking flexibly to explore this relationship (e.g. recognises the proportional relationship between concentration and volume of a solution in the formula \\(c=\\frac nv\\) and uses this relationship to make decisions when diluting solutions)</li>\n</ul>", "<ul>\n<li>identifies, represents and chooses appropriate strategies to solve percentage problems involving proportional thinking (e.g. percentage of a percentage for calculating successive discounts; uses percentages to calculate compound interest on loans and investments; uses percentage increases or decreases as an operator, such as a 3% increase is achieved by multiplying 1.03, and 4 successive increases is multiplying by 1.03<sup>4</sup> to make meaning of the formula)</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0f33302e-ca35-4ec5-a50b-677e2f67988b",
+      "name" : "Number patterns and algebraic thinking",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/db9f849a-a801-4661-80dd-e94e77413627",
+        "name" : "NNNPA1",
+        "description" : [ "<ul>\n<li>identifies and describes patterns in everyday contexts (e.g. brick pattern in a wall or the colour sequence of a traffic light)</li>\n</ul>", "<ul>\n<li>identifies ‘same’ and ‘different’ in comparisons</li>\n</ul>", "<ul>\n<li>copies simple patterns using shapes and objects</li>\n</ul>", "<ul>\n<li>identifies numbers in standard pattern configurations without needing to count individual items (e.g. numbers represented on dominos or a standard dice)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7be098bb-4a8b-4ba2-816f-9bf6c30544b9",
+        "name" : "NNNPA2",
+        "description" : [ "<ul>\n<li>identifies the pattern unit with a simple repeating pattern (e.g. continues the repeating pattern red, blue, red, blue with red then blue)</li>\n</ul>", "<ul>\n<li>creates repeating patterns involving the repetition of a pattern unit with shapes, movements, objects and numbers (e.g. circle, square, circle, square; stamp, clap, stamp, clap; 1,2,3 1,2,3 1,2,3)</li>\n</ul>", "<ul>\n<li>continues a pattern involving shapes or objects</li>\n</ul>", "<ul>\n<li>determines a missing element within a pattern involving shapes or objects</li>\n</ul>", "<ul>\n<li>conceptually subitises by identifying patterns in standard representations (e.g. patterns within ten frames, using finger patterns to represent a quantity)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/001a0dbb-cfdb-4c7f-9eef-72bf6cf90728",
+        "name" : "NNNPA3",
+        "description" : [ "<ul>\n<li>represents growing patterns where the difference between each successive term is constant using concrete materials, then summarising the pattern numerically (e.g. constructs a pattern using concrete materials such as toothpicks, then summarises the number of toothpicks used as 4, 7, 10, 13 ...)</li>\n</ul>", "<ul>\n<li>describes rules for continuing growing patterns where the difference between each successive term is the same (e.g. to determine the next number in the pattern 3, 6, 9, 12 … you add 3; for 20, 15, 10 … the rule is described as each term is generated by subtracting five from the previous term)</li>\n</ul>", "<ul>\n<li>uses the equals sign to represent ‘is equivalent to’ or ‘is the same as’ in numerical sentences (e.g. when asked to write an expression that is equivalent to 5 + 3 the student responds 6 + 2 and then writes 5 + 3 = 6 + 2)</li>\n</ul>", "<ul>\n<li>solves number sentences involving unknowns using the inverse relationship between addition and subtraction (e.g. 3 + ? = 5 and knowing 5 - 3 = 2 then ? must be 2)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/99cb5085-5749-463c-b5e5-0e9207a3177c",
+        "name" : "NNNPA4",
+        "description" : [ "<ul>\n<li>represents growing patterns where each successive term is determined by multiplying the previous term by a constant, using concrete materials, then summarises the pattern numerically (e.g. constructs a pattern using concrete materials such as tiles then summarises the pattern as 2, 6, 18, 54 ...)</li>\n</ul>", "<ul>\n<li>describes rules for continuing patterns where each successive term is found by multiplying or dividing the previous term by the same factor (e.g. to determine the next term in the pattern 1, 3, 9, 27 … multiply by 3)</li>\n</ul>", "<ul>\n<li>uses relational thinking to determine the missing values in a number sentence (e.g. 6 + ? = 7 + 4)</li>\n</ul>", "<ul>\n<li>uses equivalent number sentences involving addition or subtraction to calculate efficiently or to find an unknown (e.g. 527 + 96 = ? is the same as 527 + 100 - 4 = ? ; If 6 + ? = 8 + 3, then as I know 8 = 6 + 2, I can write 8 + 3 as 6 + 2 + 3, which is the same as 6 + 5 therefore ‘?’ is 5)</li>\n</ul>", "<ul>\n<li>solves number sentences involving unknowns using the inverse relationship between multiplication and division (e.g. to determine the missing number in 2 × ? = 10 knowing 10 ÷ 2 is equal to five then ? must be five)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ad997a89-6c06-48f0-842d-64e7786ba2d7",
+        "name" : "NNNPA5",
+        "description" : [ "<ul>\n<li>creates and interprets tables used to summarise patterns (e.g. the cost of hiring a bike based on the cost per hour)</li>\n</ul>", "<ul>\n<li>identifies a single operation rule in numerical patterns and records it in words (e.g. European dress size = Australian dress size + 30)</li>\n</ul>", "<ul>\n<li>relates the position number of shape within a pattern to the rule for the sequence (e.g. number of counters = shape number + 2)</li>\n</ul>", "<ul>\n<li>predicts a higher term of a pattern using the pattern’s rule</li>\n</ul>", "<ul>\n<li>extends number patterns to include rational (e.g. 2, 2\\(\\frac14\\), 2\\(\\frac12\\), 2\\(\\frac34\\), 3 …; 2, -4, 8, -16 …; 10, 9.8, 9.6, 9.4 …)</li>\n</ul>", "<ul>\n<li>balances number sentences involving one or more operations following conventions of order of operations (e.g. 5 x 2 + 4 = 4 x 2 + ?<span>; 6 +? x 4 = 9 x 2)</span></li>\n</ul>", "<ul>\n<li>identifies and uses equivalence in number sentences to solve multiplicative problems (e.g. uses a number balance or other materials to model the number sentence 6 x 4 = 12 x ? in order to solve a problem)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/da21114b-99bd-421d-bb5b-e01768615d3e",
+        "name" : "NNNPA6",
+        "description" : [ "<ul>\n<li>creates algebraic expressions from word problems involving one or more operations (e.g. when n = number of egg cartons, then the number of eggs can be represented by the expression 12n)</li>\n</ul>", "<ul>\n<li>uses words or symbols to express relationships involving unknown values (e.g. number of apples packed = 48 x number of boxes packed; C = 20 + 10h)</li>\n</ul>", "<ul>\n<li>evaluates an algebraic expression or equation by substitution (e.g. uses the formula for force ‘<em>F</em>’, <em>F</em> = <em>ma </em>to calculate the force given the mass ‘m’ and the acceleration ‘a’)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/de1d59b1-3ce1-4be0-bc1d-63355e93cfd4",
+        "name" : "NNNPA7",
+        "description" : [ "<ul>\n<li>creates and identifies algebraic equations from word problems involving one or more operations (e.g. if a taxi charges \\($\\)5 call out fee then a flat rate of \\($\\)2.30 per km travelled, represents this algebraically as C = 5 + 2.3<em>d</em> where <em>d</em> is the distance travelled in km and C is the total cost of the trip)</li>\n</ul>", "<ul>\n<li>identifies and justifies equivalent algebraic expressions</li>\n</ul>", "<ul>\n<li>interprets a table of values in order to plot points on a graph</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3e4d484f-990d-4eac-bb4d-bf29a7fb0716",
+        "name" : "NNNPA8",
+        "description" : [ "<ul>\n<li>interprets and uses formulas and algebraic equations that describe relationships in various contexts (e.g. uses A = πr<sup>2</sup> to calculate the area of a circular space; uses A = P(1 + \\(\\frac rn\\))<sup>nt</sup> when working with compound interest; uses <em>v = u + at </em>to calculate the velocity of an object)</li>\n</ul>", "<ul>\n<li>plots relationships on a graph using a table of values representing authentic data (e.g. uses data collected in a spread sheet to plot results of a science experiment)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3ed67778-4d98-43a3-9634-5868d0c8e697",
+        "name" : "NNNPA9",
+        "description" : [ "<ul>\n<li>identifies the difference between linear and non-linear relationships in everyday contexts (e.g. explains that in a linear relationship, the rate of change is constant such as the cost of babysitting by the hour, whereas in a non-linear relationship the rate of change will vary and it could grow multiplicatively or exponentially such as a social media post going viral)</li>\n</ul>", "<ul>\n<li>describes and interprets the graphical features of linear and non-linear growth in authentic problems (e.g. in comparing simple and compound interest graphs; uses a line of best fit to describes the relationship between scientific data plotted on a graph)</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0de01332-0a67-4d57-8686-8341f6c4f3b5",
+      "name" : "Understanding money",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/be01d9d9-58f3-45ed-809c-847b2a8b5d23",
+        "name" : "NNUnM1",
+        "description" : [ "<ul>\n<li>identifies situations that involve the use of money</li>\n</ul>", "<ul>\n<li>identifies and describes Australian coins based on their face value</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/53cf8368-7a56-423e-82af-b506f94fcc66",
+        "name" : "NNUnM2",
+        "description" : [ "<ul>\n<li>sorts and orders Australian coins based on their face value</li>\n</ul>", "<ul>\n<li>sorts and then counts the number of Australian coins with the same face value</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7ec05a87-adca-42a5-a638-ed01ebf46d13",
+        "name" : "NNUnM3",
+        "description" : [ "<ul>\n<li>determines the equivalent value of coins sorted into one denomination</li>\n</ul>", "<ul>\n<li>counts small collections of coins according to their value</li>\n</ul>", "<ul>\n<li>writes the value of a small collection of coins in whole dollars, or whole cents using numbers and the correct dollar sign or cent symbol</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3618c81b-f4f2-47bb-8876-4daf6414d9ff",
+        "name" : "NNUnM4",
+        "description" : [ "<ul>\n<li>understands that the Australian monetary system includes both coins and notes and how they are related (e.g. orders money based on its monetary value)</li>\n</ul>", "<ul>\n<li>determines the equivalent value of coins to $5 using any combination of 5c, 10c, 20c or 50c coins</li>\n</ul>", "<ul>\n<li>represents different values of money in multiple ways</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/78a045fe-67d8-4d85-a26b-ce8e38eef4d9",
+        "name" : "NNUnM5",
+        "description" : [ "<ul>\n<li>counts a larger collection of coins by making groups (e.g. counts the coins in a money box by sorting the 5c, 10c and 20c pieces into $1 groups)</li>\n</ul>", "<ul>\n<li>determines the amount of money in a collection, including both notes and coins, using basic counting principles and the standard form of writing dollars and cents in decimal format, to two decimal places</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1000adc0-9667-488c-a4b7-a47b2707b8bd",
+        "name" : "NNUnM6",
+        "description" : [ "<ul>\n<li>calculates the total cost of several different items in dollars and cents</li>\n</ul>", "<ul>\n<li>counts the change required for simple transactions to the nearest five cents</li>\n</ul>", "<ul>\n<li>calculates the change, to the nearest five cents, after a purchase using additive strategies</li>\n</ul>", "<ul>\n<li>determines the conditions for a profit or a loss on a transaction</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/388a861c-2844-4a94-adec-b05ae82b4ca7",
+        "name" : "NNUnM7",
+        "description" : [ "<ul>\n<li>calculates the total cost of several identical items in dollars and cents</li>\n</ul>", "<ul>\n<li>connects the multiplicative relationship between dollars and cents to decimal notation (e.g. explains that a quarter of dollar is equal to \\($\\)0.25 or 25 cents; calculates what 150 copies will cost if they are advertised at 15c a print and expresses this in dollars and cents as \\($\\)22.50)</li>\n</ul>", "<ul>\n<li>solves problems, such as repeated purchases, splitting a bill or calculating monthly subscription fees, using multiplicative strategies</li>\n</ul>", "<ul>\n<li>makes and uses simple financial plans (e.g. creates a classroom budget for an excursion; planning for a school fete)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3dbbbb8b-74da-44f9-8632-81dac85ea523",
+        "name" : "NNUnM8",
+        "description" : [ "<ul>\n<li>calculates the percentage change [10, 20, 25 and 50%] with and without the use of technology (e.g. using GST as 10% multiplies an amount by 0.1 to calculate the GST payable or divides the total paid by 11 to calculate the amount of GST charged; calculates the cost after a 25% discount on items)</li>\n</ul>", "<ul>\n<li>calculates income tax payable using taxation tables</li>\n</ul>", "<ul>\n<li>interprets an interest rate from a given percentage and calculates simple interest payable on a short-term loan (e.g. calculates the total interest payable on a car loan)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1bf4b2a5-4508-4b31-8ac6-70dd8ed182a3",
+        "name" : "NNUnM9",
+        "description" : [ "<ul>\n<li>determines the ‘best buy’ using a variety of strategies (e.g. comparing cost per 100 g or comparing the cost of a single item on sale versus a multi-pack at the regular price)</li>\n</ul>", "<ul>\n<li>determines the best payment method or payment plan for a variety of contexts using rates, percentages and discounts (e.g. decides which phone plan would be better based on call rates, monthly data usage, insurance and other upfront costs)</li>\n</ul>", "<ul>\n<li>calculates the percentage change including the profit or loss made on a transaction (e.g. profit made from on selling second-hand goods through an online retail site)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/349fb609-2a4e-4710-9fd4-03662c4bdc74",
+        "name" : "NNUnM10",
+        "description" : [ "<ul>\n<li>calculates compound interest and connects it to repeated applications of simple interest</li>\n</ul>", "<ul>\n<li>identifies and evaluates the costs associated with a major purchase (e.g. in purchasing a car calculates the depreciation, ongoing maintenance, insurance and the effect of loan repayments on disposable income)</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    } ]
+  }, {
+    "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/deef41d6-152a-4f3e-b840-e5bd778c0fcb",
+    "name" : "Measurement and geometry",
+    "description" : [ ],
+    "children" : [ {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e930ece0-6659-4d45-8afe-7962648d54bf",
+      "name" : "Understanding units of measurement",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/aaec24ee-184e-4d2e-9cce-24874bcc80e3",
+        "name" : "NMUuM1",
+        "description" : [ "<ul>\n<li>uses gestures and informal language to identify the size of objects (e.g. holds hands apart and says ‘it’s this big’)</li>\n</ul>", "<ul>\n<li>uses everyday language to describe attributes in absolute terms that can be measured (e.g. my tower is tall, this box is heavy, it is warm today)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ea09d10b-e5ac-44a9-919a-7ecc850c71a2",
+        "name" : "NMUuM2",
+        "description" : [ "<ul>\n<li>uses direct comparison to compare two objects and indicates whether they are the same or different based on attributes such as length, height, mass or capacity (e.g. compares the length of two objects by aligning the ends; pours sand or water from one container to another to decide which holds more)</li>\n</ul>", "<ul>\n<li>uses comparative language to compare two objects (e.g. states which is shorter or longer, lighter or heavier)</li>\n</ul>", "<ul>\n<li>orders three or more objects by comparing pairs of objects (e.g. decides where to stand in a line ordered by height by comparing their height to others directly)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/73a60b2a-6527-4d96-ac16-8655953c6e59",
+        "name" : "NMUuM3",
+        "description" : [ "<ul>\n<li>measures an attribute by choosing and using multiple identical, informal units</li>\n</ul>", "<ul>\n<li>selects the appropriate size and dimensions of an informal unit to measure and compare attributes (e.g. chooses a linear unit such as a pencil to measure length, or a square unit such as a tile to measure area)</li>\n</ul>", "<ul>\n<li>chooses and uses appropriate uniform informal units to measure length and area without gaps or overlaps (e.g. uses the same sized paper clips to measure the length of a line; uses tiles, rather than counters to measure the area of a sheet of paper because the tiles fit together without gaps)</li>\n</ul>", "<ul>\n<li>uses multiple uniform informal units to measure and make direct comparisons between the mass or capacity of objects (e.g. uses a balance scale and a number of same-sized marbles to compare mass; uses a number of cups of water or buckets of sand to measure capacity)</li>\n</ul>", "<ul>\n<li>counts the individual uniform units used by ones to compare measurements (e.g. I counted 4 matchsticks across my book and the shelf is 5 matchsticks wide, so I know my book will fit)</li>\n</ul>", "<ul>\n<li>estimates the total number of uniform informal units needed to measure or compare attributes (e.g. uses a handspan or a finger width; stands an arm length apart)</li>\n</ul>", "<ul>\n<li>checks an estimate using informal units to compare to predicted measurement</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c608fbe5-1bd8-4410-bf9c-e747b78f4c0d",
+        "name" : "NMUuM4",
+        "description" : [ "<ul>\n<li>measures length using a single informal unit repeatedly (e.g. uses one paper clip to measure the length of a line, making the first unit, marking its place, then moving the paper clip along the line and repeating this process)</li>\n</ul>", "<ul>\n<li>compares the area of two or more shapes using an informal single unit of measure repeatedly (e.g. using a sheet of paper to measure the area of a desktop)</li>\n</ul>", "<ul>\n<li>measures an attribute by counting the number of units used</li>\n</ul>", "<ul>\n<li>uses familiar household items as benchmarks when estimating mass and capacity (e.g. compares capacities based on knowing the capacity of a bottle of water)</li>\n</ul>", "<ul>\n<li>describes a turn in both direction and the amount of turn (e.g. a quarter turn to the right, a full turn on the spot)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4dc78886-4f57-42fc-9556-60e68870d25d",
+        "name" : "NMUuM5",
+        "description" : [ "<ul>\n<li>uses the array structure to calculate area measured in square units (e.g. draws and describes the column and row structure to represent area as an array, moving beyond counting of squares by ones)</li>\n</ul>", "<ul>\n<li>uses rows, columns and layers to calculate the volume in cubes of a rectangular prism (e.g. My prism has four rows of two cubes in the first layer and I’ve made it three layers high so that’s  4 × 2 = 8 and 3 × 8 = 24, so the volume is 24 cubes)</li>\n</ul>", "<ul>\n<li>estimates the measurement of an attribute by visualising between known informal units (e.g. uses a cup to measure a half cup of rice; determines that about three sheets of paper would fit across a desk, and close to six might fit along it, so the area of the desk is about eighteen sheets of paper)</li>\n</ul>", "<ul>\n<li>explains the difference between different attributes of the same shape or object (e.g. area and perimeter, mass and capacity)</li>\n</ul>", "<ul>\n<li>describes the size of an angle as an amount of turn (e.g. the angle between the blades gets bigger as you open the scissors)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1558b3dc-f6a6-4134-9589-1c14f935629f",
+        "name" : "NMUuM6",
+        "description" : [ "<ul>\n<li>measures, compares and estimates length, perimeter and area using standard metric units (e.g. I drew around my hand on centimetre grid paper and counted to find the area is about 68 square centimetres)</li>\n</ul>", "<ul>\n<li>uses scaled instruments to measure length, mass, capacity and temperature</li>\n</ul>", "<ul>\n<li>estimates measurements of an attribute using formal units (e.g. estimates the width of their thumb is close to a centimetre; compares capacities based on the capacity of a 600 ml bottle of water)</li>\n</ul>", "<ul>\n<li>compares angles to a right angle and classifies them as equal to, less than or greater than a right angle</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/11c75941-7460-4e38-8f03-6c284ea5a20d",
+        "name" : "NMUuM7",
+        "description" : [ "<ul>\n<li>calculates perimeter using properties of two-dimensional shapes to determine unknown lengths</li>\n</ul>", "<ul>\n<li>measures and calculates the area of different shapes using formal units and a range of strategies</li>\n</ul>", "<ul>\n<li>estimates and measures angles in degrees up to one revolution (e.g. uses a protractor to measure the size of an angle)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3ec947d6-f30c-4736-9421-44f7bf80c3f9",
+        "name" : "NMUuM8",
+        "description" : [ "<ul>\n<li>converts between metric units of measurement</li>\n</ul>", "<ul>\n<li>describes the relationship between metric units of measurement and the base-ten place value system</li>\n</ul>", "<ul>\n<li>establishes and uses formulas for calculating the area of rectangles and triangles</li>\n</ul>", "<ul>\n<li>measures and uses key angles [45˚, 90˚, 180˚, 360˚] to define other angles according to their size (e.g. measures a right angle to be 90˚ and uses this to determine if two lengths are perpendicular)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3910aeb3-2d73-4d66-a504-bbd71a67701f",
+        "name" : "NMUuM9",
+        "description" : [ "<ul>\n<li>establishes and uses formulas for calculating the area of parallelograms, trapeziums, rhombuses and kites</li>\n</ul>", "<ul>\n<li>establishes and uses formulas for calculating the volume of a range of prisms</li>\n</ul>", "<ul>\n<li>informally estimates the circumference of a circle using the radius or diameter</li>\n</ul>", "<ul>\n<li>establishes the relationship between the circumference and the diameter of a circle as the constant (pi)</li>\n</ul>", "<ul>\n<li>calculates the circumference and the area of a circle using pi and a known diameter or radius</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c07b20e4-8603-4780-ac7f-01237ab9147f",
+        "name" : "NMUuM10",
+        "description" : [ "<ul>\n<li>uses dissection and rearrangement to calculate area and volume</li>\n</ul>", "<ul>\n<li>uses formal units and formulas to calculate the surface area of prisms, cylinders, cones and pyramids</li>\n</ul>", "<ul>\n<li>uses the conversion between units of volume and capacity to calculate the capacity of objects based on the internal volume and vice versa</li>\n</ul>", "<ul>\n<li>identifies appropriate units to use according to the level of precision required (e.g. building plans show measurements in mm, but to purchase enough carpet you need to measure the length and width of the room and round up to the nearest whole metre)</li>\n</ul>", "<ul>\n<li>uses and applies Pythagoras theorem to authentic contexts (e.g. determines the height of a television screen, given the diagonal length of the screen is 110cm and having measured its length as 88.6cm)</li>\n</ul>", "<ul>\n<li>uses and applies properties of congruent and similar triangles to authentic contexts to determine unknown angles and sides</li>\n</ul>", "<ul>\n<li>uses trigonometry to calculate the unknown lengths or angles in authentic problems</li>\n</ul>", "<ul>\n<li>chooses an appropriate method to solve problems involving right triangles in authentic contexts</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c584edb4-6e85-4764-a35b-97184b9e46c5",
+      "name" : "Understanding geometric properties",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/598f36bf-f9be-4d5d-874c-1a220de3b4d8",
+        "name" : "NMUGP1",
+        "description" : [ "<ul>\n<li>uses everyday language to describe and compare shapes and objects (e.g. round, small, flat, pointy)</li>\n</ul>", "<ul>\n<li>locates and describes similar shapes and objects in the environment</li>\n</ul>", "<ul>\n<li>names familiar shapes in the environment (e.g. circle, triangle, square)</li>\n</ul>", "<ul>\n<li>identifies and describes a turn in either direction (e.g. turn the doorknob clockwise; turn to your left)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fecaa703-e18d-469a-8c02-b3de4b9b70b5",
+        "name" : "NMUGP2",
+        "description" : [ "<ul>\n<li>identifies and describes features of shapes and objects (e.g. sides, corners, faces, edges and vertices)</li>\n</ul>", "<ul>\n<li>sorts and classifies familiar shapes and objects based on obvious features (e.g. triangles have three sides; a sphere is round like a ball)</li>\n</ul>", "<ul>\n<li>identifies features of shapes of different sizes and in different orientations in the environment following basic one-step translations, reflections or rotations (e.g. using a half turn, flipping the shape over)</li>\n</ul>", "<ul>\n<li>explains that the shape or object does not change when presented in different orientations (e.g. a square remains a square when rotated)</li>\n</ul>", "<ul>\n<li>identifies angles in the environment (e.g. an angle formed when a door is opened; identifies there are four angles in a square)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/42221169-856d-44b2-a003-daedf96be95c",
+        "name" : "NMUGP3",
+        "description" : [ "<ul>\n<li>identifies the relationship between the number of sides of a two-dimensional shape and the number of corners (e.g. if the shape has four sides, it has four corners)</li>\n</ul>", "<ul>\n<li>describes and identifies the two-dimensional shapes represented by the faces of three-dimensional objects (e.g. recognises the faces of a triangular prism as triangles and rectangles)</li>\n</ul>", "<ul>\n<li>represents shapes and objects (e.g. drawing and sketching; model building such as skeletal models and centi-cubes; using digital drawing packages)</li>\n</ul>", "<ul>\n<li>determines whether a shape has line symmetry (e.g. folds paper cut-outs of basic shapes to demonstrate which has line symmetry and which does not)</li>\n</ul>", "<ul>\n<li>identifies symmetry in the environment</li>\n</ul>", "<ul>\n<li>identifies and creates patterns involving one- and two-step transformations of shapes (e.g. uses pattern blocks to create a pattern and describes how the pattern was created)</li>\n</ul>", "<ul>\n<li>compares angles to a right angle, classifying them as greater than, less than or equal to a right angle</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a9dc5676-4d66-4389-a148-b57fa2faca39",
+        "name" : "NMUGP4",
+        "description" : [ "<ul>\n<li>classifies two-dimensional shapes according to their side and angle properties (e.g. describes a square as a regular rectangle)</li>\n</ul>", "<ul>\n<li>identifies key features of shapes (e.g. explains that quadrilaterals have two diagonals however they are not always equal in length)</li>\n</ul>", "<ul>\n<li>aligns three-dimensional objects to their two-dimensional nets</li>\n</ul>", "<ul>\n<li>identifies the relationship between the number of faces, edges and the number of vertices of a three-dimensional object (e.g. uses a table to list the number of faces, edges and vertices of common three-dimensional objects and identifies the relationships in the data)</li>\n</ul>", "<ul>\n<li>identifies that shapes can have rotational symmetry (e.g. ‘this drawing of a flower is symmetrical; I can spin it around both ways and it always looks exactly the same’)</li>\n</ul>", "<ul>\n<li>creates symmetrical designs using a range of shapes and identifies the type of symmetry as appropriate</li>\n</ul>", "<ul>\n<li>creates tessellating patterns with common shapes, deciding which will tessellate and which will not by referring to their sides and angles</li>\n</ul>", "<ul>\n<li>estimates, compares and constructs angles (e.g. uses a ruler and protractor to construct a 45˚ angle; compares the size of angles in the environment and estimates their size)</li>\n</ul>", "<ul>\n<li>describes angles in the environment according to their size as acute, obtuse, right, straight, reflex or a revolution and identifies them in shapes and objects (e.g. identifies slope as angles in the environment such as the ramp outside of the school block)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/80d5992d-0a80-422f-aedf-e2fcd3eab1d7",
+        "name" : "NMUGP5",
+        "description" : [ "<ul>\n<li>classifies three-dimensional objects according to their properties (e.g. describes the difference between a triangular prism and a triangular pyramid)</li>\n</ul>", "<ul>\n<li>relates pyramids and prisms to their two-dimensional nets</li>\n</ul>", "<ul>\n<li>uses combinations of reflecting, translating and rotating shapes to describe and create patterns and solve problems</li>\n</ul>", "<ul>\n<li>identifies tessellations used in the environment and explains why some combinations of shapes will tesselate whilst others will not (e.g. tiling a wall using a combination of different shaped tiles; exploring regular and semi-regular tessellations in architectural design)</li>\n</ul>", "<ul>\n<li>explains the result of changing critical and non-critical properties of shapes (e.g. if I enlarge a square, it’s still a square, or if I rotate a square it remains a square but if I change the length of one of its sides, it’s no longer a square)</li>\n</ul>", "<ul>\n<li>identifies supplementary and complementary angles and uses them to solve problems</li>\n</ul>", "<ul>\n<li>identifies that angles at a point add to 360° and that vertically opposite angles are equal and reasons to solve problems</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/98d6ecf4-e4ec-4c1f-9bce-6fb2d4c2a02e",
+        "name" : "NMUGP6",
+        "description" : [ "<ul>\n<li>investigates properties of a triangle (e.g. explains why the longest side is always opposite the largest angle in a triangle; recognises that the combined length of two sides of a triangle must always be greater than the length of the third side)</li>\n</ul>", "<ul>\n<li>uses relevant properties of common geometrical shapes to determine unknown lengths and angles</li>\n</ul>", "<ul>\n<li>enlarges and reduces shapes according to a given scale factor and explains what features change and what stay the same (e.g. says ‘when I double the dimensions of the rectangle, all of the lengths are twice as long as they were, but the size of the angles stay the same)</li>\n</ul>", "<ul>\n<li>applies angle properties to solve problems that involve the transformation of shapes and objects and how they are used in practice (e.g. when determining which shapes tessellate)</li>\n</ul>", "<ul>\n<li>uses angle properties to identify perpendicular and parallel lines</li>\n</ul>", "<ul>\n<li>demonstrates that the angle sum of a triangle is 180˚ and uses this to solve problems</li>\n</ul>", "<ul>\n<li>identifies interior angles in shapes to calculate angle sum</li>\n</ul>", "<ul>\n<li>uses angle properties to identify and calculate unknown angles in familiar two-dimensional shapes</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7c339257-2846-4d65-bc32-7faa567d1f7c",
+        "name" : "NMUGP7",
+        "description" : [ "<ul>\n<li>uses the Pythagoras theorem to solve right-angled triangle problems</li>\n</ul>", "<ul>\n<li>determines the conditions for triangles to be similar</li>\n</ul>", "<ul>\n<li>determines the conditions for triangles to be congruent</li>\n</ul>", "<ul>\n<li>uses the enlargement transformation to explain similarity and develop the conditions for triangles to be similar</li>\n</ul>", "<ul>\n<li>solves problems using ratio and scale factors in similar figures</li>\n</ul>", "<ul>\n<li>uses angle properties to reason geometrically, in order to solve spatial problems (e.g. applies an understanding of the relationship between the base angles of an isosceles triangle to determine the size of a similar shape in order to solve a problem)</li>\n</ul>", "<ul>\n<li>uses trigonometry to calculate the unknown angles and unknown distances in authentic problems   (e.g. measures the height of a tree using a clinometer to measure the angle of inclination and trigonometry to approximate the vertical height; calculates the angle of inclination for a ramp)</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/88c8ef56-6d71-4a5c-baa8-18d27f47d75e",
+      "name" : "Positioning and locating",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5bfe30b6-ddd5-4f1e-a480-f9fac2f7d4ca",
+        "name" : "NMPoL1",
+        "description" : [ "<ul>\n<li>locates positions in the classroom relevant to self (e.g. hangs their hat on their own hook, puts materials in their own tray; says ‘my bag is under my desk’)</li>\n</ul>", "<ul>\n<li>orients self to other positions in the classroom (e.g. collects a box of scissors from the shelf at the back of the classroom)</li>\n</ul>", "<ul>\n<li>follows simple instructions using positional language (e.g. please stand near the door, you can sit on your chair, put your pencil case in your bag, crawl through the tunnel)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2488f872-1816-4396-acf5-3597f9685c5a",
+        "name" : "NMPoL2",
+        "description" : [ "<ul>\n<li>uses positional terms with reference to themselves (e.g. sit next to me, you stood in front of me, this is my left hand)</li>\n</ul>", "<ul>\n<li>interprets a simple diagram or picture to describe the position of an object in relation to other objects (e.g. the house is between the river and the school)</li>\n</ul>", "<ul>\n<li>gives and follows simple directions to move from one place to another using familiar reference points (e.g. walk past the flagpole around the vegetable patch and you will find Mr Smith’s classroom)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/cfb8865e-3e13-4125-80b4-5a1dbaec150c",
+        "name" : "NMPoL3",
+        "description" : [ "<ul>\n<li>draws an informal map or sketch to provide directions</li>\n</ul>", "<ul>\n<li>describes and locates relative positions on an informal map</li>\n</ul>", "<ul>\n<li>orients an informal map using recognisable landmarks and current location</li>\n</ul>", "<ul>\n<li>locates self on an informal map to select an appropriate path to a given location</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0d68d090-d1b9-4813-ac6f-953c6acc9ae9",
+        "name" : "NMPoL4",
+        "description" : [ "<ul>\n<li>locates position on maps using grid references</li>\n</ul>", "<ul>\n<li>describes routes using landmarks and directional language</li>\n</ul>", "<ul>\n<li>interprets keys, simple scales and compass directions contained within a map to locate features</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0431dd6c-f415-4aeb-ab81-7a05bcc14a3f",
+        "name" : "NMPoL5",
+        "description" : [ "<ul>\n<li>interprets the scale used to create plans, drawings or maps</li>\n</ul>", "<ul>\n<li>interprets and uses plans and maps involving scale</li>\n</ul>", "<ul>\n<li>describes and interprets maps to determine the geographical location and positioning of states and territories within Australia and of countries relative to Australia</li>\n</ul>", "<ul>\n<li>uses more formal directional language such as compass directions and coordinates to locate position</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f5b67b5f-9dc5-46fd-aadd-dae83b8610d1",
+      "name" : "Measuring time",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1868b8c3-e1af-4ae6-9c19-08083f255056",
+        "name" : "NMMeT1",
+        "description" : [ "<ul>\n<li>uses the language of time to describe events in relation to past, present and future (e.g. yesterday I.., today I .., tomorrow I will .., next week I will ..)</li>\n</ul>", "<ul>\n<li>applies an understanding of passage of time to sequence events using everyday language (e.g. I play sport on the weekend and have training this afternoon; the bell is going to go soon; we have cooking tomorrow)</li>\n</ul>", "<ul>\n<li>uses direct comparison to compare time duration of two actions, knowing they must begin the actions at the same time (e.g. who can put their shoes on in the shortest time)</li>\n</ul>", "<ul>\n<li>measures time duration by counting and using informal units (e.g. counting to 20 while children hide when playing hide and seek)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bf1425d0-ea20-4aa6-941b-2035ed482574",
+        "name" : "NMMeT2",
+        "description" : [ "<ul>\n<li>uses and justifies the appropriate unit of time to describe the duration of events (e.g. uses minutes to describe time taken to clean teeth; uses hours to describe the duration of a long-distance car trip)</li>\n</ul>", "<ul>\n<li>identifies the clockface is a circle subdivided into 12 parts and uses these to allocate hour markers</li>\n</ul>", "<ul>\n<li>identifies that hour markers on a clock can also represent quarter-hour and half-hour marks and shows that there is a minute hand and an hour hand on a clock</li>\n</ul>", "<ul>\n<li>identifies the direction of clockwise and anticlockwise relating it to the hands of the clock</li>\n</ul>", "<ul>\n<li>reads time on analogue clocks to the hour, half-hour and quarter-hour</li>\n</ul>", "<ul>\n<li>names and orders days of the week and months of the year</li>\n</ul>", "<ul>\n<li>uses a calendar to identify the date and determine the number of days in each month</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/07b1c3d5-023a-4e7f-b2f9-64048d7dd9ab",
+        "name" : "NMMeT3",
+        "description" : [ "<ul>\n<li>uses standard instruments and units to describe and measure time to hours, minutes and seconds (e.g. measures time using a stopwatch; sets a timer on an appliance; estimates the time it would take to walk to the other side of the school oval and uses minutes as the unit of measurement)</li>\n</ul>", "<ul>\n<li>reads and interprets different representations of time (e.g. on an analogue clock, watch or digital clock)</li>\n</ul>", "<ul>\n<li>identifies the minute hand movement on an analogue clock and the 60-minute markings, interpreting the numbers as representing lots of five (e.g. interprets the time on an analogue clock to read seven forty, by reading the hour hand and the minute hand and explaining how they are related)</li>\n</ul>", "<ul>\n<li>uses smaller units of time such as seconds to record duration of events</li>\n</ul>", "<ul>\n<li>uses a calendar to calculate time intervals in days and weeks, bridging months</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/21fc4c0d-12e8-429e-9132-391e2cca95e4",
+        "name" : "NMMeT4",
+        "description" : [ "<ul>\n<li>identifies the relationship between units of time (e.g. months and years; seconds, minutes and hours)</li>\n</ul>", "<ul>\n<li>uses am and pm notation to distinguish between morning and afternoon using 12-hour time</li>\n</ul>", "<ul>\n<li>determines elapsed time using different units (e.g. hours and minutes, days and weeks)</li>\n</ul>", "<ul>\n<li>interprets and uses a timetable</li>\n</ul>", "<ul>\n<li>constructs timelines using a time scale (e.g. chronologically sequences history of the school)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a2e78929-fb84-49c9-ac0b-7242c6186ae8",
+        "name" : "NMMeT5",
+        "description" : [ "<ul>\n<li>interprets and converts between 12-hour and 24-hour digital time, and analogue and digital representations of time to solve duration problems</li>\n</ul>", "<ul>\n<li>converts between units of time, using appropriate conversion rates, to solve problems involving time (e.g. uses that there are 60 seconds in a minute to calculate the percentage improvement a 1500m runner made to their personal best time)</li>\n</ul>", "<ul>\n<li>uses rates involving time to solve problems (e.g. travelling at 60 km/h, how far will I travel in 30 minutes?)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7f517c62-5a1e-4a24-b2a4-7c5ab0dd4b7c",
+        "name" : "NMMeT6",
+        "description" : [ "<ul>\n<li>uses appropriate metric prefixes to measure both large and small durations of time (e.g. millennia, nanoseconds)</li>\n</ul>", "<ul>\n<li>constructs timelines using an appropriate scale (e.g. chronologically sequences historical events)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5c5e75ce-2470-4e83-8231-ca018b7218dd",
+        "name" : "NMMeT7",
+        "description" : [ "<ul>\n<li>investigates, describes and interprets data collected over time (e.g. uses a travel graph to describe a journey; interprets data collected over a period of time using a graphical representation and makes a prediction for the future behaviour of the data)</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    } ]
+  }, {
+    "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/70980025-4b12-4dfc-83d4-87c945d7ecec",
+    "name" : "Statistics and probability",
+    "description" : [ ],
+    "children" : [ {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bf3fc1da-5ebf-4649-abb0-88582ce9a77b",
+      "name" : "Understanding chance",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5a00f836-38e7-48e2-bc80-cba8b62dd8b0",
+        "name" : "NSUnC1",
+        "description" : [ "<ul>\n<li>describes everyday occurrences that involve chance</li>\n</ul>", "<ul>\n<li>makes predictions on the likelihood of simple, everyday occurrences as to it will or won’t, might or might not happen (e.g. I might be able to come and play at your house today; next year I will be … years old; my tower might not fall down)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d938d9aa-09df-4a1b-bbd2-4864d4b57f43",
+        "name" : "NSUnC2",
+        "description" : [ "<ul>\n<li>describes and orders the likelihood of events in non-quantitative terms such as certain, likely, highly likely, unlikely, impossible (e.g. if there are more blue than red marbles in a bag, blue is more likely to be selected; I am certain that I won’t win the competition because I didn’t enter)</li>\n</ul>", "<ul>\n<li>records outcomes of chance experiments in tables and charts</li>\n</ul>", "<ul>\n<li>demonstrates that outcomes of chance experiments may differ from expected results (e.g. we will not get the same results every time we roll a dice)</li>\n</ul>", "<ul>\n<li>draws conclusions that recognise variation in results of chance experiments (e.g. you rolled a lot of sixes this game, I hope I get more sixes next time) </li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/876d49ed-6abd-4655-9a96-f813021673b1",
+        "name" : "NSUnC3",
+        "description" : [ "<ul>\n<li>identifies all possible outcomes of one-step experiments and records outcomes in tables and charts</li>\n</ul>", "<ul>\n<li>explains why outcomes of chance experiments may differ from expected results (e.g. just because there are six numbers on a dice doesn’t mean you are going to roll a 6 every six rolls, you may not roll a 6 in the entire game)</li>\n</ul>", "<ul>\n<li>explains that 'fairness' of outcomes is related to the notions of equal likelihood of all possible outcomes (e.g. uses phrases such as fifty-fifty when there are two outcomes and when two events occurring are equally likely)</li>\n</ul>", "<ul>\n<li>identifies unfair elements in games that affect the chances of winning (e.g. having an unequal number of turns; weighted dice)</li>\n</ul>", "<ul>\n<li>explains that the probabilities of all chance events are either ‘impossible’, ‘certain to happen’ or lie somewhere in between</li>\n</ul>", "<ul>\n<li>identifies events where the chance of one event occurring will not affect the occurrence of the other (e.g. if a coin is tossed and heads have come up seven times in a row, it is still equally likely that the next toss will be either a head or a tail)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/028fa1ba-c375-4707-81f9-716d20a50ab6",
+        "name" : "NSUnC4",
+        "description" : [ "<ul>\n<li>expresses the theoretical probability of an event as the number of ways an event can happen out of the total number of possibilities</li>\n</ul>", "<ul>\n<li>identifies a range of chance events that have a probability from 0 - 1 (e.g. you have zero probability of rolling a 7 with one roll of a standard 6-sided dice; the probability that tomorrow is Wednesday given today is Tuesday is 1)</li>\n</ul>", "<ul>\n<li>describes probabilities as fractions of one (e.g. the probability of an even number when rolling a dice is \\(\\frac36\\)</li>\n</ul>", "<ul>\n<li>expresses probabilities as fractions, decimals, percentages and ratios recognising that all probabilities lie on a measurement scale of 0 to 1 (e.g. uses numerical representations such as 75% chance of rain or 4 out 5 people liked the story; explains why you can’t have a probability less than zero)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7b22b690-aa73-4e4c-a989-a1e925c6b229",
+        "name" : "NSUnC5",
+        "description" : [ "<ul>\n<li>determines the probability of compound events and explains why some results have a higher probability than others (e.g. tossing two coins)</li>\n</ul>", "<ul>\n<li>represents diagrammatically all possible outcomes (e.g. tree diagrams, two-way tables, Venn diagrams)</li>\n</ul>", "<ul>\n<li>measures and compares expected results to the actual results of a chance event over a number of trials and compares and explains the variation in results (e.g. uses probability to determine expected results of a spinner prior to trial)</li>\n</ul>", "<ul>\n<li>recognises that the chance of something occurring or its complement has a total probability of 1 (e.g the probability of rolling a 3 is \\(\\frac16\\) and the probability of not rolling a 3 is \\(\\frac56\\)</li>\n</ul>", "<ul>\n<li>calculates and explains the difference between the probabilities of chance events with and without replacement (e.g. if we put all of the class names in a hat and draw them out one at a time without putting the name back in, the probability of your name getting called out increases each time because the total number of possible outcomes decreases)</li>\n</ul>", "<ul>\n<li>calculates the probabilities of future events based on historical data (e.g. uses historical rainfall data to plan the date for an outdoor event)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a375ae6d-26da-457c-875b-3f9bb452e756",
+        "name" : "NSUnC6",
+        "description" : [ "<ul>\n<li>recognises combinations of events and the impact they have on assigning probabilities (e.g. and, or, not, if not, at least)</li>\n</ul>", "<ul>\n<li>solves conditional probability problems informally using data in two-way tables and authentic contexts</li>\n</ul>", "<ul>\n<li>evaluates chance data reported in media for meaning and accuracy</li>\n</ul>", "<ul>\n<li>applies probabilistic/chance reasoning to data collected in statistical investigations when making decisions acknowledging uncertainty</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    }, {
+      "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3ec916b6-29fa-4504-8c31-3906f5913c21",
+      "name" : "Interpreting and representing data",
+      "description" : [ ],
+      "children" : [ {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/cda8212a-9f97-4d65-baf9-473fee9ee4fa",
+        "name" : "NSIRD1",
+        "description" : [ "<ul>\n<li>poses and answers simple questions and collects responses (e.g. collects data from a simple yes/no question by getting respondents to form a line depending upon their answer)</li>\n</ul>", "<ul>\n<li>displays information using real objects, drawings or photographs (e.g. collects leaves from outside the classroom and displays them in order of size)</li>\n</ul>", "<ul>\n<li>sorts and classifies shapes and objects into groups based on their features or characteristics and describes how they have been sorted (e.g. sorts objects by colour)</li>\n</ul>", "<ul>\n<li>identifies things that vary or stay the same in everyday life (e.g. it is always dark at night; although jellybeans are the same size, they can be different colours)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7d7d41c0-ee9c-416c-a492-d691c5dcb47a",
+        "name" : "NSIRD2",
+        "description" : [ "<ul>\n<li>poses questions that could be investigated from a simple numerical or categorical data set (e.g. number of family members, types of pets, where people live)</li>\n</ul>", "<ul>\n<li>displays and describes one variable data in lists or tables</li>\n</ul>", "<ul>\n<li>communicates information through text, pictures, graphs and tables using numbers and symbols (e.g. creates picture graphs to display one-variable data)</li>\n</ul>", "<ul>\n<li>responds to questions and interprets general observations made about data represented in simple one-to-one data displays (e.g. responds to questions about the information represented in a simple picture graph that uses a one-to-one representation)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/480662d2-3b7f-4621-aa24-5c9a0b2a7517",
+        "name" : "NSIRD3",
+        "description" : [ "<ul>\n<li>designs simple survey questions to collect categorical data</li>\n</ul>", "<ul>\n<li>collects, records and displays one variable data in variety of way such as tables, charts, plots and graphs using the appropriate technology (e.g. uses a spread sheet to record data collected in a simple survey and generates a column graph to display the results)</li>\n</ul>", "<ul>\n<li>displays and interprets categorical data in one-to-many data displays</li>\n</ul>", "<ul>\n<li>interprets categorical data in simple graphical displays such as bar and column graphs, pie charts and makes simple inferences</li>\n</ul>", "<ul>\n<li>makes comparisons from categorical data displays using relative heights from a common baseline (e.g. compares the heights of the columns in a simple column graph to determine the tallest and recognises this as the most frequent response)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9036a02e-6e61-4909-bc0b-9909184e0ba7",
+        "name" : "NSIRD4",
+        "description" : [ "<ul>\n<li>collects and records discrete numerical data using an appropriate method for recording (e.g. uses a frequency chart to record the experimental results for rolling a dice)</li>\n</ul>", "<ul>\n<li>constructs graphical representations of numerical data and explains the difference between continuous and discrete data</li>\n</ul>", "<ul>\n<li>explains how data displays can be misleading (e.g. whether a scale should start at zero; not using uniform intervals on the axes)</li>\n</ul>", "<ul>\n<li>interprets data displayed using a multi-unit scale, reading values between the marked units</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a8dae518-c875-4240-aca3-ec11792e519c",
+        "name" : "NSIRD5",
+        "description" : [ "<ul>\n<li>poses questions based on variations in continuous numerical data and chooses the appropriate method to record results (e.g. collects information on the heights of buildings or daily temperatures, tabulates the results and represents these graphically)</li>\n</ul>", "<ul>\n<li>uses numerical and graphical representations relevant to the purpose of the collection of the data and explains their reasoning (e.g. ‘I can’t use a frequency histogram for categorical data because there is no numerical connection between the categories’; converts their data to percentages in order to compare the girls results to that of the boys, as the total number of boys and girls who participated in the survey was different)</li>\n</ul>", "<ul>\n<li>determines and calculates the most appropriate statistic to describe the spread of data</li>\n</ul>", "<ul>\n<li>calculates simple descriptive statistics such as mode, mean or median as measures to represent typical values of a distribution</li>\n</ul>", "<ul>\n<li>compares the usefulness of different representations of the same data</li>\n</ul>", "<ul>\n<li>determines the location and calculates the spread of data using range</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d820a48a-f6aa-4950-b68d-99ad7c035baf",
+        "name" : "NSIRD6",
+        "description" : [ "<ul>\n<li>uses features of graphical representations to make predictions</li>\n</ul>", "<ul>\n<li>summarises data using fractions, percentages and decimals (e.g. \\(\\frac23\\) of a class live in the same suburb)</li>\n</ul>", "<ul>\n<li>explains that continuous variables depicting growth or change often vary over time (e.g. growth charts, temperature charts)</li>\n</ul>", "<ul>\n<li>interprets graphs depicting motion such as distance-time graphs</li>\n</ul>", "<ul>\n<li>interprets and describes patterns in graphical representations in real-life situations (e.g. rollercoasters, flight trajectory)</li>\n</ul>", "<ul>\n<li>investigates the association of two numerical variables through the representation and interpretation of bivariate data (e.g. uses scatter plots)</li>\n</ul>", "<ul>\n<li>investigates, represents and interprets time series data (e.g. interrogates a time series graph showing the change in costs over time)</li>\n</ul>", "<ul>\n<li>interprets the impact of changes to data (e.g. the impact of outliers on a data set)</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f18c0d90-dd96-487f-97ec-d7d5befd0299",
+        "name" : "NSIRD7",
+        "description" : [ "<ul>\n<li>determines whether to use data from a sample or a population</li>\n</ul>", "<ul>\n<li>determines what type of sample to use from a population</li>\n</ul>", "<ul>\n<li>makes reasonable statements about a population based on evidence from samples</li>\n</ul>", "<ul>\n<li>plans, executes and reports on sampling-based investigations, taking into account validity of methodology and consistency of data, to answer questions formulated by the student</li>\n</ul>" ],
+        "children" : [ ]
+      }, {
+        "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9812b027-6bb0-4ff7-b01e-704bb249e3b8",
+        "name" : "NSIRD8",
+        "description" : [ "<ul>\n<li>applies an understanding of distributions to evaluate claims based on data (e.g. the predictive accuracy of a sample depends on both the size of a sample and how well it represents the population)</li>\n</ul>", "<ul>\n<li>identifies and explains bias as a possible source of error in media reports of survey data</li>\n</ul>", "<ul>\n<li>justifies criticisms of data sources that include biased statistical elements (e.g. inappropriate sampling from populations)</li>\n</ul>" ],
+        "children" : [ ]
+      } ]
+    } ]
+  } ]
+}

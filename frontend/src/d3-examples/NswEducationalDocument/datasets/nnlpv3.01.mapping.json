@@ -1,0 +1,2614 @@
+[ {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d9df3bd1-d361-4f00-a813-c47865f63c4c",
+  "name" : "National Numeracy Learning Progression"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2ad48b32-fd6c-4e99-a1e9-d050c07a1917",
+  "name" : "Number sense and algebra"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0a8bc7e6-3408-4d13-96af-e0303c7afd18",
+  "name" : "Number and place value"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f6efd613-95d9-41f1-891d-dbc64d58f58b",
+  "name" : "NNNPV1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3647c13b-d8c0-4d81-a96c-03ab6e672606",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f450ca40-9138-4a21-b102-4e59722fcbd0",
+  "name" : "Numeral recognition and identification"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8a4008ca-2f5c-44cf-ac75-00e2c33c2eb6",
+  "name" : "NNNPV1.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/61029c53-e973-49c2-9ad2-516f32bccc30",
+  "name" : "Pre-place value"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/edea85c9-4bdd-4aa5-bcb8-e5fd9ee9a29b",
+  "name" : "NNNPV1.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2bad9f0c-65d7-4947-9ffe-6043dae39c3a",
+  "name" : "NNNPV1.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8682c288-b51d-4dfd-b335-dcef4d969daa",
+  "name" : "NNNPV1.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5b125af7-1ebc-4794-a3e5-aa9d28942799",
+  "name" : "NNNPV2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/426f20db-cfd2-4393-bb89-18aa8b5ea20f",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b43543ce-3740-4714-9d69-17cc8849480a",
+  "name" : "Numeral recognition and identification"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0a459b12-9647-42cc-90a8-3f0335d029b0",
+  "name" : "NNNPV2.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/34b02c3a-5edd-4ed6-8c28-01b1fbaa7f0d",
+  "name" : "NNNPV2.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/95737cbe-9c0b-4eda-984c-81642c9bd976",
+  "name" : "NNNPV2.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/315eca53-e4d8-4638-8b5b-418e428f0798",
+  "name" : "Developing place value"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3d2ff1cf-a18d-4866-937e-3c656c8da043",
+  "name" : "NNNPV2.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f351f554-5d21-4bb1-a0bd-608987df9a2d",
+  "name" : "NNNPV2.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/30135ff4-8ba1-4412-8753-eab014d5d385",
+  "name" : "NNNPV2.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/abb51ffa-f572-4619-bdc3-ebf54b4c11b5",
+  "name" : "NNNPV2.7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3242556a-db58-40fc-ab56-1214294dedd9",
+  "name" : "NNNPV3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ca9c6b5a-92f0-4a21-830b-71d2f2d7cfc8",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f22f55f3-bff4-45c0-8fd2-19fdb091e07d",
+  "name" : "Numeral recognition and identification"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/28ac038e-1576-48d5-ad71-4cec579389ac",
+  "name" : "NNNPV3.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f0350e62-acb7-4c9c-a8c6-9ec041b9aad6",
+  "name" : "NNNPV3.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d61618fc-f46d-41e5-b62c-bd56bf1f5636",
+  "name" : "NNNPV3.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9ca8de01-0ec6-487a-be16-ccda3ceea157",
+  "name" : "Developing place value"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e7a815b5-99a3-44d7-9fc2-0e844fe57aee",
+  "name" : "NNNPV3.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8b84d36c-152d-4a9b-a066-d20a3e3b18fb",
+  "name" : "NNNPV3.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b9220cb4-ec74-4761-ab22-6af745375394",
+  "name" : "NNNPV4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7d3a43a7-6dd9-4c89-9a30-2a1f1b775282",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bb90e84d-62d5-4abf-a26e-97d2ba10d550",
+  "name" : "Numeral recognition and identification"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f7d7f096-a402-49ad-b28b-018638e56ddc",
+  "name" : "NNNPV4.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2c807f3a-cde8-4d31-bb46-367fc28e4239",
+  "name" : "NNNPV4.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2abde2df-00b4-460f-bcdc-619dfab51691",
+  "name" : "NNNPV4.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ad668590-c3a6-485e-bc3f-617548c4b961",
+  "name" : "Place value"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/68d68512-88d0-4491-8489-037379267833",
+  "name" : "NNNPV4.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ddc43572-6951-4da5-af52-6e9ab24f6ab0",
+  "name" : "NNNPV4.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d915ea34-7c36-4fa5-97ec-b899fc65f9b6",
+  "name" : "NNNPV5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/cee42b6c-a1be-4fef-964c-f29d69ee24f2",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fe4696a2-fb0c-437e-8872-10d7bd052086",
+  "name" : "Numeral recognition and identification"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/834c72d0-31d9-4eef-8ebc-ee517330fec7",
+  "name" : "NNNPV5.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1f133cf2-f264-4be6-b64b-0d2c823df076",
+  "name" : "Place value"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/639fc9e0-7742-4c6c-af96-0747dd51e59b",
+  "name" : "NNNPV5.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/206cee0a-cb1f-4af3-ab48-18d3e7c7eee6",
+  "name" : "NNNPV5.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7a05e979-e813-4aa4-a9b3-3e44ed41910d",
+  "name" : "NNNPV6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/23bf2a0c-0436-4a75-b060-75b8ad556db9",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f9947115-00b2-4b31-8441-e14e92d09ced",
+  "name" : "Numeral recognition and identification"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8f71272c-30e3-4f6d-8eb8-aec7de699c3e",
+  "name" : "NNNPV6.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c6ea06c3-6657-4f02-b6e5-c1bc3450491c",
+  "name" : "Place value"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4c79595b-aafd-4d06-b828-419ba38d52db",
+  "name" : "NNNPV6.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a535095d-d9f6-4463-a6d6-a17fc5d0bf8c",
+  "name" : "NNNPV6.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/60530319-18af-478b-a4f4-a94b7d38c5c3",
+  "name" : "NNNPV6.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/cfc6c519-9e25-424a-bfaf-65af52a66265",
+  "name" : "NNNPV6.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6a662fdd-8824-4e9f-9eb0-edec1c653465",
+  "name" : "NNNPV6.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/31518e68-97df-4fdb-a9a1-9ee961520962",
+  "name" : "NNNPV7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/13b3d0d1-bab7-491f-834d-acdf68cf6beb",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/759a220b-60d2-4621-86a8-e0b1656cff77",
+  "name" : "Numeral recognition and identification"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/70277dd1-159b-4fe6-92e1-48cd2fd7e484",
+  "name" : "NNNPV7.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3f6d8e98-df6b-462f-977e-368d80bf982e",
+  "name" : "NNNPV7.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9f3396d6-63ae-41a9-b484-252b471738f9",
+  "name" : "Place value"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d6a9a5d6-6f28-4d62-ad34-0487bbb5ef22",
+  "name" : "NNNPV7.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/80a72527-d664-4b17-848f-e10b893b92f9",
+  "name" : "NNNPV7.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a9b6b042-f0db-4396-a46f-efc79896414f",
+  "name" : "NNNPV7.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/10c798ca-0f79-4d10-96ff-fd5362af4dda",
+  "name" : "NNNPV7.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f8a933d7-3b8a-420f-8e94-f9293316aa38",
+  "name" : "NNNPV7.7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6d55e4ea-d6ed-40f1-b574-6f2ea7df9c27",
+  "name" : "NNNPV8"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5aeb3f46-b020-414a-bf79-986b71378942",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3d991cf5-966d-482f-a037-6ac905eb2af1",
+  "name" : "Numeral recognition and identification"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8d02dd11-d5cf-4488-b823-8285c1a6d41e",
+  "name" : "NNNPV8.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2f516730-aa36-46cb-82c4-af6b66595656",
+  "name" : "Place value"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/80cf6385-c1f5-488a-bf23-21b4de8a755a",
+  "name" : "NNNPV8.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/53bb2e91-daba-49cf-80e8-b83b452b6bf6",
+  "name" : "NNNPV8.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3b87f48f-409f-4403-89aa-a41d6dfb79be",
+  "name" : "NNNPV8.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/cc87351e-8961-4dba-b408-e010c25b0bb7",
+  "name" : "NNNPV8.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d3975437-d1a5-4449-9977-545208ce7f8b",
+  "name" : "NNNPV9"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/64265454-b1f6-4a16-97a1-9cc72ad517b3",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e7f12cac-9c94-4428-b706-88567547ea50",
+  "name" : "Numeral recognition and identification"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/33aabbaf-dbe1-4b82-a50c-14647d58baa7",
+  "name" : "NNNPV9.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a2b90fe1-cade-4f3f-ade2-1696344b19ef",
+  "name" : "Place value"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/396d76e8-6021-4117-a8cf-4fea02b75012",
+  "name" : "NNNPV9.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/25af6cc5-6bc3-4374-9b06-b71d4864997c",
+  "name" : "NNNPV9.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c26deffa-21fe-472a-b7c4-ccbbdde49262",
+  "name" : "NNNPV9.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/21642aa5-a5b5-4db8-ad54-e3051da06059",
+  "name" : "NNNPV10"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/af364aa2-7e7d-4adc-ad47-c9e2ceaa64cf",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e34c2a29-4c71-42e0-bc9c-8a04f842ecc6",
+  "name" : "Numeral recognition and identification"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9070f737-1947-49e4-a40c-600a1a5e2e0b",
+  "name" : "NNNPV10.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fe4f993b-2ac8-4f46-9c5d-25a76152a875",
+  "name" : "Place value"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ce664da4-838a-4968-ab8b-24da1769a89b",
+  "name" : "NNNPV10.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b8405992-ef72-4745-a9de-5713a2e31d72",
+  "name" : "NNNPV10.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c85dfc52-4b4e-4b9c-a532-78777e8f2921",
+  "name" : "NNNPV10.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f5e00219-9084-446c-8359-2989805c5665",
+  "name" : "Counting processes"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1856542b-74c1-496f-80a8-405b88f1902f",
+  "name" : "NNCPr1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5fcbd053-3a99-40ff-8854-fb81e6d2d626",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4437db11-441b-4869-86dc-8ade65cca041",
+  "name" : "Counting sequences"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/52071193-dd6e-43b3-8abd-db20405d0c4d",
+  "name" : "NNCPr1.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3a90ce8b-9f2d-44ed-9137-5a1985371b5c",
+  "name" : "Perceptual counting"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5565d92d-e29f-4da5-b19c-400ae18b7b42",
+  "name" : "NNCPr1.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/308e7f0f-e792-4290-9455-8a242af97125",
+  "name" : "NNCPr2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2e822bc5-7fdd-4844-b7c4-c8814c6cfd94",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fa74ae3b-9420-4838-b604-617dcb174f61",
+  "name" : "Counting sequences"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0c2891dd-3037-4789-8168-d823d38146b5",
+  "name" : "NNCPr2.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e1f3e86c-a98d-4860-b113-711c4a179cf4",
+  "name" : "Perceptual counting"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1fb1ccf8-6399-44ea-b243-c94f0271792c",
+  "name" : "NNCPr2.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f9cf2824-237f-4e26-92bb-eb38148dc2f9",
+  "name" : "NNCPr2.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/578381fd-a510-4a80-9b13-0fe30f625de9",
+  "name" : "NNCPr2.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/09544d80-012a-447d-b4f7-d19f42708221",
+  "name" : "NNCPr3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d0989ad5-a253-47e9-82ec-a5b047e13f2f",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b1ee44b3-9154-4abb-9fb3-7401019e7f75",
+  "name" : "Counting sequences"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f9c3d35e-3576-41be-95d4-149c5f17bb86",
+  "name" : "NNCPr3.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3cf3a832-03b8-45a6-ba91-315c277604e9",
+  "name" : "Perceptual counting"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/54487041-3a8e-4a58-98b3-63c87087359a",
+  "name" : "NNCPr3.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/37c78523-c524-4d7d-86ef-44bd7f4cc00d",
+  "name" : "NNCPr3.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0f0a46e5-1435-4b7e-be16-37317b031b16",
+  "name" : "NNCPr4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f8cbd2bd-99b2-4f79-aeb1-6865ebbe9d0b",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7a60ab3a-974d-4809-a863-bc8e04d9408c",
+  "name" : "Counting sequences"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0c34685e-6535-4a2e-993c-c3f63059ca50",
+  "name" : "NNCPr4.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b70f012e-724b-4c60-ae31-193de854f24f",
+  "name" : "NNCPr4.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d73fc664-db7b-45d2-92f4-06e8e36ddc8c",
+  "name" : "Perceptual counting"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ea52c794-0c73-4f5e-b517-fec4be4e057f",
+  "name" : "NNCPr4.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7b2ad084-5c46-435d-8029-fd56c5e58136",
+  "name" : "NNCPr4.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0ad60cbb-809e-4661-9cfd-d59341579514",
+  "name" : "NNCPr5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/41c945da-ad55-45bd-a6c7-25c62d3dd770",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b8b0b610-a4dd-48de-ac47-6161a9c694c4",
+  "name" : "Counting sequences"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/eb245f54-5642-4c50-8482-2a7bdb74a8ac",
+  "name" : "NNCPr5.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/579920cc-2133-43c7-add5-a9570a4fbaac",
+  "name" : "Perceptual counting"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7e49f9ec-474d-4885-84c7-5c87fc1704f4",
+  "name" : "NNCPr5.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4ace2c6e-b2f4-41f7-b461-0ed43797611d",
+  "name" : "NNCPr5.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6ecc71c6-ed95-4966-957b-a86e1d710c73",
+  "name" : "NNCPr5.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8adc48c7-ac5b-44b4-8307-f493ec575130",
+  "name" : "NNCPr6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b447ca45-8a07-40fa-9a13-1e0a6a5e9fec",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/384da2f2-e824-4954-9a3b-91d8c205f87a",
+  "name" : "Counting sequences"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7b30d423-7314-4726-ada1-4ae069320bdf",
+  "name" : "NNCPr6.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ef7773d3-4c73-46f5-a5cf-29ac594eaf39",
+  "name" : "NNCPr6.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7db2e701-6ad2-4bfa-a9d4-19cbbcbed34b",
+  "name" : "NNCPr6.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0ce3336e-3e3b-4239-9947-9052a940db8f",
+  "name" : "Perceptual counting"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/56619ba3-79f8-4b1a-a93f-7cb2d33155cd",
+  "name" : "NNCPr6.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c425ed13-32f3-47da-8b89-7ea304db6a76",
+  "name" : "NNCPr7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/937dbf0b-93e3-4028-88bc-7d796824c73e",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a1261af9-5866-48e5-8c8f-d3e43fe23730",
+  "name" : "Counting sequences"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c2c72bf8-49a5-48da-8e39-926abb1fc68d",
+  "name" : "NNCPr7.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/81a5dae1-1c6e-4bc1-9892-57afc8fa5d55",
+  "name" : "Perceptual counting"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4c8f6649-2e7c-4b6d-a775-74da202a8900",
+  "name" : "NNCPr7.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7ad1bb8d-2404-4c91-9922-85ac7663bcb6",
+  "name" : "NNCPr7.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1b07e417-ef61-492f-a9d0-c7ea5b25a2c4",
+  "name" : "NNCPr8"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/09081f69-eed2-4531-bd8e-f712a1de21a6",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f1be8fe6-c461-4121-9804-c9c3b9d32675",
+  "name" : "Counting sequences"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/458b9d82-c3e7-4362-9031-8f18810ad6cd",
+  "name" : "NNCPr8.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9dbaff35-7f7e-4ac7-b1d2-54db435c9f62",
+  "name" : "NNCPr8.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5dfa2e5c-d91b-43d6-8ae6-4a23154d25e1",
+  "name" : "NNCPr8.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/27164547-6b2b-4d72-8561-adb9a26dbd0c",
+  "name" : "Abstract counting"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7f5ab790-074b-4252-b895-4212880b67be",
+  "name" : "NNCPr8.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b65d8dbd-5044-4f4c-82b5-9c64658fe2e2",
+  "name" : "Additive strategies"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/76680b1f-760e-49d1-9ba6-e1a48a37661a",
+  "name" : "NNAdS1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9317ac5c-e35b-4204-ace1-a72aeb61fccc",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/51036faa-492c-4cbd-84d3-783e14e59f7d",
+  "name" : "Emergent strategies"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e6f0d057-59af-4085-b7f1-f78ecabad007",
+  "name" : "NNAdS1.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bfe478e1-6778-4b5b-bc4c-caac84d46297",
+  "name" : "NNAdS1.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/06153722-dd1b-4621-89ab-e6872cceb50c",
+  "name" : "NNAdS2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/326de740-6bc2-48f0-ae8e-4e4e3387208a",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d1b51383-1ce1-46aa-bf48-d6afb42ce274",
+  "name" : "Perceptual strategies"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0325d0f5-83ce-456d-88c4-61d74b025abb",
+  "name" : "NNAdS2.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e2d4f578-e8a6-442d-9f8b-9bdc178fb0b9",
+  "name" : "NNAdS2.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2aba9a38-ba49-4468-a80e-5e4be4838dd5",
+  "name" : "NNAdS2.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/388b12e5-63b1-44b6-acba-41c38bd19d37",
+  "name" : "NNAdS2.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c5eecbb0-d652-4d0c-be8c-2d2087a89643",
+  "name" : "NNAdS3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/226f2971-3b61-431b-b443-5743fe197432",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/587c33fb-f13e-4ffc-96d7-544635232524",
+  "name" : "Figurative (imagined units)"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/66e69b0c-0049-4b23-b717-da65ed1f8653",
+  "name" : "NNAdS3.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a72d3afe-1c48-4921-8a5e-d4522a5135ed",
+  "name" : "NNAdS4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/25e868b1-fceb-445b-84cd-943dcdf313e0",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1de6ac36-22ca-46f0-8b3a-eaf892578c5c",
+  "name" : "Counting on (by ones)"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/498c642a-04a3-408e-94f3-7358a2a51089",
+  "name" : "NNAdS4.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0b3f248e-2e51-4700-bea2-90199eee36e7",
+  "name" : "NNAdS4.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fc316153-6dbe-4046-996a-71ae5a4575d2",
+  "name" : "NNAdS5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3ac53f56-ca35-45e4-9bf9-09bb53a844af",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9f1fbfe6-af6a-4f28-bd4d-47c92b0975c4",
+  "name" : "Counting back (by ones)"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3cb221f2-8ac7-49c6-813c-4ba15078056e",
+  "name" : "NNAdS5.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/dd4846d8-5d3e-4ea6-a102-2997b59a9ab9",
+  "name" : "NNAdS6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1e344d79-c4aa-4d2e-9c07-72755188c2ff",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4d8361f2-960b-4282-8c1f-4ea50bb0295e",
+  "name" : "Flexible strategies with combinations to 10"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d2787c38-ab75-4e5c-b052-f493188f49a4",
+  "name" : "NNAdS6.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f20e924f-0448-4b9c-9ae4-bf1566a7e418",
+  "name" : "NNAdS6.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7a671ed3-2c05-490c-ba83-76048ce684e8",
+  "name" : "NNAdS6.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a9bb2219-2778-4744-84f8-423aeff61fb1",
+  "name" : "NNAdS6.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f46e85b4-64e7-4d31-8ef2-507bfb33d4ad",
+  "name" : "NNAdS7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3fcffab3-8673-41da-8c68-f7d4ab30f7dd",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a1b0f954-6224-454b-a5d6-111982aaba12",
+  "name" : "Flexible strategies with two-digit numbers"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/29a5fae9-f60e-4de1-8a42-f11f93d9fd9f",
+  "name" : "NNAdS7.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ea465cf8-1e05-4ce8-8e47-6d260e263622",
+  "name" : "NNAdS7.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4a508f95-be32-4ffd-a78c-9c2c7c6ac367",
+  "name" : "NNAdS7.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/259f0319-3bd2-41ac-92e8-298632cce362",
+  "name" : "NNAdS7.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b8385fd3-1ad3-4ca8-9b97-235a4842d823",
+  "name" : "NNAdS7.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a4bb5cc2-8165-44ae-8770-158d78d4f213",
+  "name" : "NNAdS7.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6166e8c3-3470-4950-be43-1ed6b6df7300",
+  "name" : "NNAdS8"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4a03ccc0-4cf7-48f4-98ec-a831e0bc0ef1",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fa827b74-dc75-4b57-9c8b-a8ea2ef199f9",
+  "name" : "Flexible strategies with three-digit numbers and beyond"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f9f2fe6a-4e4c-4264-a447-a3f6a424d39a",
+  "name" : "NNAdS8.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e1bb010a-381b-4bd1-9e83-bb1169db3bf0",
+  "name" : "NNAdS8.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5bc42747-5f0d-4d0e-b040-d0905afdde79",
+  "name" : "NNAdS8.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/19399b5a-132b-45de-9856-fe00f496a976",
+  "name" : "NNADS8.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d8760065-7923-457a-beed-74d36ecada89",
+  "name" : "NNAdS9"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/870d7e4a-cbd4-4885-9cec-8cdaa6f86e55",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1d8ef8ac-d1d0-4060-b674-7773bf30e491",
+  "name" : "Flexible strategies with fractions and decimals"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/236aa93b-3660-4c4d-8be3-8436f5bae2f4",
+  "name" : "NNAdS9.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b0a1ea96-17f8-416c-8e13-dc078d37a5b9",
+  "name" : "NNAdS9.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0bf5567b-2b57-4f42-b473-3c23706c5988",
+  "name" : "NNAdS9.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/49592a22-7b76-4257-8973-e02b85493937",
+  "name" : "NNAdS10"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/403e2c53-a49a-443c-8da3-b557b44d4c3c",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/048a2716-843d-4b43-8153-e0937a2c32ab",
+  "name" : "Flexible strategies with rational numbers"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/477bf8a5-f702-4f89-ba8c-2143e05dcba3",
+  "name" : "NNAdS10.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f976299c-09c8-40a4-bee4-0e46de1e8559",
+  "name" : "NNAdS10.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1c3026e6-fe3f-4a2d-a78e-4632388ffef6",
+  "name" : "NNAdS10.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8a6d2ba7-3faa-4f12-a5a2-5f8b16069781",
+  "name" : "Multiplicative strategies"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/519c7cb7-686c-4bfc-9d96-922f3a25209f",
+  "name" : "NNMuS1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b8f80d58-f4aa-450e-8d7c-a70b41772700",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c52f56dd-22d4-4cd0-9399-a4e9e5491ebb",
+  "name" : "Forming equal groups"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e8202953-3683-4a82-9395-30567e4f3a09",
+  "name" : "NNMuS1.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/275a884e-320e-4fac-995c-8cd12207a0a9",
+  "name" : "NNMuS1.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fd44cd40-c065-436c-865a-a731eef31e6d",
+  "name" : "NNMuS2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bd906bbf-fcb0-495f-8e04-c712bb46832b",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ca96f22e-5e93-42eb-afb6-8b77bce06631",
+  "name" : "Perceptual multiples"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8ca7dced-7acb-45b9-872a-1aa5b2e8b957",
+  "name" : "NNMuS2.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c603c3e3-a147-4942-a817-72ac6921921e",
+  "name" : "NNMuS2.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4a4f0304-7643-4ce9-bea5-72fa52c70d0f",
+  "name" : "NNMuS3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5264a043-c4f9-41d7-9fc5-368456ef30ee",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b721b4e6-0fb1-40f9-9948-b0c34efdca75",
+  "name" : "Figurative (imagined units)"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6977fec8-a3b6-4159-958d-9e41075fd887",
+  "name" : "NNMuS3.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/39678982-2821-42a5-8aad-83ef97ff3b71",
+  "name" : "NNMuS4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/747a1ab6-e5ab-4019-a4c7-1b054c7c2723",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bf1c6a56-91fc-4a3e-a377-79bacf8b773d",
+  "name" : "Repeated abstract composite units"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/be574f04-89ef-4742-88a1-921d2253027f",
+  "name" : "NNMuS4.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4bcbcd48-6884-4280-9d55-e2bcf41bf7c3",
+  "name" : "NNMuS4.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/535aa4bd-d98a-45dd-95a2-a1a9ad9b3d85",
+  "name" : "NNMuS5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e359f6bd-9d39-496f-ab2d-2cca1f81a321",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2996bd0b-d6a7-4322-b849-10c1d3c273d3",
+  "name" : "Coordinating composite units"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/438b68e0-bf14-46d8-84ad-dd2243521b43",
+  "name" : "NNMuS5.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/da9bade7-9711-40f0-afcc-9ca155e408e3",
+  "name" : "NNMuS5.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/dd2717d2-60c4-41bc-8e70-e4ce28b89c0d",
+  "name" : "NNMuS5.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/86c24133-a5e3-483f-862d-94007ce93141",
+  "name" : "NNMuS6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fe4e7d8b-a82d-4009-881e-bd9bce81d63a",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fc39703d-77c2-4c07-9a3f-007212eeec98",
+  "name" : "Flexible strategies for single digit multiplication and division"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/aff804f2-711a-4b94-8af3-05cd8a213b39",
+  "name" : "NNMuS6.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bc97c7e7-8071-4e47-adb5-f3a0433f61e7",
+  "name" : "NNMuS6.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6cd34b9e-f673-4ce5-8381-80cea4cf449a",
+  "name" : "NNMuS6.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a84ca308-3a50-4322-8f4c-d0e12ff6a5a0",
+  "name" : "NNMuS6.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/38f85ec3-6b2f-41ef-93da-bab3f0151d5b",
+  "name" : "NNMuS6.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/37bf0bfe-4c9b-4172-89dd-780bf9e9dbed",
+  "name" : "NNMuS6.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4052ba3d-fe0f-41eb-93b9-2c2f6fdbe49a",
+  "name" : "NNMuS7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/596da840-d195-4091-ae1e-118ed0678871",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d825bcc7-9b13-4312-9e0d-bb01047d808e",
+  "name" : "Flexible strategies for multiplication and division "
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a56ffec3-ea70-4792-b4d6-fd72a5d54e5a",
+  "name" : "NNMuS7.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8d98c55c-b5f8-41e8-9c0f-a232a6d241b8",
+  "name" : "NNMuS7.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/197f24e1-f018-4aa0-b686-8428bf0836c4",
+  "name" : "NNMuS7.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6c35b218-b690-4a50-b7e7-57625076c18d",
+  "name" : "NNMuS8"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4f6bf09a-4691-40df-9dbc-a891ef1eb0ce",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b74b3303-c4e0-4ac9-9de4-b3dd01c6e0e6",
+  "name" : "Flexible strategies for multi-digit multiplication and division"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8aff1552-5b1a-4e0d-a171-746c43335024",
+  "name" : "NNMuS8.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/04bbbbe1-e255-4586-a78a-e051a19be7c2",
+  "name" : "NNMuS8.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ded9c96e-2a7a-4ac7-b3b7-a04be378dcae",
+  "name" : "NNMuS9"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0c6b076a-4b5a-4718-ab65-508ef196323a",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/32e5fc91-a8fa-4735-b464-11cb518fb2bc",
+  "name" : "Flexible strategies for multiplication and division of rational numbers"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/378db03d-b139-4050-a2f2-ee9b710b4eaf",
+  "name" : "NNMuS9.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fcddc6e3-feb3-4bd2-a78c-2086d9adf819",
+  "name" : "NNMuS9.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ff725bde-707f-4259-90c6-f9cf65d3c9b6",
+  "name" : "NNMuS9.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ffcce966-7a14-4050-a607-1faa5ae9c51d",
+  "name" : "NNMuS9.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5d2278a4-ccb8-4984-98ed-24aef759c7eb",
+  "name" : "NNMuS9.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5cbe666d-abc2-4e41-9abd-3dfaf5432105",
+  "name" : "NNMuS9.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f495aad5-7543-4590-bfad-452264e05f86",
+  "name" : "NNMuS9.7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ce7da795-e98c-4943-9738-032d9bc38dd1",
+  "name" : "NNMuS10"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1854fc3a-5de8-47f7-a437-0f6b4ae6480a",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/dace9e76-d8bd-43b6-9ac0-a0cb5373d457",
+  "name" : "Flexible strategies for working multiplicatively "
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/abbdcab2-296e-44ea-822f-ada3b5dba1f9",
+  "name" : "NNMuS10.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8676b6c2-b464-46d0-ac80-31bc1e81d921",
+  "name" : "NNMuS10.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/20f64600-3074-4e9a-b964-6700f5997115",
+  "name" : "NNMuS10.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/915b4e95-1906-4bab-85bc-6b63d8ee72a0",
+  "name" : "NNMuS10.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9299665d-b9f8-4e80-a046-626ecbde0e96",
+  "name" : "Interpreting fractions"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0e5f9d88-d3be-46ba-8abc-e7e955342b75",
+  "name" : "NNInF1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f094e4fb-0d25-474b-8176-f88a0a8cb057",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/de5c2490-f9aa-40e4-a4b3-762c826e4e18",
+  "name" : "Creating halves"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bf90f258-d43a-4a5b-abef-6025b46a7e4a",
+  "name" : "NNInF1.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9211f3e9-d7f8-4c5b-81f3-40a9bfac6a54",
+  "name" : "NNInF1.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/84ac913f-9c0d-4b80-9344-ccdb6a4772cb",
+  "name" : "NNInF1.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e8870212-308c-46bd-b866-f232516cdda6",
+  "name" : "NNInF2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/af613086-1a99-4962-80ed-91f428e08c6d",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/30c8a999-09ce-477e-9d55-56e4c8f750c9",
+  "name" : "Repeated halving"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f8f0b550-6926-4123-84a5-41a3e71a64c5",
+  "name" : "NNInF2.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5d9ae07e-0976-4407-901d-d2a2a2a67897",
+  "name" : "NNInF2.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/518e4cf5-701b-4a91-a7d8-8f37cdc4fda4",
+  "name" : "NNInF2.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/061c586b-ff4e-474e-8964-e05b598f52a8",
+  "name" : "NNInF3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bf98ab04-71d7-4446-be9a-f66501ffbfa4",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0d1f4061-94a5-457d-96df-7070dc78da88",
+  "name" : "Repeating fractional parts"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f21dd664-39e4-4d24-b438-f0b4d59006ce",
+  "name" : "NNInF3.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c927cc69-388f-443f-a12e-095614b24e49",
+  "name" : "NNInF3.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/34fb3b4e-4e7f-4021-9dab-c149b9268313",
+  "name" : "NNInF3.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d41ac12c-6743-4dea-9237-099ac43b30e5",
+  "name" : "NNInF3.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/25917722-cee4-4022-986b-273dd8e2f860",
+  "name" : "NNInF4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7e4fc0f4-1ccd-4201-86ce-ed2c3b292c43",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7c950ec9-77c8-4608-baa9-368950f52735",
+  "name" : "Re-imagining the whole"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f2b56072-3e37-4079-a705-4103aeaaea42",
+  "name" : "NNInF4.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9301f1fc-73d6-43b7-b042-824db7683ca4",
+  "name" : "NNInF4.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/42d33762-4540-43c1-9198-26fb51d348d3",
+  "name" : "NNInF4.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c5b42851-a0a8-4266-9620-c4c04ca163d7",
+  "name" : "NNInF4.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/54672a41-e0fb-4acc-ba84-5511ce972317",
+  "name" : "NNInF5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/36b09d9f-27cb-45f5-96c8-a5238117e3d7",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/35a96422-1fa7-4bec-95ea-be8079757478",
+  "name" : "Equivalence of fractions"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0b4affaf-bba2-4ded-b3ef-a77ffd9de995",
+  "name" : "NNInF5.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/de4088f2-5713-495b-866b-4b82a2029d66",
+  "name" : "NNInF5.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f697b5ac-ce87-47ec-aced-9759344f9d4c",
+  "name" : "NNInF5.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/998ac58a-d926-4d1d-85bf-8a1da70160bf",
+  "name" : "NNInF5.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8b505239-a49b-4b01-8e14-1d45547c9ad3",
+  "name" : "NNInF6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0ed6dfc6-273a-4c10-a24e-01c793a600b9",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3c85c5ef-0af5-4a05-b3a5-be723a2d1abd",
+  "name" : "Fractions as numbers"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6148e4b2-01e9-452b-9008-2601fcca3b77",
+  "name" : "NNInF6.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2a2a9188-45b7-455c-ad24-1768ae97e406",
+  "name" : "NNInF6.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/21c09d6d-6c2e-4f07-b84f-36f1948fec73",
+  "name" : "NNInF6.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/958a8fb4-3bf3-4bf6-933e-49b9c2e0a237",
+  "name" : "NNInF7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/14fb654b-2414-4fa7-8384-00ebb717033e",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9a31df48-d201-4a17-8ac0-dc69e61fe5c1",
+  "name" : "Comparing fractions"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c0e73231-9bbf-497a-9266-3ce19617061d",
+  "name" : "NNInF7.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ca3e01a5-5d2b-4758-9c9b-134930675280",
+  "name" : "NNInF7.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d857cfd1-07d3-42ee-8c79-2dde80daa12f",
+  "name" : "NNInF7.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2e80b227-7d5e-4634-af2f-fdad87785abd",
+  "name" : "NNInF8"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/29964d88-f9dd-4468-9d34-7e8663d571f3",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fc5f959e-6088-4408-8365-0a2ba883a221",
+  "name" : "Operating with fractions"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1072018e-8b9d-4c5c-ab57-9ad0da7301ee",
+  "name" : "NNInF8.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b1d2bdc9-1c53-4c63-8495-d20ffb78b825",
+  "name" : "NNInF8.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0679b7d6-bd14-4f2a-98ab-40b739305547",
+  "name" : "NNInF8.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3dde4bbf-8654-44f2-b027-ec5a267f12fb",
+  "name" : "NNInF8.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5e98e7be-8da4-4f82-b525-4d0a3894148a",
+  "name" : "NNInF8.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b0f9b684-5078-497f-9090-fa087b1c5a1d",
+  "name" : "NNInF9"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/99713bbe-0c31-43e9-8623-0231764d40f0",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4b61d164-d887-4cb5-af96-84d152f52643",
+  "name" : "Operating with fractions proportionally"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2d888461-f101-4190-9f86-5cad5a00da63",
+  "name" : "NNInF9.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/574dec5c-fcbd-415a-8c4f-456268b18bf9",
+  "name" : "Proportional thinking"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6a9c2487-3158-4139-8f89-9e4ca526d4fc",
+  "name" : "NNPrT1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/623d1006-043e-42a3-b327-49ab79dfa26c",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/68c7ffce-b0aa-45d7-b62c-1af4466109a9",
+  "name" : "Understanding percentages and relative size"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1fe02a11-8630-4d24-abc4-a92af40ecd5d",
+  "name" : "NNPrT1.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0285be1b-a2d9-4bb4-8dc8-024e1a621aef",
+  "name" : "NNPrT1.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/52ff8365-4842-4992-a989-230c4c52fe3b",
+  "name" : "NNPrT1.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/768d51cf-e611-4fcd-a026-ddc88fb4317e",
+  "name" : "NNPrT1.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2df41009-e385-4690-a235-8b25741b8fb6",
+  "name" : "NNPrT2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1ec40b26-9cd7-4c48-aac7-cec0861caeed",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/106d1149-16f6-47ec-adcd-a762d9dbc817",
+  "name" : "Determines a percentage as a part of a whole"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/08f6fd69-1b5d-4e94-ba78-023a1d69334d",
+  "name" : "NNPrT2.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9d47c385-b8a1-445e-b7e6-d9d3d6876932",
+  "name" : "NNPrT2.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d3d963ca-a1c9-4832-9c7b-d8bff656b735",
+  "name" : "NNPrT2.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ec2669ca-945e-4000-bcb6-55a583e3b85f",
+  "name" : "NNPrT2.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/22a07fb3-b9b9-49d6-8bf5-4c54c90561f2",
+  "name" : "NNPrT2.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0ebdfa56-bea7-45c3-ae0d-43db34334059",
+  "name" : "NNPrT3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f1fd2629-3291-4ae8-924e-ab92dd63e5f8",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d30aecaf-75dc-435c-a87d-f3089c38f421",
+  "name" : "Identifies ratios as a part-to-part comparison"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d92e5cee-598a-4cc8-9832-4a735ed5e135",
+  "name" : "NNPrT3.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d012caf8-a60e-499f-abe4-91bef07d0cbb",
+  "name" : "NNPrT3.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ae83a4e3-cff8-4a8e-9b77-7cb5eaf825fc",
+  "name" : "NNPrT3.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a7264bf3-2408-4073-8800-95b2c54441bb",
+  "name" : "NNPrT3.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/475f7a49-b534-4f69-9958-085c124d4ee4",
+  "name" : "NNPrT4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/954e590a-12ab-4315-b40d-cedf0d53d9f9",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/60c39596-b426-4b36-b491-aaab6bb9d5ac",
+  "name" : "Using ratios and rates"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fe169598-7f4b-4725-b9de-c0c390229b0a",
+  "name" : "NNPrT4.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8fdcf517-9fda-4856-93b1-87aa8b392120",
+  "name" : "NNPrT4.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e789ff51-e45b-4c22-af84-c7cefc3b73dd",
+  "name" : "NNPrT5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/37b99155-bbfb-469e-b8e1-705d568d330f",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/20e5bce6-8fe7-42df-b760-8dff5e4299d4",
+  "name" : "Proportionality and the whole"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f35b1720-ffc9-4b72-86c1-89a5f98e6f6b",
+  "name" : "NNPrT5.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1324f592-4beb-454f-8cf6-3c5d4f3ad126",
+  "name" : "NNPrT5.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2af600c1-30e3-4b71-adc6-186285be8740",
+  "name" : "NNPrT5.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0fc66bac-cbf9-4a35-8c1f-6606466af76b",
+  "name" : "NNPrT5.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/17696226-a8e2-4cdb-a386-1c851d63506d",
+  "name" : "NNPrT5.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/305b82d4-6ac7-4080-a4e0-deec8e9b37dc",
+  "name" : "NNPrT6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7f314cb9-2b14-4d3b-8732-5b3dc5be4f2e",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b4ce53fc-3817-4695-afd0-1b49256792c1",
+  "name" : "Applying proportion"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ee220514-1bf8-4e8e-b828-51b0ee05a7ed",
+  "name" : "NNPrT6.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/00f73948-b2e2-4958-a8b7-00efcdb8f867",
+  "name" : "NNPrT6.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ed40ba07-d788-4ecb-9cfa-aec2446ae9fd",
+  "name" : "NNPrT6.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/747e4bdc-810d-43e1-872d-25f52c4deac4",
+  "name" : "NNPrT6.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d46536d6-dc57-4ed4-8eca-56bbd4e05d75",
+  "name" : "NNPrT6.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/da9167f3-be1f-4a20-a6d6-16bf1d65b249",
+  "name" : "NNPrT6.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e137642c-a5a9-4302-a5a0-9d73cc46d320",
+  "name" : "NNPrT7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/13e6e33f-fed0-4f38-9167-93516bc15242",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e19507eb-84cf-4672-8c45-ea641615c0f3",
+  "name" : "Flexible proportional thinking"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/350cfddd-70c2-428c-b98d-f3cf368b16d2",
+  "name" : "NNPrT7.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/57cdcca9-e005-4e62-b635-865b077bd47f",
+  "name" : "NNPrT7.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0f33302e-ca35-4ec5-a50b-677e2f67988b",
+  "name" : "Number patterns and algebraic thinking"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ad729f28-7617-48ef-802c-dc92d69e34d8",
+  "name" : "NNNPA1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9e69e612-48a2-4b37-9a4c-82e821c140c3",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/db9f849a-a801-4661-80dd-e94e77413627",
+  "name" : "Recognises patterns"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6283bc47-3010-4e8c-b8b1-d8cdf90b1fc2",
+  "name" : "NNNPA1.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8300e43b-3d3b-48e2-ba01-7a0aba4cb593",
+  "name" : "NNNPA1.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2a19b503-ef54-4e80-b11d-e40c737b0f8e",
+  "name" : "NNNPA1.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3961334b-42e4-43bf-8085-f9fbaf0d2147",
+  "name" : "NNNPA1.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d2bf2b67-bd49-4182-9916-14e9aa086635",
+  "name" : "NNNPA2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/dac7a8d6-199b-451f-b86b-f7a1e97ac321",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7be098bb-4a8b-4ba2-816f-9bf6c30544b9",
+  "name" : "Identifying and creating patterns"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e8a6f5aa-5f63-491b-90c6-13d03a5ecea3",
+  "name" : "NNNPA2.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/09cf2b06-d758-4326-ba7c-1295c2fe5306",
+  "name" : "NNNPA2.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/aa8b8266-ef11-4fb4-a9f0-5dade74b9c74",
+  "name" : "NNNPA2.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/835b32b1-792f-4d03-b804-6cc3849a824d",
+  "name" : "NNNPA2.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/565af4c2-efba-4915-81a2-448aeb4e78d2",
+  "name" : "NNNPA2.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/83326635-cd96-48b3-b7e7-cf3dc0ca260b",
+  "name" : "NNNPA3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/cf3f582e-57e4-46e6-be8a-9a0df5f59cda",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2eae1fff-90e0-42e3-8bc2-8a4fbddb0d0c",
+  "name" : "Continuing and generalising patterns"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c14cd477-ffed-4336-9a90-2e0e5e2389b1",
+  "name" : "NNPA3.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/39fd6496-e155-492e-b7a5-36bac3e99add",
+  "name" : "NNPA3.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/001a0dbb-cfdb-4c7f-9eef-72bf6cf90728",
+  "name" : "Relational thinking"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d6fa3caa-2589-4d3a-95e4-912d7b09e494",
+  "name" : "NNNPA3.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a18237ad-4783-4da8-8a44-43793a9a5151",
+  "name" : "NNNPA3.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d1c4a337-0ad1-4e98-9e69-44fc16aeffc3",
+  "name" : "NNNPA4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3a3a456a-40ef-4dbd-ade4-cc8178a4e465",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0ef52b0d-ff53-45f8-8734-f37828c5f598",
+  "name" : "Generalising patterns"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c5708ad6-cea4-4436-9ae6-c88176d9eedc",
+  "name" : "NNNPA4.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c9f249b6-5531-4a0d-8283-d9522393b186",
+  "name" : "NNNPA4.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/99cb5085-5749-463c-b5e5-0e9207a3177c",
+  "name" : "Relational thinking"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/da074a12-c6e6-4ea7-9114-7d1d2ce3912a",
+  "name" : "NNNPA4.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d4a6156a-3dc9-4bd3-976e-6fc8a64470ed",
+  "name" : "NNNPA4.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c66405b3-3c9e-4633-8b7e-01afc82ae16f",
+  "name" : "NNNPA4.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/64027301-22a8-41f6-88af-16b698c5fc46",
+  "name" : "NNNPA5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/718a802c-56ab-4f5d-822e-9a593bed3787",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ee223c12-23a3-466b-b896-96c523536490",
+  "name" : "Generalising patterns"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6c3cf733-1a84-48b7-8d1d-910bc364ae4b",
+  "name" : "NNNPA5.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/23321283-9bfa-45b0-82db-0f558d93cfc2",
+  "name" : "NNNPA5.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/29210d12-9fb4-4af1-ba48-60fb8f30855e",
+  "name" : "NNNPA5.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a959deb5-7cbd-42f8-9d51-d1feedcbf79a",
+  "name" : "NNNPA5.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1d17d556-0d19-4aa0-99f7-9a916d9c0104",
+  "name" : "NNNPA5.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ad997a89-6c06-48f0-842d-64e7786ba2d7",
+  "name" : "Relational thinking"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2f381496-3732-4d75-9c47-da254b7c89c7",
+  "name" : "NNNPA5.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4696e73e-34dc-4e88-bae5-2710ad6b5f74",
+  "name" : "NNNPA5.7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/02c9a5bc-e1ad-4cfa-a5ad-66028486ffd0",
+  "name" : "NNNPA6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/dea1de5d-33b3-4cb7-8df8-553e0d495947",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/da21114b-99bd-421d-bb5b-e01768615d3e",
+  "name" : "Representing unknowns"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2f84e3a1-4930-4371-922f-163f5a96b8ad",
+  "name" : "NNNPA6.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1b52e957-d61d-4d90-b194-f0eabe5bbc36",
+  "name" : "NNNPA6.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b6f0fba2-c3bd-451b-87d6-403f4f4884e3",
+  "name" : "NNNPA6.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2d97ce63-2e62-4b52-b8aa-31d8be3e7192",
+  "name" : "NNNPA7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d58aca97-5563-4355-bfdf-4c24900f20c2",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/de1d59b1-3ce1-4be0-bc1d-63355e93cfd4",
+  "name" : "Algebraic expressions"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5cfb88c9-58ee-4388-af4d-6b7dbb8f8f10",
+  "name" : "NNNPA7.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/abd9c31a-0721-49ed-b3ac-843190fe4de7",
+  "name" : "NNNPA7.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/aef6a505-f99a-4955-923b-6087f9f5df3b",
+  "name" : "NNNPA7.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4a629f23-dc19-4346-91b2-e56f1d42f18b",
+  "name" : "NNNPA8"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1251ed35-3dee-420b-b2be-b4fefc9fe90a",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3e4d484f-990d-4eac-bb4d-bf29a7fb0716",
+  "name" : "Algebraic relationships"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4873ac66-e881-43d8-92cd-370e174904f3",
+  "name" : "NNNPA8.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9b6e9317-0331-44c8-afcc-43d74959cc2d",
+  "name" : "NNNPA8.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/55dcfcac-782a-42a1-b41b-d50f9da08d1c",
+  "name" : "NNNPA9"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/03a2c5dc-8a9a-4be0-afe0-cd868180a010",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3ed67778-4d98-43a3-9634-5868d0c8e697",
+  "name" : "Linear and non-linear relationships"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7c80b959-a122-4dec-81c4-ed23ce3c455d",
+  "name" : "NNNPA9.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bd24b076-244d-4b70-b1ef-3d9c21cfd9cc",
+  "name" : "NNNPA9.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0de01332-0a67-4d57-8686-8341f6c4f3b5",
+  "name" : "Understanding money"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/43e3c755-4e97-4391-b382-0183ee0ceae2",
+  "name" : "NNUnM1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/da4b7d33-d069-46da-b6c2-3e811f88cba8",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/be01d9d9-58f3-45ed-809c-847b2a8b5d23",
+  "name" : "Face value"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/45c6fb05-3373-40bc-ad5a-2ad1c0172176",
+  "name" : "NNUnM1.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b0164296-e742-4a33-8b87-be898997a9f3",
+  "name" : "NNUnM1.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2386d458-32e4-45b0-a470-c8f9ef3a1a2c",
+  "name" : "NNUnM2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ae19c511-ed49-4a81-84ad-6e6f1bfadf15",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/53cf8368-7a56-423e-82af-b506f94fcc66",
+  "name" : "Sorting money"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8bf58990-6e8b-441f-9c05-59c134d9a538",
+  "name" : "NNUnM2.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/09d225c7-4375-4c92-936a-e50490697ba8",
+  "name" : "NNUnM2.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/036308df-dc62-479a-9a7a-8c819178d713",
+  "name" : "NNUnM3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8ff5b074-5eff-4c97-b29e-3b6769766057",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7ec05a87-adca-42a5-a638-ed01ebf46d13",
+  "name" : "Counting money"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b8183072-ea34-4807-900c-a05a9dc7ec72",
+  "name" : "NNUnM3.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4816a7a4-5ba1-4b01-86ad-f39d4a3fb9c1",
+  "name" : "NNUnM3.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fb3c9f17-29e8-4b0f-985d-a1406dff5630",
+  "name" : "NNUnM3.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/947c0871-fbe1-49a6-9aaf-ddaf453f3d07",
+  "name" : "NNUnM4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bfb6fd49-9fe5-4cf3-94bc-e56026b326f1",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3618c81b-f4f2-47bb-8876-4daf6414d9ff",
+  "name" : "Equivalent money"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/799477ef-0119-45f9-88f4-1d87e01e695d",
+  "name" : "NNUnM4.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/729f9726-4694-4947-a480-d7038bc2a198",
+  "name" : "NNUnM4.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3eb85d91-3a78-4b47-a85a-5ee338e07470",
+  "name" : "NNUnM4.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1a90a2d9-cf23-4ea0-b084-e933d9b3ec1d",
+  "name" : "NNUnM5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b3350728-fcaf-4f25-a661-65a373df71bb",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/78a045fe-67d8-4d85-a26b-ce8e38eef4d9",
+  "name" : "Counting money"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3d70339d-ea25-4bf2-af0e-bcba6d07f140",
+  "name" : "NNUnM5.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/383c531e-c43e-4587-9040-a8414bd76459",
+  "name" : "NNUnM5.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4268b266-2684-407f-accc-6616dd5e5b41",
+  "name" : "NNUnM6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/46d69bb7-28ee-4de1-aefd-79ce3466d052",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1000adc0-9667-488c-a4b7-a47b2707b8bd",
+  "name" : "Working with money additively"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/98939f90-c4e2-4311-8b5c-097ae35bdb5d",
+  "name" : "NNUnM6.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6a153d78-adba-4992-a95f-67e63cb68016",
+  "name" : "NNUnM6.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f45ad743-f2fb-4c2f-92e9-8be86c86f200",
+  "name" : "NNUnM6.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f4cf5086-5ae7-4335-87e7-33d2db71aae6",
+  "name" : "NNUnM6.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f0187888-8d98-441e-90cd-48cbc93347d6",
+  "name" : "NNUnM7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2105b8e1-2628-42ea-bccd-dae6e2714792",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/388a861c-2844-4a94-adec-b05ae82b4ca7",
+  "name" : "Working with money multiplicatively"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bcea08a0-7aa6-4408-812e-61efb8410e6e",
+  "name" : "NNUnM7.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3d0bc002-1958-48f0-a383-c1d60e03755d",
+  "name" : "NNUnM7.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9045424c-7ea6-4302-bf55-68b8d427907a",
+  "name" : "NNUnM7.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fe78434d-9212-473a-a2a0-87f01eb64912",
+  "name" : "NNUnM7.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/05bffa63-9a8d-492b-bcbe-bf4bb3e8ef5b",
+  "name" : "NNUnM8"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/af57993d-4c9f-4ee3-b52a-177d9db872e0",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3dbbbb8b-74da-44f9-8632-81dac85ea523",
+  "name" : "Working with money proportionally"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0e427608-9d63-4051-bed9-b9072ecf4abc",
+  "name" : "NNUnM8.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e6e16712-d18a-4ba8-b40a-3f67ee3e042f",
+  "name" : "NNUnM8.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/207d0111-9a3c-4e58-863f-a4374aa3bc5b",
+  "name" : "NNUnM8.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/101e35f3-9960-492a-8ed0-4adade761c5e",
+  "name" : "NNUnM9"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/30da2757-ef4b-4997-8c10-e6cc743e24c7",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1bf4b2a5-4508-4b31-8ac6-70dd8ed182a3",
+  "name" : "Working with money proportionally"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b8d85f34-ea8c-403b-83d6-df86f0425951",
+  "name" : "NNUnM9.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b9324cf4-0b16-4cff-9d20-edac1fc6af81",
+  "name" : "NNUnM9.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9ad15c11-9f63-473a-9dda-ab3dcee7cfb6",
+  "name" : "NNUnM9.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d5cc0802-4140-4fc7-b770-7080673e4d29",
+  "name" : "NNUnM10"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e54af1f5-bb6e-42fe-a285-bc963671892a",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/349fb609-2a4e-4710-9fd4-03662c4bdc74",
+  "name" : "Working with money proportionally"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/016ce97f-e156-425e-93e0-10bdadd943f0",
+  "name" : "NNUnM10.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7d58d14c-7335-4e18-981e-0f72452d126e",
+  "name" : "NNUnM10.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/deef41d6-152a-4f3e-b840-e5bd778c0fcb",
+  "name" : "Measurement and geometry"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e930ece0-6659-4d45-8afe-7962648d54bf",
+  "name" : "Understanding units of measurement"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8893fedc-b75e-4820-a0ba-2d6e436e5462",
+  "name" : "NMUuM1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/67fc9c45-b249-4159-822f-857eb66e2698",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/aaec24ee-184e-4d2e-9cce-24874bcc80e3",
+  "name" : "Describing the size of objects"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/20049176-b64f-475a-bf25-959c230145c5",
+  "name" : "NMUuM1.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d092f61d-0bd9-4769-923a-d86de40829ea",
+  "name" : "NMUuM1.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1ff7d066-f356-403c-8ad2-881e84cca076",
+  "name" : "NMUuM2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/07333372-218b-4fcc-ba17-83273134bb1a",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ea09d10b-e5ac-44a9-919a-7ecc850c71a2",
+  "name" : "Comparing and ordering objects"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8be84cb7-9737-421e-bd3b-da5403fa3639",
+  "name" : "NMUuM2.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6b048711-c719-4627-9037-8697421d3ecd",
+  "name" : "NMUuM2.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2a51afe3-5c45-47db-a4bd-c316d1f6d1ed",
+  "name" : "NMUuM2.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/172d31d8-e4a2-4173-b1c3-363f9d33864b",
+  "name" : "NMUuM3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/eddd17b5-88fe-4c83-843c-8c3dffaa9d45",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a070a996-ef83-4a08-86dc-e19fad96b610",
+  "name" : "Using informal units of measurement"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c445c43d-9d05-4994-aef3-f55cc1369f2f",
+  "name" : "NMUuM3.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/332df3b5-ed06-4303-8522-11eb13224bd7",
+  "name" : "NMUuM3.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/24e75a7f-afc8-434f-822d-e123e04ecc7f",
+  "name" : "NMUuM3.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/31919f79-84b7-4f2f-8036-689fdfa2898a",
+  "name" : "NMUuM3.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4ba20987-d22d-4e65-9e38-ba8b0dda7171",
+  "name" : "NMUuM3.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/73a60b2a-6527-4d96-ac16-8655953c6e59",
+  "name" : "Estimating measurements"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/91364b3b-40c1-4042-94ea-d9cfee4577f0",
+  "name" : "NMUuM3.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a9a62b5b-f34b-45e0-a21b-47eb0697de6e",
+  "name" : "NMUuM3.7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/04cc5dc9-231a-4689-a5cf-b2381f5729ae",
+  "name" : "NMUuM4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a0bea1ba-38a2-4eed-8d8d-376d044fbd63",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/eca1420c-643c-4803-a43c-2c7766f88053",
+  "name" : "Repeating a single informal unit to measure"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5687a720-a454-47e6-acf7-5982b77c23c1",
+  "name" : "NMUuM4.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/feea2a92-fcc2-4025-87be-0b2b0166d148",
+  "name" : "NMUuM4.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/477d710e-3a95-4bc4-8cc3-558095616483",
+  "name" : "NMUuM4.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/57cf8ec0-2802-43bc-9e3a-e845d84c2e02",
+  "name" : "Estimating measurements"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/506ade20-0109-4927-89b1-2dd3d454f5a1",
+  "name" : "NMUuM4.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c608fbe5-1bd8-4410-bf9c-e747b78f4c0d",
+  "name" : "Describing turns"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a8e76b88-90c8-4b28-98e5-0861fef6f883",
+  "name" : "NMUuM4.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0d21429a-a7fd-4c6d-8344-8daf0e84f91f",
+  "name" : "NMUuM5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8040ca16-33f9-4a25-949f-63c83d96b3e2",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3a63668b-9d45-4464-ad81-9a9376e1a2e7",
+  "name" : "Using abstract units"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/992cf66d-068d-4d8d-90ba-0bb443990f9b",
+  "name" : "NMUuM5.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6a36ad89-0bb0-4a5c-8b1f-a7d4edfd13a7",
+  "name" : "NMUuM5.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0d304efa-d532-4be1-897e-8801da4caf39",
+  "name" : "NMUuM5.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d8d1e51a-cc65-4f7a-9083-46538f057b32",
+  "name" : "NMUuM5.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4dc78886-4f57-42fc-9556-60e68870d25d",
+  "name" : "Angles as measures of turn"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/33a4adf0-eec9-4cf4-8293-425b619cd641",
+  "name" : "NMUuM5.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1d377f44-d240-40de-a734-863194766f11",
+  "name" : "NMUuM6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/19ebe81c-0513-486d-9361-ce099b291d6e",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/443948c0-2199-4d9f-b283-74fa12c14af0",
+  "name" : "Using formal units"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fc047f07-9cf8-4092-83f8-a9d506812804",
+  "name" : "NMUuM6.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8b8e8c9b-758a-4ed4-bc1c-26f942668851",
+  "name" : "NMUuM6.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f0bf914c-d773-4f2d-bbee-5ce2738571b7",
+  "name" : "NMUuM6.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1558b3dc-f6a6-4134-9589-1c14f935629f",
+  "name" : "Angles as measures of turn"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/62b894dc-4fc4-40d9-b5fb-1af017d87cf5",
+  "name" : "NMUuM6.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/56182911-ece8-485b-95a1-6c72ada6e00a",
+  "name" : "NMUuM7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8bbcc216-eed1-45f2-8cd6-02a9a6e81aac",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4f6fe6a4-6262-4fb3-a1e5-bfba971df86a",
+  "name" : "Using formal units and formulas "
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a14279d0-9803-4419-a3e5-297d1495163c",
+  "name" : "NMUuM7.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1658c2bd-f2c8-4fd2-89a3-b68ee3508824",
+  "name" : "NMUuM7.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/11c75941-7460-4e38-8f03-6c284ea5a20d",
+  "name" : "Angles as measures of turn"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e519fb43-f607-4ef1-9711-a8352b237c6e",
+  "name" : "NMUuM7.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3c988e91-d299-41b2-be3c-eb4a816687f3",
+  "name" : "NMUuM8"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/aace4574-dc8a-4d3e-82a5-8c8ed086a5c9",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d8f1277e-a2d8-4dca-b0f4-d0239bf92dd1",
+  "name" : "Converting units"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d0783e58-9f77-4827-b304-d3c001429966",
+  "name" : "NMUuM8.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e55057f3-ed6b-48fc-a9e6-d3d4341517eb",
+  "name" : "NMUuM8.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b91597fa-c05d-464d-b6d6-94e32427785c",
+  "name" : "Using formal units and formulas"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a9274bdd-0078-4110-9216-6de308321d30",
+  "name" : "NMUuM8.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3ec947d6-f30c-4736-9421-44f7bf80c3f9",
+  "name" : "Angles as measures of turn"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ca4c6b20-59e8-46ce-a5bd-18d45d2cd88c",
+  "name" : "NMUuM8.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/221a19fa-4abe-4be8-b5c6-22d7c872d85a",
+  "name" : "NMUuM9"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8c458e46-0c49-46a7-b058-15ed1d40c512",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3e8fa157-2883-4a01-8709-4b7fe7472935",
+  "name" : "Using formal units and formulas"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/195554b2-2f8a-4d52-bb4e-2ddf4ddbdfa4",
+  "name" : "NMUuM9.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4c6bc4be-6078-4bf7-a03e-9b704b48a0a7",
+  "name" : "NMUuM9.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3910aeb3-2d73-4d66-a504-bbd71a67701f",
+  "name" : "Circle measurements"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/677216f2-426e-48d2-a802-c1be6b498cd0",
+  "name" : "NMUuM9.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/dc84419a-4810-4494-acc9-a1f04a968ef1",
+  "name" : "NMUuM9.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0152aba9-85ae-4283-8ec8-a5c07286cbc5",
+  "name" : "NMUuM9.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c1e332a5-8f43-4bd9-8321-3a8df6804616",
+  "name" : "NMUuM10"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c296f61e-8230-4cc8-b9f7-6ba35c22ff59",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c07b20e4-8603-4780-ac7f-01237ab9147f",
+  "name" : "Using formal units and formulas"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b567a74d-c4b0-4de0-88e7-1b17adaeb547",
+  "name" : "NMUuM10.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8e7fc9b1-2401-4c8b-aabd-7ea221aa9d70",
+  "name" : "NMUuM10.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e73f42d4-36b3-4e19-a7ad-6016eb0e8085",
+  "name" : "NMUuM10.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5ea85589-316a-4dca-bb28-84976dcb4cb7",
+  "name" : "NMUuM10.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e5784128-026e-40fd-aae7-8486ecc4f8f7",
+  "name" : "NMUuM10.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b504f3dc-f605-454b-a542-d460e06d3639",
+  "name" : "NMUuM10.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4523a141-cf48-47ea-8856-cd28936cd67d",
+  "name" : "NMUuM10.7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5efd172d-f902-4ab3-8069-b497aac9922c",
+  "name" : "NMUuM10.8"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c584edb4-6e85-4764-a35b-97184b9e46c5",
+  "name" : "Understanding geometric properties"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e5d19e54-309e-45bf-91d5-bc752a400667",
+  "name" : "NMUGP1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5442fb72-4944-433c-baff-d726f2b29691",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d5c0170c-e41e-4769-b567-03a43cf66ff5",
+  "name" : "Familiar shapes and objects"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7a1345c3-10e7-48a1-a6b8-7d008952c023",
+  "name" : "NMUGP1.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/81eb0169-ec1e-498e-a9ab-01a9fdf9ec98",
+  "name" : "NMUGP1.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d611cce6-2b36-4d7d-85f3-921b82f7df21",
+  "name" : "NMUGP1.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/598f36bf-f9be-4d5d-874c-1a220de3b4d8",
+  "name" : "Angles"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e91c4386-171d-4122-b60c-b7d0051555cc",
+  "name" : "NMUGP1.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/cec570bb-5f48-42dc-a1a9-e56c0fe6a3b3",
+  "name" : "NMUGP2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ddace2cc-1703-4c53-b8ed-74562ca21f63",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8fd5a27c-c014-4582-906c-9da15939e85c",
+  "name" : "Features of shapes and objects"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/87c0ab65-12b9-48dd-bfa2-3aa2138ae845",
+  "name" : "NMUGP2.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d0548d14-7e7a-4f7b-ab37-f2d5a542ee1b",
+  "name" : "NMUGP2.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/26286b0d-61d6-4d64-a290-b30580eec161",
+  "name" : "Transformations"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d874bb26-1f2c-49ac-9df7-df90dd8b6bb9",
+  "name" : "NMUGP2.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f68f4623-c2a7-4536-a1fe-eefab0d9ab43",
+  "name" : "NMUGP2.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fecaa703-e18d-469a-8c02-b3de4b9b70b5",
+  "name" : "Angles"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9936a9ac-8b2f-4ead-9740-ee91b6841202",
+  "name" : "NMUGP2.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c97ff84c-3e3f-4ab3-b29e-44c8a5a5c65c",
+  "name" : "NMUGP3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/62465985-3790-49ef-80c3-0cc921a3ad01",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6c39dc11-0124-4240-8b84-70f3188a36c4",
+  "name" : "Properties of shapes and objects"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d973c9cc-e582-4095-bed8-ef61067b4cc4",
+  "name" : "NMUGP3.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/210d2790-f92e-4baa-a3d3-0fee4336ad7b",
+  "name" : "NMUGP3.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/26141c02-27f4-4bcb-a2cc-b12b751932b1",
+  "name" : "NMUGP3.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7e3254ce-5166-42ef-8dce-d2d00d7d18f8",
+  "name" : "Transformations"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/153fd985-924c-427b-95d2-82aa9a4d6d4b",
+  "name" : "NMUGP3.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/33afb093-40ea-4a2d-84bd-d28ebc75cf74",
+  "name" : "NMUGP3.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a26ee7f9-2d00-49a9-bdee-3a7ae63547ef",
+  "name" : "NMUGP3.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/42221169-856d-44b2-a003-daedf96be95c",
+  "name" : "Angles"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/75789a20-81cf-4ec2-8ddd-460d3a8d2d46",
+  "name" : "NMUGP3.7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/00c09ce1-bc81-4092-a2d2-1bc1a19c6742",
+  "name" : "NMUGP4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1cc32628-106c-4eff-9403-a1189be0a4e1",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/832a57e8-dd15-4e65-9fb4-083fcc1c084a",
+  "name" : "Properties of shapes and object"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9917276c-147d-4cf7-b72e-cf0cc0092c3e",
+  "name" : "NMUGP4.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/722fdba8-f00a-4511-a7b1-71608b9d81c2",
+  "name" : "NMUGP4.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/37aa6b61-9f02-4791-9119-33d0d438944a",
+  "name" : "NMUGP4.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e7c2c7f5-86b1-4770-bf39-ae3b43531ee7",
+  "name" : "NMUGP4.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/dd8ca59d-7ab9-4fe8-8670-daa008651991",
+  "name" : "Transformations"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4b12642d-2853-40cd-9c54-a09571f91acc",
+  "name" : "NMUGP4.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/317b072b-dc48-48af-8164-363e679287dd",
+  "name" : "NMUGP4.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/61a937aa-a5dc-40e1-9b5c-e5edf24dc36c",
+  "name" : "NMUGP4.7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a9dc5676-4d66-4389-a148-b57fa2faca39",
+  "name" : "Angles"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/adb0ce4d-6b4a-4ae1-be1a-b76e312b6a5f",
+  "name" : "NMUGP4.8"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ed230ee1-e72e-4354-8692-c37093d2457a",
+  "name" : "NMUGP4.9"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/41b9a743-b71a-46f1-9a94-e5dc5c0036a9",
+  "name" : "NMUGP5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/89e93a3c-7d5b-402c-8441-20bf94014b4e",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1402ba67-f994-4d47-89f8-5a486df07ae0",
+  "name" : "Properties of shapes and objects"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/dfa5a0b0-a6b2-4213-b085-9977863bfbd2",
+  "name" : "NMUGP5.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/54cb1902-03ad-4713-91b3-b62eb25e0841",
+  "name" : "NMUGP5.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8b311b2d-5f27-4cec-a1cb-8357ee32516d",
+  "name" : "Transformations"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b214a9f5-79d8-4a2c-9062-34fb17252959",
+  "name" : "NMUGP5.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a49cb99c-b285-4288-bcf6-24f140abba29",
+  "name" : "NMUGP5.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8d9b32e2-45be-49cb-b9c7-0cc223a3e511",
+  "name" : "NMUGP5.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/80d5992d-0a80-422f-aedf-e2fcd3eab1d7",
+  "name" : "Angles"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/618295a7-3b62-4ce4-80e8-6564d7bc3a56",
+  "name" : "NMUGP5.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d6fad2e4-ff4b-46e6-a05a-442d4c8e5802",
+  "name" : "NMUGP5.7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9beb4e87-6746-41aa-9bea-a9eb9c4f164a",
+  "name" : "NMUGP6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5f04f42e-f54a-4143-a639-2fdfa42eaf4b",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f9a66387-be7a-4106-9c38-27add3445798",
+  "name" : "Properties of shapes and objects"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/59f77ad4-a356-4eca-b939-ab5363b81255",
+  "name" : "NMUGP6.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b457902d-8b4d-477b-88a1-3bb7b412f8a0",
+  "name" : "NMUGP6.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/03794c0c-4215-4509-9dac-838328a6285b",
+  "name" : "Transformations"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/608134a3-d0f8-46f2-8a9a-3bc577e45b8f",
+  "name" : "NMUGP6.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/78fe9194-793e-4138-be2b-71020b3836f6",
+  "name" : "NMUGP6.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/98d6ecf4-e4ec-4c1f-9bce-6fb2d4c2a02e",
+  "name" : "Angles"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b2c5a545-d5f2-4e72-9cda-7bb922181cdd",
+  "name" : "NMUGP6.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2914460e-2d19-4034-8c80-99eeef2c0c1e",
+  "name" : "NMUGP6.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e1526a06-67f0-4a3c-bba8-b1fe0326e00e",
+  "name" : "NMUGP6.7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bd205be5-4edb-4a90-bd1d-8265c6d5ac04",
+  "name" : "NMUGP6.8"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/277f300d-ecd1-4157-b219-ca40408acf7e",
+  "name" : "NMUGP7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d087769e-d89f-441c-ad84-3b37f5c99b24",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6832aa96-d870-4bbc-90aa-c59939d25893",
+  "name" : "Geometric properties"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a00cf4fa-ea12-4c0c-8c6a-f7ae700d0897",
+  "name" : "NMUGP7.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2a0e12dc-144f-4d74-9392-008d39cda458",
+  "name" : "NMUGP7.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/011eaf8a-395c-441d-9833-7c9da26bd11d",
+  "name" : "NMUGP7.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2035f557-8cfe-40f0-a594-3c371b6776cd",
+  "name" : "Transformations"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/632e2835-b88a-47e9-a515-3ce78bd2371f",
+  "name" : "NMUGP7.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fa8160a3-8950-4ed2-9ac0-7b5fef1cad8a",
+  "name" : "NMUGP7.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7c339257-2846-4d65-bc32-7faa567d1f7c",
+  "name" : "Angles"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5ee8711e-2b2a-4bcf-945a-f33c8a9b4f57",
+  "name" : "NMUGP7.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4c2cec24-db85-4ec9-88c1-feeebde47241",
+  "name" : "NMUGP7.7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/88c8ef56-6d71-4a5c-baa8-18d27f47d75e",
+  "name" : "Positioning and locating"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/45360476-a3d6-4514-a6e6-79daa0131502",
+  "name" : "NMPoL1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1409a2ee-8852-4fbd-b839-98e070836f08",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5bfe30b6-ddd5-4f1e-a480-f9fac2f7d4ca",
+  "name" : "Position to self"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/25d0a37c-a727-4233-b5cf-49d7a70b8ecc",
+  "name" : "NMPoL1.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fd804b10-729b-4f68-a090-2cf0d27bcc65",
+  "name" : "NMPoL1.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/57e9e5d1-24ca-4c30-94c8-c2c18774342e",
+  "name" : "NMPoL1.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/500279de-5148-4241-b261-0860b538b9f0",
+  "name" : "NMPoL2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7dc3ea8e-89d5-4c81-a996-b6c984923992",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2488f872-1816-4396-acf5-3597f9685c5a",
+  "name" : "Position to other"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/15fecfec-7dd6-4b3a-9e6f-1b44168fc566",
+  "name" : "NMPoL2.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1daa72f8-9541-478f-a691-5f369abb1243",
+  "name" : "NMPoL2.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a2807ed5-f439-466a-90f5-ca9a4f91f8e5",
+  "name" : "NMPoL2.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b8041cc7-bdbc-4320-88ef-945e530ba1a7",
+  "name" : "NMPoL3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fb102acd-cab7-43e9-97cd-3fc283a2203b",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/cfb8865e-3e13-4125-80b4-5a1dbaec150c",
+  "name" : "Using an informal map"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/13175b5a-6bc8-4a29-9572-b0f87a28ae1e",
+  "name" : "NMPoL3.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/74fc730a-91a1-421e-990d-adf91a9687a6",
+  "name" : "NMPoL3.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c6d96f9e-bf25-4d65-8ba2-58a178b76092",
+  "name" : "NMPoL3.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a8dd6f5d-d95a-4def-9872-fec163363a03",
+  "name" : "NMPoL3.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5410896d-d019-470a-a8f1-8b8d0abd07e9",
+  "name" : "NMPoL4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5d7476fc-b545-41f7-8a26-82d1f2005caf",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0d68d090-d1b9-4813-ac6f-953c6acc9ae9",
+  "name" : "Using formal maps and plans"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1c9317ad-7768-4242-a6a9-125b87aa690c",
+  "name" : "NMPoL4.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/169a6be0-a539-487a-a64e-df1a02fba7b2",
+  "name" : "NMPoL4.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e6c2c4d6-5b88-4209-98a4-9c38c3238743",
+  "name" : "NMPoL4.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7050c526-5685-46b7-a4c5-1cbb0ae083ab",
+  "name" : "NMPoL5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/545e7c9c-2f3c-4d76-905d-8a5b96abdcc1",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0431dd6c-f415-4aeb-ab81-7a05bcc14a3f",
+  "name" : "Using proportional thinking for scaling"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c9497079-5cb8-442c-92d0-e98225f76ddb",
+  "name" : "NMPoL5.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/41f2842c-c44f-4860-b2c2-1c64a5d694a8",
+  "name" : "NMPoL5.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a10a16b5-5251-4371-a1ee-ee2b960bd191",
+  "name" : "NMPoL5.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b288f39a-1868-48d4-92d7-d6f31c52b425",
+  "name" : "NMPoL5.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f5b67b5f-9dc5-46fd-aadd-dae83b8610d1",
+  "name" : "Measuring time"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d1524e61-ff8d-4b82-919c-0cc53f644393",
+  "name" : "NMMeT1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/06190e7a-db7a-4c60-ac55-c61ae977cb8e",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1868b8c3-e1af-4ae6-9c19-08083f255056",
+  "name" : "Sequencing time"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c7309d77-a083-4d7e-aa5e-5a465d666845",
+  "name" : "NMMeT1.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b5b89a97-45a7-4bef-aa7b-613605e2a649",
+  "name" : "NMMeT1.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/aa0b994e-d251-4655-8e0c-de20e7273ed8",
+  "name" : "NMMeT1.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3274335e-a8e6-4631-93ee-b6918f86c2af",
+  "name" : "NMMeT1.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/014d1775-36ca-422a-82b9-297d4a51bd94",
+  "name" : "NMMeT2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a166f04b-44f4-4bfc-aa41-6b55a0c39206",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bf1425d0-ea20-4aa6-941b-2035ed482574",
+  "name" : "Units of time"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e54846f3-f8bd-418a-8f16-c880f17fc635",
+  "name" : "NMMeT2.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c517a20c-8992-49aa-aee3-534d5b3e117d",
+  "name" : "NMMeT2.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4aeb3125-3120-47e9-9d21-a43cc0e77b0d",
+  "name" : "NMMeT2.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/82705cf6-14ba-4e28-b44c-6e916abf4bce",
+  "name" : "NMMeT2.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7059cf11-2b28-48ef-94da-29ea98d89ef2",
+  "name" : "NMMeT2.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1c3610a3-f77c-4467-8974-d7455c0315a7",
+  "name" : "NMMeT2.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b174f7ac-6fc5-4f28-ae5f-35fc32b4f0e9",
+  "name" : "NMMeT2.7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ff3d180c-4444-457f-a730-97284b4cba78",
+  "name" : "NMMeT3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/19e01627-1c4e-4cd6-88b4-b232177b5a7f",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/07b1c3d5-023a-4e7f-b2f9-64048d7dd9ab",
+  "name" : "Measuring time"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/782342cc-2ca9-48fe-b3b9-abc37a97ca08",
+  "name" : "NMMeT3.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/de087310-cbab-4d04-bf55-308dd7d1064e",
+  "name" : "NMMeT3.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f48cbd5b-ed5d-4cbe-b6d2-9a75400f297a",
+  "name" : "NMMeT3.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/730388b5-a2ac-4763-817a-03df10b54842",
+  "name" : "NMMeT3.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a4c780d3-379a-44eb-84bc-a30964b10dca",
+  "name" : "NMMeT3.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0175220a-69a1-4a02-9e4f-0dea75843d89",
+  "name" : "NMMeT4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/dbb72f39-281f-44f7-80cd-b8224c0a0bca",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/21fc4c0d-12e8-429e-9132-391e2cca95e4",
+  "name" : "Relating units of time"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/64a9bbb5-ca44-49a2-9701-980d936673ea",
+  "name" : "NMMeT4.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/cbe93903-e419-40b0-b701-c99a242cd5eb",
+  "name" : "NMMeT4.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/cefbaad4-55fb-4239-965f-f2e6b14ff265",
+  "name" : "NMMeT4.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3c833d46-5236-479e-8369-1099f39c9cc3",
+  "name" : "NMMeT4.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/44070a15-8fd5-41c2-a5f7-e86da77207e4",
+  "name" : "NMMeT4.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/10d2beec-ed26-4d49-933d-92d34c16eeaf",
+  "name" : "NMMeT5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b071f35e-d016-408d-983e-82b7dda40857",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a2e78929-fb84-49c9-ac0b-7242c6186ae8",
+  "name" : "Converting between units of time"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/dae2c08c-d248-435c-9f1c-7b4d3719fba4",
+  "name" : "NMMeT5.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6b68d34f-4c03-4469-a734-7cdba5921c84",
+  "name" : "NMMeT5.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fd7391ee-91d9-4862-bb06-cfd5234d619e",
+  "name" : "NMMeT5.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b323421b-1019-4822-bb50-8efdf68402c9",
+  "name" : "NMMeT6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8bbfcf94-1b37-4baa-8822-4af2f9fe3178",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7f517c62-5a1e-4a24-b2a4-7c5ab0dd4b7c",
+  "name" : "Measuring time with large and small timescales"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b55ca664-5c66-4915-8ad3-7f8e57a598df",
+  "name" : "NMMeT6.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f6f8c316-0dcf-4726-882b-136569d8880a",
+  "name" : "NMMeT6.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2b3c3c5f-d7b8-4f5d-a8c0-1099342ede09",
+  "name" : "NMMeT7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0a8119d8-b2ba-42cd-97c0-95e151a24b0c",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5c5e75ce-2470-4e83-8231-ca018b7218dd",
+  "name" : "Measuring how things change over time"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d59e1d3b-9499-48a5-b95e-9732afade960",
+  "name" : "NMMeT7.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/70980025-4b12-4dfc-83d4-87c945d7ecec",
+  "name" : "Statistics and probability"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/bf3fc1da-5ebf-4649-abb0-88582ce9a77b",
+  "name" : "Understanding chance"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/62e59aa4-9bc4-42db-b77b-6dfb46c4fc28",
+  "name" : "NSUnC1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9016d089-0629-4cc5-8c2b-ffb2160f4885",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5a00f836-38e7-48e2-bc80-cba8b62dd8b0",
+  "name" : "Describing chance"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/672e7b5a-9f2f-45d0-9969-b4c87b880fc6",
+  "name" : "NSUnC1.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b1942f0d-e6dd-4a50-9be1-1af4b09d0933",
+  "name" : "NSUnC1.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ae6db2e1-4a39-4b08-b407-a97c3fdd8223",
+  "name" : "NSUnC2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ea8062eb-3cfd-4031-9be6-d034d6166696",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d938d9aa-09df-4a1b-bbd2-4864d4b57f43",
+  "name" : "Comparing chance"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/49e59602-2d5c-45a2-b0e0-2440a4b44600",
+  "name" : "NSUnC2.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2ad5c7d3-6966-43d6-96f5-6a6c0bd2c6f3",
+  "name" : "NSUnC2.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8834c894-8dcc-43bc-b127-d58f61babd2d",
+  "name" : "NSUnC2.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/88c71c4f-1ff8-4636-b16a-72e5c5c14c95",
+  "name" : "NSUnC2.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5d46d38f-5fa6-4527-97ad-124c7f1ff244",
+  "name" : "NSUnC3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8fa380c0-c8d6-436c-8081-0e89a0da7b45",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/876d49ed-6abd-4655-9a96-f813021673b1",
+  "name" : "Fairness"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2a13dd84-01ab-4c40-a796-f3ce46d56034",
+  "name" : "NSUnC3.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d4529536-ad5d-46bf-9889-47532e974998",
+  "name" : "NSUnC3.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0b48f881-6e6a-4b42-a5a5-4f551c672c04",
+  "name" : "NSUnC3.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/497b3e91-60a4-4471-8c81-15fce81a02c6",
+  "name" : "NSUnC3.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/98255bfe-cc04-414c-a1f0-b7ae8ac6d5af",
+  "name" : "NSUnC3.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c11a0ebb-0b6a-494f-968a-23640ba43182",
+  "name" : "NSUnC3.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/23d38a20-d481-4961-aaba-0ff337531a40",
+  "name" : "NSUnC4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/1587db39-8e82-4834-85d2-b0a8f34d7952",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/028fa1ba-c375-4707-81f9-716d20a50ab6",
+  "name" : "Probabilities"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/280e5912-8144-4b32-8370-431a386aaf0e",
+  "name" : "NSUnC4.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/70480f51-073d-4a97-858c-308f39acaf0c",
+  "name" : "NSUnC4.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f06f23c8-cd01-4583-8f30-112820df392c",
+  "name" : "NSUnC4.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6c68b1d8-52ae-424c-ad72-907043be92f1",
+  "name" : "NSUnC4.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f0c74919-6818-4948-bc1c-7f767ed97ed0",
+  "name" : "NSUnC5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a1beffeb-6784-4124-a43e-7fe588e04145",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7b22b690-aa73-4e4c-a989-a1e925c6b229",
+  "name" : "Calculating probabilities"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f1a78f4b-45d5-442d-9448-6da7b9216187",
+  "name" : "NSUnC5.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3798b05e-129c-4fa4-bb29-df1a60c37b67",
+  "name" : "NSUnC5.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0a160975-0bf0-4a98-9c3d-f80130649dc1",
+  "name" : "NSUnC5.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f8708efd-9679-4192-a63b-5cc0de7f862b",
+  "name" : "NSUnC5.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/53e5defd-dd48-4274-8e0a-006f17a715a7",
+  "name" : "NSUnC5.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/0b6be2a9-aea1-4892-b7d9-754243846d20",
+  "name" : "NSUnC5.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b7fa23f9-947c-4254-9524-56f117bfdddb",
+  "name" : "NSUnC6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/52daaef5-bfd7-4668-91d4-970b84761835",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a375ae6d-26da-457c-875b-3f9bb452e756",
+  "name" : "Probabilistic reasoning"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/556a8896-d846-41d8-acbe-0015d9dadb8a",
+  "name" : "NSUnC6.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a80dc162-1fb2-425b-a787-55008cac56ae",
+  "name" : "NSUnC6.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/5d91c840-fac0-45b3-9346-98baf5d4a7ab",
+  "name" : "NSUnC6.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/49954496-53d7-4f27-9dde-b1f5f7a698d8",
+  "name" : "NSUnC6.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3ec916b6-29fa-4504-8c31-3906f5913c21",
+  "name" : "Interpreting and representing data"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/51ee4fd1-ce57-40a4-b554-69504c809414",
+  "name" : "NSIRD1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3f5aee3f-05d7-468b-8297-3de3b38629f2",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/cda8212a-9f97-4d65-baf9-473fee9ee4fa",
+  "name" : "Emergent data collection and representation"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9318e462-f8d8-4479-9eb7-d0d69eee93dc",
+  "name" : "NSIRD1.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/af384a6e-25b2-4a8d-8162-ba28cb8b11eb",
+  "name" : "NSIRD1.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/920b98a6-e90a-4df8-a1d0-d73adeb20748",
+  "name" : "NSIRD1.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/2b88c561-007a-4751-80ce-687540d48035",
+  "name" : "NSIRD1.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/322b7f19-c42f-45b8-81a7-89f934732ff5",
+  "name" : "NSIRD2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/802971eb-7269-4452-817f-89b256562583",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7d7d41c0-ee9c-416c-a492-d691c5dcb47a",
+  "name" : "Basic one-to-one data displays"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c48db3ad-2f7e-4146-b446-a12d2863844f",
+  "name" : "NSIRD2.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/dabafa19-6cb3-43f6-86dc-4c662c8d7442",
+  "name" : "NSIRD2.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/def7f67e-7b98-4b16-83b5-69e137ad3751",
+  "name" : "NSIRD2.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/59bce426-8482-454e-b449-05b01b22eb0e",
+  "name" : "NSIRD2.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ca2e1fae-2bd0-45f1-8c50-1b4521ded41b",
+  "name" : "NSIRD3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3fd1a917-ca77-4833-b5a5-96555810ef52",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/480662d2-3b7f-4621-aa24-5c9a0b2a7517",
+  "name" : "Collecting, displaying and interpreting categorical data"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f62965ec-c8c9-48d9-9ee0-c5bae552e8fb",
+  "name" : "NSIRD3.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d82de2aa-8165-4acf-8825-f0682f090786",
+  "name" : "NSIRD3.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/3023289b-3447-4b56-a997-d57c5c7d9e4f",
+  "name" : "NSIRD3.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/34b8d403-a38f-4992-9ef9-3ef177c350c0",
+  "name" : "NSIRD3.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/c457bfa1-5d43-4e46-9ab1-f46f912fad38",
+  "name" : "NSIRD3.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/18d98074-1eaf-4de1-9b62-fc1773c049da",
+  "name" : "NSIRD4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/dfb2b4c1-a66a-4746-871a-cd5419bacbc5",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9036a02e-6e61-4909-bc0b-9909184e0ba7",
+  "name" : "Collecting, displaying and interpreting numerical data"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/7370e57a-d21a-4a1c-9f1c-00ae432a583a",
+  "name" : "NSIRD4.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9a464099-b997-43fc-9333-461d7a47c86f",
+  "name" : "NSIRD4.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e06f17d6-3fe4-4dd9-a2bc-a9022c5edfe8",
+  "name" : "NSIRD4.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/46361b4d-2889-487f-9563-07b78f11626a",
+  "name" : "NSIRD4.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/05f25062-2a1b-4755-90d9-32d1bec38f0b",
+  "name" : "NSIRD5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/80e9141a-f628-4962-97e0-44a16b41c396",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a8dae518-c875-4240-aca3-ec11792e519c",
+  "name" : "Collecting, displaying continuous data"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/16f11a29-0507-48d3-b1d1-47b2ab4d130e",
+  "name" : "NSIRD5.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/45519949-1b83-4349-bcd2-533f3484b556",
+  "name" : "NSIRD5.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e86a4a01-9841-4fbf-8ced-8ce23e11b966",
+  "name" : "NSIRD5.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a2c9efe5-74fe-47f0-b5f7-c5687a90de19",
+  "name" : "NSIRD5.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b41ad0d6-e989-4a36-a889-e4cf89300680",
+  "name" : "NSIRD5.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d266f280-fbb9-4829-81ef-781a75691158",
+  "name" : "NSIRD5.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d1bcc45a-dc13-4f1f-ba8b-e78d1338da61",
+  "name" : "NSIRD6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/e1f44589-a5a0-4928-807f-d9aeb113bb24",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d820a48a-f6aa-4950-b68d-99ad7c035baf",
+  "name" : "Interpreting graphical representations"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f33f466b-e9bf-4c61-be36-31218aa1d05f",
+  "name" : "NSIRD6.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/67e4c5a2-4c08-48a4-886a-2b9d4ab721f1",
+  "name" : "NSIRD6.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/87c8e443-11e4-4af6-9c09-7f3af47d4184",
+  "name" : "NSIRD6.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/4b3093b3-e1ba-484c-b80d-69681a10bc71",
+  "name" : "NSIRD6.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a38dafc8-ce6b-45c5-8a38-38a8d6f262d0",
+  "name" : "NSIRD6.5"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b82fdc50-0a46-4920-8486-b788912501fc",
+  "name" : "NSIRD6.6"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/6d4a3ceb-2e1c-403d-9c76-424bf1bd019a",
+  "name" : "NSIRD6.7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/417c4f1b-416d-4cc2-a87a-082163f54c72",
+  "name" : "NSIRD6.8"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/a0f1cdc8-d850-495c-9dbf-cf046f30ea59",
+  "name" : "NSIRD7"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d13357e9-8199-4d2f-8515-5768c7522ed5",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/f18c0d90-dd96-487f-97ec-d7d5befd0299",
+  "name" : "Sampling"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b7aad06c-d370-4252-ba51-f68931713771",
+  "name" : "NSIRD7.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b99f05c2-0ce1-44c5-be75-ea435e3dd776",
+  "name" : "NSIRD7.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/b10e6471-4647-43a8-aabd-7e5d71e305bd",
+  "name" : "NSIRD7.3"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/ca78dc0a-29a1-4d53-8c20-04fd6d991caa",
+  "name" : "NSIRD7.4"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/8a5ac148-98bc-4248-a2b4-45c91d810831",
+  "name" : "NSIRD8"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d2c0972a-740d-48f8-98e6-2dfee420ad6d",
+  "name" : "Indicator type"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9812b027-6bb0-4ff7-b01e-704bb249e3b8",
+  "name" : "Recognising bias"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/d73dd78f-6a84-461d-aee1-63b0d11f187d",
+  "name" : "NSIRD8.1"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/9a166e50-052d-405c-80d0-572067c58a6c",
+  "name" : "NSIRD8.2"
+}, {
+  "id" : "https://mrlp.australiancurriculum.edu.au/elements/learning-progressions/3.0/2020/09/fa9d6730-2040-4cd9-8f5e-9b05a02c9880",
+  "name" : "NSIRD8.3"
+} ]

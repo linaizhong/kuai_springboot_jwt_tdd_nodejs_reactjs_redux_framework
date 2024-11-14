@@ -1,0 +1,614 @@
+[ {
+  "id" : 1566887639944,
+  "stage" : "Content for Early Stage 1",
+  "category" : null,
+  "groupTitle" : "people live in places",
+  "outcomes" : {
+    "label" : null,
+    "outcomes" : [ {
+      "code" : "GEe-1",
+      "description" : "identifies places and develops an understanding of the importance of places to people"
+    }, {
+      "code" : "GEe-2",
+      "description" : "communicates geographical information and uses geographical tools"
+    } ]
+  },
+  "content" : {
+    "label" : null,
+    "groups" : [ {
+      "headline" : "investigate the importance of places they live in and belong to, for example: (ACHGK002, ACHGK004)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "identification of places they live in and belong to GS VR",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "discussion of why places are special and how people care for them F",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "explanation of why people need to take care of places",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Aboriginal and Torres Strait Islander places",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "investigate the Countries/Places important to Aboriginal or Torres Strait Islander Peoples, for example: (ACHGK003)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "identification of an Aboriginal or Torres Strait Islander site, Country or Place",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "discussion of why the site, Country or Place is important",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "investigate how the location of places can be represented, for example: (ACHGK001)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "location of familiar and local places on maps M ST",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "description of the location of places",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    } ]
+  }
+}, {
+  "id" : 1566887639945,
+  "stage" : "Content for Stage 1",
+  "category" : null,
+  "groupTitle" : "people and places",
+  "outcomes" : {
+    "label" : null,
+    "outcomes" : [ {
+      "code" : "GE1-1",
+      "description" : "describes features of places and the connections people have with places"
+    }, {
+      "code" : "GE1-3",
+      "description" : "communicates geographical information and uses geographical tools for inquiry"
+    } ]
+  },
+  "content" : {
+    "label" : null,
+    "groups" : [ {
+      "headline" : "investigate places across a range of scales within Australia, for example: (ACHGK010)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "identification that places exist across a range of scales eg personal, local, national M VR",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "investigate Australia’s location in the world, for example: (ACHGK009)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "description of Australia’s location in relation to the world eg continents, oceans M",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "People’s connections to places",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "investigate people’s connections and access to places, for example: (ACHGK013)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "discussion of why people visit other places GS",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "identification of factors influencing people’s accessibility to places eg distance M",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "examination of how technology has improved people’s access to places",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Local and global connections",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "investigate connections that people, including Aboriginal and Torres Strait Islander Peoples, have to local and global places, for example: (ACHGK010, ACHGK011, ACHGK012)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "discussion of Aboriginal and Torres Strait Islander Peoples’ connections with land, sea and animals of their place",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "description of reasons people are connected to places in Australia and/or countries across the world eg birthplace M",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    } ]
+  }
+}, {
+  "id" : 1566887639946,
+  "stage" : "Content for Stage 2",
+  "category" : null,
+  "groupTitle" : "The earth’s environment",
+  "outcomes" : {
+    "label" : null,
+    "outcomes" : [ {
+      "code" : "GE2-1",
+      "description" : "examines features and characteristics of places and environments"
+    }, {
+      "code" : "GE2-2",
+      "description" : "describes the ways people, places and environments interact"
+    }, {
+      "code" : "GE2-3",
+      "description" : "examines differing perceptions about the management of places and environments"
+    }, {
+      "code" : "GE2-4",
+      "description" : "acquires and communicates geographical information using geographical tools for inquiry"
+    } ]
+  },
+  "content" : {
+    "label" : null,
+    "groups" : [ {
+      "headline" : "investigate the natural characteristics of Australia and a country in Asia, for example: (ACHGK020)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "comparison of climate, natural vegetation and native animals GS VR",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Significance of environments",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "investigate the importance of natural vegetation and natural resources to the environment, animals and people, for example: (ACHGK021, ACHGK022, ACHGK024)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "identification of types of natural vegetation eg forests, grasslands, deserts VR",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "explanation of the importance of natural vegetation to animals and the functioning of the environment eg provision of habitats, production of oxygen F",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "discussion of the importance of natural vegetation and natural resources to people eg provision of food, medicine, fuel, timbers, fibres, metals F",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Perception of environments",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "investigate the ways people, including Aboriginal and Torres Strait Islander Peoples, value environments, for example: (ACHGK022, ACHGK023, ACHGK024)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "discussion of why people value environments differently eg cultural, agricultural, commercial and recreational values",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "description of how custodial responsibility for Country/Place influences Aboriginal and Torres Strait Islander Peoples’ views of the environment",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Protection of environments",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "investigate sustainable practices that protect environments, including those of Aboriginal and Torres Strait Islander Peoples, for example: (ACHGK023, ACHGK024, ACHGK025)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "examination of how environments can be used sustainably eg sustainable agricultural, commercial, recreational practices",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "discussion of ways waste can be managed sustainably VR",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "examination of how the practices of Aboriginal and Torres Strait Islander Peoples support the sustainable use of environments eg use of resources",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    } ]
+  }
+}, {
+  "id" : 1566887639947,
+  "stage" : "Content for Stage 3",
+  "category" : null,
+  "groupTitle" : "a diverse and connected world",
+  "outcomes" : {
+    "label" : null,
+    "outcomes" : [ {
+      "code" : "GE3-1",
+      "description" : "describes the diverse features and characteristics of places and environments"
+    }, {
+      "code" : "GE3-2",
+      "description" : "explains interactions and connections between people, places and environments"
+    }, {
+      "code" : "GE3-4",
+      "description" : "acquires, processes and communicates geographical information using geographical tools for inquiry"
+    } ]
+  },
+  "content" : {
+    "label" : null,
+    "groups" : [ {
+      "headline" : "investigate the diversity in geographical characteristics within the Asia region, for example: (ACHGK031, ACHGK032)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "identification of countries of the Asia region in relation to Australia M",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "examination of economic, demographic and social differences between countries of the Asia region eg employment, population, lifestyle GS",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "The world’s cultural diversity",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "investigate the world’s cultural diversity, including the cultures of indigenous peoples, for example: (ACHGK033)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "identification of different cultural groups, including indigenous cultural groups eg Maori, Inuit, Sami, Dayak M VR",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "examination of various cultures eg customs, beliefs, social organisation",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "investigate connections between Australia and other countries of the world, for example: (ACHGK034, ACHGK035)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "description of connections Australia has with other countries eg trade, migration, tourism, aid M GS",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "examination of a significant event and its local, regional and global effect on people and places eg sporting or cultural event",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Connections shape perceptions",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "investigate how connections influence people’s perceptions and understanding of places, for example: (ACHGK036)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "identification of factors that influence people’s perceptions of places eg media, culture, education, travel",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "discussion of the effect of generalisations and stereotypes about places",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    } ]
+  }
+}, {
+  "id" : 1566887639948,
+  "stage" : "Content for Stage 4",
+  "category" : null,
+  "groupTitle" : "Interconnections",
+  "outcomes" : {
+    "label" : null,
+    "outcomes" : [ {
+      "code" : "GE4-2",
+      "description" : "describes processes and influences that form and transform places and environments"
+    }, {
+      "code" : "GE4-3",
+      "description" : "explains how interactions and connections between people, places and environments result in change"
+    }, {
+      "code" : "GE4-4",
+      "description" : "examines perspectives of people and organisations on a range of geographical issues"
+    }, {
+      "code" : "GE4-5",
+      "description" : "discusses management of places and environments for their sustainability"
+    }, {
+      "code" : "GE4-7",
+      "description" : "acquires and processes geographical information by selecting and using geographical tools for inquiry"
+    }, {
+      "code" : "GE4-8",
+      "description" : "communicates geographical information using a variety of strategies"
+    } ]
+  },
+  "content" : {
+    "label" : null,
+    "groups" : [ {
+      "headline" : "investigate the influences on and effects of, people’s travel and recreational, cultural or leisure connections with different places for the future, for example: (ACHGK065, ACHGK069)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "analysis of patterns and trends in people’s travel, recreational, cultural and/or leisure activities GS",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "examination of the impact of people’s travel, recreational, cultural and/or leisure activities on the future of places VR",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "explanation of the impacts of a selected travel, recreational, cultural or leisure activity on a place, implications for the future of that place and strategies to achieve sustainability M",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "investigate the way transportation and information and communication technologies are used to connect people to services, information and people in other places, for example: (ACHGK066)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "explanation of how transport technologies connect people to places M ST",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "examination of how information and communication technologies increases people’s connections to services, information and people in other places",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "assessment of the impact of increasing global connectivity on people and places",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "investigate the ways places and people are interconnected through trade in goods and services across a range of scales, for example: (ACHGK067)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "identification of trade connections in Australia eg local farmers markets, inter-state business",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "examination of a country’s trade links with other countries eg major trade partners, sources of raw materials M GS",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "analysis of spatial patterns of global trade eg countries of production and consumption, global shipping and freight routes M ST",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Production and consumption",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "investigate the effects of the production and consumption of goods on people, places and environments throughout the world, for example: (ACHGK068)",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "examination of environmental, social and economic impacts of production and consumption of consumer goods GS",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "assessment of the effect of production or consumption of goods on ONE place or environment VR",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "explanation of responses by governments, groups and individuals to minimise the effects of production and consumption",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    } ]
+  }
+}, {
+  "id" : 1566887639949,
+  "stage" : "Content for Stage 5",
+  "category" : null,
+  "groupTitle" : "Reporting",
+  "outcomes" : {
+    "label" : null,
+    "outcomes" : [ {
+      "code" : "GELS-1",
+      "description" : "recognises features and characteristics of places and environments"
+    }, {
+      "code" : "GELS-2",
+      "description" : "demonstrates an understanding that places and environments change"
+    }, {
+      "code" : "GELS-3",
+      "description" : "explores interactions and connections between people, places and environments"
+    }, {
+      "code" : "GELS-5",
+      "description" : "explores management of places and environments"
+    }, {
+      "code" : "GELS-6",
+      "description" : "investigates differences in human wellbeing"
+    }, {
+      "code" : "GELS-7",
+      "description" : "collects and uses geographical information for inquiry"
+    }, {
+      "code" : "GELS-8",
+      "description" : "communicates geographical information"
+    } ]
+  },
+  "content" : {
+    "label" : null,
+    "groups" : [ {
+      "headline" : "identify factors that they like and dislike about where they live",
+      "items" : [ ]
+    }, {
+      "headline" : "identify factors that have a positive and negative impact on their life",
+      "items" : [ ]
+    }, {
+      "headline" : "examine broad indicators of human wellbeing eg feeling good about yourself, feeling fulfilled, a sense of happiness, health, safety",
+      "items" : [ ]
+    }, {
+      "headline" : "compare the human wellbeing of people within Australia including Aboriginal and Torres Strait Islander Peoples eg gender, age, location, life expectancy, education level, income, access to services GS",
+      "items" : [ ]
+    }, {
+      "headline" : "share ideas as to why differences in human wellbeing exist within Australia",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "Human wellbeing and development",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "examine differences in the human wellbeing of TWO countries eg Japan and India VR",
+      "items" : [ ]
+    }, {
+      "headline" : "identify reasons for the differences in human wellbeing between the two countries eg access to services, fresh water, food, housing M",
+      "items" : [ ]
+    }, {
+      "headline" : "share ideas about the effect that the development of place has on human wellbeing eg in relation to their own town/city",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "Improving human wellbeing",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "share ideas about improving human wellbeing in a familiar place eg school, community",
+      "items" : [ ]
+    }, {
+      "headline" : "investigate strategies to improve human wellbeing in Australia, including the wellbeing of Aboriginal and Torres Strait Islander Peoples eg access to education, access to affordable health, access to housing",
+      "items" : [ ]
+    }, {
+      "headline" : "investigate strategies to improve human wellbeing in at least ONE other country",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "The NSW Education Standards Authority (NESA) K–10 Curriculum Framework is a standards-referenced framework that describes, through syllabuses and other documents, the expected learning outcomes for students.",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Standards in the framework consist of three interrelated elements:",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "outcomes and content in syllabuses showing what is to be learned",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Stage statements that summarise student achievement",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "samples of work on the NESA Assessment Resource Centre (ARC) website which provide examples of levels of achievement within a Stage.",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Syllabus outcomes in Geography contribute to a developmental sequence in which students are challenged to acquire new knowledge, understanding and skills.",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Assessment is an integral part of teaching and learning. Well-designed assessment is central to engaging students and should be closely aligned to the outcomes within a Stage. Effective assessment increases student engagement in their learning and leads to enhanced student outcomes.",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Assessment for Learning, Assessment as Learning and Assessment of Learning are three approaches to assessment that play an important role in teaching and learning. The NESA Years K–10 syllabuses particularly promote Assessment for Learning as an essential component of good teaching.",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Further advice on programming and appropriate assessment practice is provided on the NESA website. This support material provides general advice on assessment as well as strategies to assist teachers in planning education programs.",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Some students with special education needs will require adjustments to assessment practices in order to demonstrate what they know and can do in relation to syllabus outcomes and content. The type of adjustments and support will vary according to the particular needs of the student and the requirements of the activity. These may be:",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "adjustments to the assessment process, for example scaffolded instructions, additional guidance provided, highlighted key words or phrased, the use of specific technology, extra time in an examination",
+      "items" : [ ]
+    }, {
+      "headline" : "adjustments to assessment activities, for example rephrasing questions, using simplified language, fewer questions or alternative formats for questions",
+      "items" : [ ]
+    }, {
+      "headline" : "alternative formats for responses, for example written point form instead of essays, scaffolded structured responses, short objective questions or multimedia presentations.",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "It is a requirement under the Disability Standards for Education 2005 for schools to ensure that assessment tasks are accessible to students with a disability. Schools are responsible for any decisions made at school level to offer adjustments to coursework, assessment activities and tasks, including in-school tests. Decisions regarding adjustments should be made in the context of collaborative curriculum planning.",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Further examples of adjustments to assessment for students with special education needs and information on assessment of students undertaking Life Skills outcomes and content can be found in support materials for:",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    }, {
+      "headline" : "Human Society and its Environment (HSIE)",
+      "items" : [ ]
+    }, {
+      "headline" : "Special education",
+      "items" : [ ]
+    }, {
+      "headline" : "Life Skills.",
+      "items" : [ {
+        "ccode" : null,
+        "text" : "Reporting is the process of providing feedback to students, parents/carers and other teachers about student progress.",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Teachers use assessment evidence to extend the process of Assessment for Learning into their Assessment of Learning. In a standards-referenced framework, teachers make professional judgements about student achievement at key points in the learning cycle. These points may be at the end of a Year or Stage, when schools may wish to report differentially on the levels of knowledge, understanding and skills demonstrated by students.",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "Descriptions of student achievement provide schools with a useful tool to report consistent information about student achievement to students and parents/carers, and to the next teacher to help plan the next steps in the learning process.",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "The A–E grade scale or equivalent provides a common language for reporting by describing observable and measurable features of student achievement at the end of a Stage, within the indicative hours of study. Teachers use the descriptions of the standards to make a professional, on-balance judgement, based on available assessment information, to match each student’s achievement to a description. Teachers use the Common Grade Scale (A–E) or equivalent to report student levels of achievement from Stage 1 to Stage 5.",
+        "type" : "description",
+        "subItems" : [ ]
+      }, {
+        "ccode" : null,
+        "text" : "For students with special education needs, teachers may need to consider, in consultation with their school and sector, the most appropriate method of reporting student achievement. It may be deemed more appropriate for students with special education needs to be reported against outcomes or goals identified through the collaborative curriculum planning process. There is no requirement for schools to use the Common Grade Scale (A–E) or equivalent to report achievement of students undertaking Life Skills outcomes and content.",
+        "type" : "description",
+        "subItems" : [ ]
+      } ]
+    } ]
+  }
+} ]

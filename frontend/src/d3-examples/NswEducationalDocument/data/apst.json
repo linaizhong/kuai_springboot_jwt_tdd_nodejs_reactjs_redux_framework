@@ -1,0 +1,829 @@
+{
+  "title" : "Australian Professional Standards for Teaching",
+  "version" : "1.0",
+  "professionalXs" : [{
+    "title" : "Professional Knowledge",
+    "descriptions" : ["Teachers understand what constitutes effective, developmentally appropriate strategies in their learning and teaching programs and use this knowledge to make the content meaningful to students."],
+    "standards" : [{
+      "number" : 1,
+      "title" : "Standard 1",
+      "description" : "Know students and how they learn.",
+      "items" : [{
+        "label" : "APST.1.1",
+        "title" : "Focus",
+        "description" : "Physical, social and intellectual development and characteristics of students",
+        "cells" : [{
+          "label" : "APST.1.1.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate knowledge and understanding of physical, social and intellectual development and characteristics of students and how these may affect learning."
+        }, {
+          "label" : "APST.1.1.2",
+          "title" : "Proficient",
+          "description" : "Use teaching strategies based on knowledge of students? physical, social and intellectual development and characteristics to improve student learning."
+        }, {
+          "label" : "APST.1.1.3",
+          "title" : "High Accomplished",
+          "description" : "Select from a flexible and effective repertoire of teaching strategies to suit the physical, social and intellectual development and characteristics of students."
+        }, {
+          "label" : "APST.1.1.4",
+          "title" : "Lead",
+          "description" : "Lead colleagues to select and develop teaching strategies to improve student learning using knowledge of the physical, social and intellectual development and characteristics of students."
+        }]
+      }, {
+        "label" : "APST.1.2",
+        "title" : "Focus",
+        "description" : "Understand how students learn",
+        "cells" : [{
+          "label" : "APST.1.2.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate knowledge and understanding of research into how students learn and the implications for teaching."
+        }, {
+          "label" : "APST.1.2.2",
+          "title" : "Proficient",
+          "description" : "Structure teaching programs using research and collegial advice about how students learn."
+        }, {
+          "label" : "APST.1.2.3",
+          "title" : "High Accomplished",
+          "description" : "Expand understanding of how students learn using research and workplace knowledge."
+        }, {
+          "label" : "APST.1.2.4",
+          "title" : "Lead",
+          "description" : "Lead processes to evaluate the effectiveness of teaching programs using research and workplace knowledge about how students learn."
+        }]
+      }, {
+        "label" : "APST.1.3",
+        "title" : "Focus",
+        "description" : "Students with diverse linguistic, cultural, religious and socioeconomic backgrounds",
+        "cells" : [{
+          "label" : "APST.1.3.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate knowledge of teaching strategies that are responsive to the learning strengths and needs of students from diverse linguistic, cultural, religious and socioeconomic backgrounds."
+        }, {
+          "label" : "APST.1.3.2",
+          "title" : "Proficient",
+          "description" : "Design and implement teaching strategies that are responsive to the learning strengths and needs of students from diverse linguistic, cultural, religious and socioeconomic backgrounds."
+        }, {
+          "label" : "APST.1.3.3",
+          "title" : "High Accomplished",
+          "description" : "Support colleagues to develop effective teaching strategies that address the learning strengths and needs of students from diverse linguistic, cultural, religious and socioeconomic backgrounds."
+        }, {
+          "label" : "APST.1.3.4",
+          "title" : "Lead",
+          "description" : "Evaluate and revise school learning and teaching programs, using expert and community knowledge and experience, to meet the needs of students with diverse linguistic, cultural, religious and socioeconomic backgrounds."
+        }]
+      }, {
+        "label" : "APST.1.4",
+        "title" : "Focus",
+        "description" : "Strategies for teaching Aboriginal and Torres Strait Islander students",
+        "cells" : [{
+          "label" : "APST.1.4.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate broad knowledge and understanding of the impact of culture, cultural identity and linguistic background on the education of students from Aboriginal and Torres Strait Islander backgrounds."
+        }, {
+          "label" : "APST.1.4.2",
+          "title" : "Proficient",
+          "description" : "Design and implement effective teaching strategies that are responsive to the local community and cultural setting, linguistic background and histories of Aboriginal and Torres Strait Islander students."
+        }, {
+          "label" : "APST.1.4.3",
+          "title" : "High Accomplished",
+          "description" : "Provide advice and support colleagues in the implementation of effective teaching strategies for Aboriginal and Torres Strait Islander students using knowledge of and support from community representatives."
+        }, {
+          "label" : "APST.1.4.4",
+          "title" : "Lead",
+          "description" : "Develop teaching programs that support equitable and ongoing participation of Aboriginal and Torres Strait Islander students by engaging in collaborative relationships with community representatives and parents/carers."
+        }]
+      }, {
+        "label" : "APST.1.5",
+        "title" : "Focus",
+        "description" : "Differentiate teaching to meet the specific learning needs of students across the full range of abilities",
+        "cells" : [{
+          "label" : "APST.1.5.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate knowledge and understanding of strategies for differentiating teaching to meet the specific learning needs of students across the full range of abilities."
+        }, {
+          "label" : "APST.1.5.2",
+          "title" : "Proficient",
+          "description" : "Develop teaching activities that incorporate differentiated strategies to meet the specific learning need of students across the full range of abilities."
+        }, {
+          "label" : "APST.1.5.3",
+          "title" : "High Accomplished",
+          "description" : "Evaluate learning and teaching programs, using student assessment data, that are differentiated for the specific learning needs of students across the full range of abilities."
+        }, {
+          "label" : "APST.1.5.4",
+          "title" : "Lead",
+          "description" : "Lead colleagues to evaluate the effectiveness of learning and teaching programs differentiated for the specific learning needs of students across the full range of abilities."
+        }]
+      }, {
+        "label" : "APST.1.6",
+        "title" : "Focus",
+        "description" : "Strategies to support full participation of students with disability",
+        "cells" : [{
+          "label" : "APST.1.6.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate broad knowledge and understanding of legislative requirements and teaching strategies that support participation and learning of students with disability."
+        }, {
+          "label" : "APST.1.6.2",
+          "title" : "Proficient",
+          "description" : "Design and implement teaching activities that support the participation and learning of students with disability and address relevant policy and legislative requirements."
+        }, {
+          "label" : "APST.1.6.3",
+          "title" : "High Accomplished",
+          "description" : "Work with colleagues to access specialist knowledge, and relevant policy and legislation, to develop teaching programs that support the participation and learning of students with disability."
+        }, {
+          "label" : "APST.1.6.4",
+          "title" : "Lead",
+          "description" : "Initiate and lead the review of school policies to support the engagement and full participation of students with disability and ensure compliance with legislative and/or system policies."
+        }]
+      }]
+    }, {
+      "number" : 2,
+      "title" : "Standard 2",
+      "description" : "Know the content and how to teach it",
+      "items" : [{
+        "label" : "APST.2.1",
+        "title" : "Focus",
+        "description" : "Content and teaching strategies of the teaching area",
+        "cells" : [{
+          "label" : "APST.2.1.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate knowledge and understanding of the concepts, substance and structure of the content and teaching strategies of the teaching area."
+        }, {
+          "label" : "APST.2.1.2",
+          "title" : "Proficient",
+          "description" : "Apply knowledge of the content and teaching strategies of the teaching area to develop engaging teaching activities."
+        }, {
+          "label" : "APST.2.1.3",
+          "title" : "High Accomplished",
+          "description" : "Support colleagues using current and comprehensive knowledge of content and teaching strategies to develop and implement engaging learning and teaching programs."
+        }, {
+          "label" : "APST.2.1.4",
+          "title" : "Lead",
+          "description" : "Lead initiatives within the school toevaluate and improve knowledge of content and teaching strategies and demonstrate exemplary teaching of subjects using effective, research-based learning and teaching programs."
+        }]
+      }, {
+        "label" : "APST.2.2",
+        "title" : "Focus",
+        "description" : "Content selection and organisation",
+        "cells" : [{
+          "label" : "APST.2.2.1",
+          "title" : "Graduate",
+          "description" : "Organise content into an effective learning and teaching sequence."
+        }, {
+          "label" : "APST.2.2.2",
+          "title" : "Proficient",
+          "description" : "Organise content into coherent, wellsequenced learning and teaching programs."
+        }, {
+          "label" : "APST.2.2.3",
+          "title" : "High Accomplished",
+          "description" : "Exhibit innovative practice in the selection and organisation of content and delivery of learning and teaching programs."
+        }, {
+          "label" : "APST.2.2.4",
+          "title" : "Lead",
+          "description" : "Lead initiatives that utilise comprehensive content knowledge to improve the selection and sequencing of content into coherently organised learning and teaching programs."
+        }]
+      }, {
+        "label" : "APST.2.3",
+        "title" : "Focus",
+        "description" : "Curriculum, assessment and reporting",
+        "cells" : [{
+          "label" : "APST.2.3.1",
+          "title" : "Graduate",
+          "description" : "Use curriculum, assessment and reporting knowledge to design learning sequences and lesson plans."
+        }, {
+          "label" : "APST.2.3.2",
+          "title" : "Proficient",
+          "description" : "Design and implement learning and teaching programs using knowledge of curriculum, assessment and reporting requirements."
+        }, {
+          "label" : "APST.2.3.3",
+          "title" : "High Accomplished",
+          "description" : "Support colleagues to plan and implement learning and teaching programs using contemporary knowledge and understanding of curriculum, assessment and reporting requirements."
+        }, {
+          "label" : "APST.2.3.4",
+          "title" : "Lead",
+          "description" : "Lead colleagues to develop learning and teaching programs using comprehensive knowledge of curriculum, assessment and reporting requirements. Professional Knowledge Contents"
+        }]
+      }, {
+        "label" : "APST.2.4",
+        "title" : "Focus",
+        "description" : "Understand and respect Aboriginal and Torres Strait Islander people to promote reconciliation between Indigenous and non- Indigenous Australians",
+        "cells" : [{
+          "label" : "APST.2.4.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate broad knowledge of understanding of and respect for Aboriginal and Torres Strait Islander histories, cultures and languages."
+        }, {
+          "label" : "APST.2.4.2",
+          "title" : "Proficient",
+          "description" : "Provide opportunities for students to develop understanding of and respect for Aboriginal and Torres Strait Islander histories, cultures and languages."
+        }, {
+          "label" : "APST.2.4.3",
+          "title" : "High Accomplished",
+          "description" : "Support colleagues with providing opportunities for students to develop understanding of and respect for Aboriginal and Torres Strait Islander histories, cultures and languages."
+        }, {
+          "label" : "APST.2.4.4",
+          "title" : "Lead",
+          "description" : "Lead initiatives to assist colleagues with opportunities for students to develop understanding of and respect for Aboriginal and Torres Strait Islander histories, cultures and languages."
+        }]
+      }, {
+        "label" : "APST.2.5",
+        "title" : "Focus",
+        "description" : "Literacy and numeracy strategies",
+        "cells" : [{
+          "label" : "APST.2.5.1",
+          "title" : "Graduate",
+          "description" : "Know and understand literacy and numeracy teaching strategies and their application in teaching areas."
+        }, {
+          "label" : "APST.2.5.2",
+          "title" : "Proficient",
+          "description" : "Apply knowledge and understanding of effective teaching strategies to support students? literacy and numeracy achievement."
+        }, {
+          "label" : "APST.2.5.3",
+          "title" : "High Accomplished",
+          "description" : "Support colleagues to implement effective teaching strategies to improve students? literacy and numeracy achievement."
+        }, {
+          "label" : "APST.2.5.4",
+          "title" : "Lead",
+          "description" : "Monitor and evaluate the implementation of teaching strategies within the school to improve students? achievement in literacy and numeracy using research-based knowledge and student data."
+        }]
+      }, {
+        "label" : "APST.2.6",
+        "title" : "Focus",
+        "description" : "Information and Communication Technology (ICT)",
+        "cells" : [{
+          "label" : "APST.2.6.1",
+          "title" : "Graduate",
+          "description" : "Implement teaching strategies for using ICT to expand curriculum learning opportunities for students."
+        }, {
+          "label" : "APST.2.6.2",
+          "title" : "Proficient",
+          "description" : "Use effective teaching strategies to integrate ICT into learning and teaching programs to make selected content relevant and meaningful."
+        }, {
+          "label" : "APST.2.6.3",
+          "title" : "High Accomplished",
+          "description" : "Model high-level teaching knowledge and skills and work with colleagues to use current ICT to improve their teaching practice and make content relevant and meaningful."
+        }, {
+          "label" : "APST.2.6.4",
+          "title" : "Lead",
+          "description" : "Lead and support colleagues within the school to select and use ICT with effective teaching strategies to expand learning opportunities and content knowledge for all students."
+        }]
+      }]
+    }]
+  }, {
+    "title" : "Professional Practice",
+    "descriptions" : ["They operate effectively at all stages of the teaching and learning cycle, including planning for learning and assessment, developing learning programs, teaching, assessing, providing feedback on student learning and reporting to parents/carers."],
+    "standards" : [{
+      "number" : 3,
+      "title" : "Standard 3",
+      "description" : "Plan for and implement effective teaching and learning",
+      "items" : [{
+        "label" : "APST.3.1",
+        "title" : "Focus",
+        "description" : "Establish challenging learning goals",
+        "cells" : [{
+          "label" : "APST.3.1.1",
+          "title" : "Graduate",
+          "description" : "Set learning goals that provide achievable challenges for students of varying abilities and characteristics."
+        }, {
+          "label" : "APST.3.1.2",
+          "title" : "Proficient",
+          "description" : "Set explicit, challenging and achievable learning goals for all students."
+        }, {
+          "label" : "APST.3.1.3",
+          "title" : "High Accomplished",
+          "description" : "Develop a culture of high expectations for all students by modelling and setting challenging learning goals."
+        }, {
+          "label" : "APST.3.1.4",
+          "title" : "Lead",
+          "description" : "Demonstrate exemplary practice and high expectations and lead colleagues to encourage students to pursue challenging goals in all aspects of their education."
+        }]
+      }, {
+        "label" : "APST.3.2",
+        "title" : "Focus",
+        "description" : "Plan, structure and sequence learning programs",
+        "cells" : [{
+          "label" : "APST.3.2.1",
+          "title" : "Graduate",
+          "description" : "Plan lesson sequences using knowledge of student learning, content and effective teaching strategies."
+        }, {
+          "label" : "APST.3.2.2",
+          "title" : "Proficient",
+          "description" : "Plan and implement well-structured learning and teaching programs or lesson sequences that engage students and promote learning."
+        }, {
+          "label" : "APST.3.2.3",
+          "title" : "High Accomplished",
+          "description" : "Work with colleagues to plan, evaluate and modify learning and teaching programs to create productive learning environments that engage all students."
+        }, {
+          "label" : "APST.3.2.4",
+          "title" : "Lead",
+          "description" : "Exhibit exemplary practice and lead colleagues to plan, implement and review the effectiveness of their learning and teaching programs to develop students? knowledge, understanding and skills."
+        }]
+      }, {
+        "label" : "APST.3.3",
+        "title" : "Focus",
+        "description" : "Use teaching strategies",
+        "cells" : [{
+          "label" : "APST.3.3.1",
+          "title" : "Graduate",
+          "description" : "Include a range of teaching strategies."
+        }, {
+          "label" : "APST.3.3.2",
+          "title" : "Proficient",
+          "description" : "Select and use relevant teaching strategies to develop knowledge, skills, problem solving and critical and creative thinking."
+        }, {
+          "label" : "APST.3.3.3",
+          "title" : "High Accomplished",
+          "description" : "Support colleagues to select and apply effective teaching strategies to develop knowledge, skills, problem solving and critical and creative thinking."
+        }, {
+          "label" : "APST.3.3.4",
+          "title" : "Lead",
+          "description" : "Work with colleagues to review, modify and expand their repertoire of teaching strategies to enable students to use knowledge, skills, problem solving and critical and creative thinking."
+        }]
+      }, {
+        "label" : "APST.3.4",
+        "title" : "Focus",
+        "description" : "Select and use resources",
+        "cells" : [{
+          "label" : "APST.3.4.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate knowledge of a range of resources, including ICT, that engage students in their learning."
+        }, {
+          "label" : "APST.3.4.2",
+          "title" : "Proficient",
+          "description" : "Select and/or create and use a range of resources, including ICT, to engage students in their learning."
+        }, {
+          "label" : "APST.3.4.3",
+          "title" : "High Accomplished",
+          "description" : "Assist colleagues to create, select and use a wide range of resources, including ICT, to engage students in their learning."
+        }, {
+          "label" : "APST.3.4.4",
+          "title" : "Lead",
+          "description" : "Model exemplary skills and lead colleagues in selecting, creating and evaluating resources, including ICT, for application by teachers within or beyond the school."
+        }]
+      }, {
+        "label" : "APST.3.5",
+        "title" : "Focus",
+        "description" : "Use effective classroom communication",
+        "cells" : [{
+          "label" : "APST.3.5.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate a range of verbal and non- verbal communication strategies to support student engagement."
+        }, {
+          "label" : "APST.3.5.2",
+          "title" : "Proficient",
+          "description" : "Use effective verbal and non-verbal communication strategies to support student understanding, participation, engagement and achievement."
+        }, {
+          "label" : "APST.3.5.3",
+          "title" : "High Accomplished",
+          "description" : "Assist colleagues to select a wide range of verbal and non- verbalcommunication strategies to support students? understanding, engagement and achievement."
+        }, {
+          "label" : "APST.3.5.4",
+          "title" : "Lead",
+          "description" : "Demonstrate and lead by example inclusive verbal and non-verbal communication using collaborative strategies and contextual knowledge to support students? understandin"
+        }]
+      }, {
+        "label" : "APST.3.6",
+        "title" : "Focus",
+        "description" : "Evaluate and improve teaching programs",
+        "cells" : [{
+          "label" : "APST.3.6.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate broad knowledge of strategies that can be used to evaluate teaching programs to improve student learning."
+        }, {
+          "label" : "APST.3.6.2",
+          "title" : "Proficient",
+          "description" : "Evaluate personal teaching andlearning programs using evidence, including feedback from students and student assessment data, to inform planning."
+        }, {
+          "label" : "APST.3.6.3",
+          "title" : "High Accomplished",
+          "description" : "Work with colleagues to review current teaching and learning programs using student feedback, student assessment data, knowledge of curriculum and workplace practices."
+        }, {
+          "label" : "APST.3.6.4",
+          "title" : "Lead",
+          "description" : "Conduct regular reviews of teaching and learning programs using multiple sourcesof evidence including: student assessmentdata, curriculum documents, teachingpractices and feedback from parents/ carers, students and colleagues."
+        }]
+      }, {
+        "label" : "APST.3.7",
+        "title" : "Focus",
+        "description" : "Engage parents/carers in the educative process",
+        "cells" : [{
+          "label" : "APST.3.7.1",
+          "title" : "Graduate",
+          "description" : "Describe a broad range of strategies for involving parents/carers in the educative process."
+        }, {
+          "label" : "APST.3.7.2",
+          "title" : "Proficient",
+          "description" : "Plan for appropriate and contextually relevant opportunities for parents/ carers to be involved in their children?s learning."
+        }, {
+          "label" : "APST.3.7.3",
+          "title" : "High Accomplished",
+          "description" : "Work with colleagues to provide appropriate and contextually relevant opportunities for parents/carers to be involved in their children?s learning."
+        }, {
+          "label" : "APST.3.7.4",
+          "title" : "Lead",
+          "description" : "Initiate contextually relevant processes to establish programs that involve parents/ carers in the education of their children and broader school priorities and activities."
+        }]
+      }]
+    }, {
+      "number" : 4,
+      "title" : "Standard 4",
+      "description" : "Create and maintain supportive and safe learning environments",
+      "items" : [{
+        "label" : "APST.4.1",
+        "title" : "Focus",
+        "description" : "Support student participation",
+        "cells" : [{
+          "label" : "APST.4.1.1",
+          "title" : "Graduate",
+          "description" : "Identify strategies to support inclusive student participation and engagement in classroom activities."
+        }, {
+          "label" : "APST.4.1.2",
+          "title" : "Proficient",
+          "description" : "Establish and implement inclusive and positive interactions to engage and support all students in classroom activities."
+        }, {
+          "label" : "APST.4.1.3",
+          "title" : "High Accomplished",
+          "description" : "Model effective practice and support colleagues to implement inclusive strategies that engage and support all students."
+        }, {
+          "label" : "APST.4.1.4",
+          "title" : "Lead",
+          "description" : "Demonstrate and lead by example the development of productive and inclusive learning environments across the school by reviewing inclusive strategies and exploring new approaches to engage and support all students."
+        }]
+      }, {
+        "label" : "APST.4.2",
+        "title" : "Focus",
+        "description" : "Manage classroom activities",
+        "cells" : [{
+          "label" : "APST.4.2.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate the capacity to organise classroom activities and provide clear directions."
+        }, {
+          "label" : "APST.4.2.2",
+          "title" : "Proficient",
+          "description" : "Establish and maintain orderly and workable routines to create an environment where student time is spent on learning tasks."
+        }, {
+          "label" : "APST.4.2.3",
+          "title" : "High Accomplished",
+          "description" : "Model and share with colleagues a flexible repertoire of strategies for classroom management to ensure all students are engaged in purposeful activities."
+        }, {
+          "label" : "APST.4.2.4",
+          "title" : "Lead",
+          "description" : "Initiate strategies and lead colleagues to implement effective classroom management and promote student responsibility for learning."
+        }]
+      }, {
+        "label" : "APST.4.3",
+        "title" : "Focus",
+        "description" : "Manage challenging behaviour",
+        "cells" : [{
+          "label" : "APST.4.3.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate knowledge of practical approaches to manage challenging behaviour."
+        }, {
+          "label" : "APST.4.3.2",
+          "title" : "Proficient",
+          "description" : "Manage challenging behaviour by establishing and negotiating clear expectations with students and address discipline issues promptly, fairly and respectfully."
+        }, {
+          "label" : "APST.4.3.3",
+          "title" : "High Accomplished",
+          "description" : "Develop and share with colleagues a flexible repertoire of behaviour management strategies using expert knowledge and workplace experience."
+        }, {
+          "label" : "APST.4.3.4",
+          "title" : "Lead",
+          "description" : "Lead and implement behaviour management initiatives to assist colleagues to broaden their range of strategies."
+        }]
+      }, {
+        "label" : "APST.4.4",
+        "title" : "Focus",
+        "description" : "Maintain student safety",
+        "cells" : [{
+          "label" : "APST.4.4.1",
+          "title" : "Graduate",
+          "description" : "Describe strategies that support students? wellbeing and safety working within school and/or system, curriculum and legislative requirements."
+        }, {
+          "label" : "APST.4.4.2",
+          "title" : "Proficient",
+          "description" : "Ensure students? wellbeing and safety within school by implementing school and/ or system, curriculum and legislative requirements."
+        }, {
+          "label" : "APST.4.4.3",
+          "title" : "High Accomplished",
+          "description" : "Initiate and take responsibility for implementing current school and/ or system, curriculum and legislative requirements to ensure student wellbeing and safety."
+        }, {
+          "label" : "APST.4.4.4",
+          "title" : "Lead",
+          "description" : "Evaluate the effectiveness of student wellbeing policies and safe working practices using current school and/ or system, curriculum and legislative requirements and assist"
+        }]
+      }, {
+        "label" : "APST.4.5",
+        "title" : "Focus",
+        "description" : "Use ICT safely, responsibly and ethically",
+        "cells" : [{
+          "label" : "APST.4.5.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate an understanding of the relevant issues and the strategies available to support the safe, responsible and ethical use of ICT in learning and teaching."
+        }, {
+          "label" : "APST.4.5.2",
+          "title" : "Proficient",
+          "description" : "Incorporate strategies to promote the safe, responsible and ethical use of ICT in learning and teaching."
+        }, {
+          "label" : "APST.4.5.3",
+          "title" : "High Accomplished",
+          "description" : "Model, and support colleagues to develop, strategies to promote the safe, responsible and ethical use of ICT in learning and teaching."
+        }, {
+          "label" : "APST.4.5.4",
+          "title" : "Lead",
+          "description" : "Review or implement new policies and strategies to ensure the safe, responsible and ethical use of ICT in learning and teaching."
+        }]
+      }]
+    }, {
+      "number" : 5,
+      "title" : "Standard 5",
+      "description" : "Assess, provide feedback and report on student learning",
+      "items" : [{
+        "label" : "APST.5.1",
+        "title" : "Focus",
+        "description" : "Assess student learning",
+        "cells" : [{
+          "label" : "APST.5.1.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate understanding of assessment strategies, including informal and formal, diagnostic, formative and summative approaches to assess student learning."
+        }, {
+          "label" : "APST.5.1.2",
+          "title" : "Proficient",
+          "description" : "Develop, select and use informal and formal, diagnostic, formative and summative assessment strategies to assess student learning."
+        }, {
+          "label" : "APST.5.1.3",
+          "title" : "High Accomplished",
+          "description" : "Develop and apply a comprehensive range of assessment strategies to diagnose learning needs, comply with curriculum requirements and support colleagues to evaluate the effectiveness of their approaches to assessment."
+        }, {
+          "label" : "APST.5.1.4",
+          "title" : "Lead",
+          "description" : "Evaluate school assessment policies and strategies to support colleagues with: using assessment data to diagnose learning needs, complying with curriculum, system and/or school assessment requirements and using a range of assessment strategies."
+        }]
+      }, {
+        "label" : "APST.5.2",
+        "title" : "Focus",
+        "description" : "Provide feedback to students on their learning",
+        "cells" : [{
+          "label" : "APST.5.2.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate an understanding of the purpose of providing timely and appropriate feedback to students about their learning."
+        }, {
+          "label" : "APST.5.2.2",
+          "title" : "Proficient",
+          "description" : "Model exemplary practice and initiate programs to support colleagues in applying a range of timely, effective and appropriate feedback strategies."
+        }, {
+          "label" : "APST.5.2.3",
+          "title" : "High Accomplished",
+          "description" : "Provide timely, effective and appropriate feedback to students about their achievement relative to their learning goals."
+        }, {
+          "label" : "APST.5.2.4",
+          "title" : "Lead",
+          "description" : "Select from an effective range of strategies to provide targeted feedback based on informed and timely judgements of each student?s current needs in order to progress learning."
+        }]
+      }, {
+        "label" : "APST.5.3",
+        "title" : "Focus",
+        "description" : "Make consistent and comparable judgements",
+        "cells" : [{
+          "label" : "APST.5.3.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate understanding of assessment moderation and its application to support consistent and comparable judgements of student learning."
+        }, {
+          "label" : "APST.5.3.2",
+          "title" : "Proficient",
+          "description" : "Understand and participate in assessment moderation activities to support consistent and comparable judgements of student learning."
+        }, {
+          "label" : "APST.5.3.3",
+          "title" : "High Accomplished",
+          "description" : "Organise assessment moderation activities that support consistent and comparable judgements of student learning."
+        }, {
+          "label" : "APST.5.3.4",
+          "title" : "Lead",
+          "description" : "Lead and evaluate moderation activities that ensure consistent and comparable judgements of student learning to meet curriculum and school or system requirements."
+        }]
+      }, {
+        "label" : "APST.5.4",
+        "title" : "Focus",
+        "description" : "Interpret student data",
+        "cells" : [{
+          "label" : "APST.5.4.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate the capacity to interpret student assessment data to evaluate student learning and modify teaching practice."
+        }, {
+          "label" : "APST.5.4.2",
+          "title" : "Proficient",
+          "description" : "Use student assessment data to analyse and evaluate student understanding of subject/content, identifying interventions and modifying teaching practice."
+        }, {
+          "label" : "APST.5.4.3",
+          "title" : "High Accomplished",
+          "description" : "Work with colleagues to use data from internal and external student assessments for evaluating learning and teaching, identifying interventions and modifying teaching practice."
+        }, {
+          "label" : "APST.5.4.4",
+          "title" : "Lead",
+          "description" : "Coordinate student performance and program evaluation using internal and external student assessment data to improve teaching practice."
+        }]
+      }, {
+        "label" : "APST.5.5",
+        "title" : "Focus",
+        "description" : "Report on student achievement",
+        "cells" : [{
+          "label" : "APST.5.5.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate understanding of a range of strategies for reporting to students and parents/carers and the purpose of keeping accurate and reliable records of student achievement."
+        }, {
+          "label" : "APST.5.5.2",
+          "title" : "Proficient",
+          "description" : "Report clearly, accurately and respectfully to students and parents/ carers about student achievement, making use of accurate and reliable records."
+        }, {
+          "label" : "APST.5.5.3",
+          "title" : "High Accomplished",
+          "description" : "Work with colleagues to construct accurate, informative and timely reports to students and parents/carers about student learning and achievement."
+        }, {
+          "label" : "APST.5.5.4",
+          "title" : "Lead",
+          "description" : "Evaluate and revise reporting and accountability mechanisms in the school to meet the needs of students, parents/ carers and colleagues."
+        }]
+      }]
+    }]
+  }, {
+    "title" : "Professional Engagement",
+    "descriptions" : ["Teachers value opportunities to engage with their school communities within and beyond the classroom to enrich the educational context for students. They understand the links between school, home and community in the social and intellectual development of their students."],
+    "standards" : [{
+      "number" : 6,
+      "title" : "Standard 6",
+      "description" : "Engage in professional learning",
+      "items" : [{
+        "label" : "APST.6.1",
+        "title" : "Focus",
+        "description" : "Identify and plan professional learning needs",
+        "cells" : [{
+          "label" : "APST.6.1.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate an understanding of the role of the Australian Professional Standards for Teachers in identifying professional learning needs."
+        }, {
+          "label" : "APST.6.1.2",
+          "title" : "Proficient",
+          "description" : "Use the Australian Professional Standards for Teachers and advice from colleagues to identify and plan professional learning needs."
+        }, {
+          "label" : "APST.6.1.3",
+          "title" : "High Accomplished",
+          "description" : "Analyse the Australian Professional Standards for Teachers to plan personal professional development goals, support colleagues to identify and achieve personal development goals and pre-service teachers to improve classroom practice."
+        }, {
+          "label" : "APST.6.1.4",
+          "title" : "Lead",
+          "description" : "Use comprehensive knowledge of the Australian Professional Standards for Teachers to plan and lead the development of professional learning policies and programs that address the professional learning needs of colleagues and pre-service teachers."
+        }]
+      }, {
+        "label" : "APST.6.2",
+        "title" : "Focus",
+        "description" : "Engage in professional learning and improve practice",
+        "cells" : [{
+          "label" : "APST.6.2.1",
+          "title" : "Graduate",
+          "description" : "Understand the relevant andappropriate sources of professional learning for teachers."
+        }, {
+          "label" : "APST.6.2.2",
+          "title" : "Proficient",
+          "description" : "Participate in learning to update knowledge and practice, targeted to professional needs and school and/or system priorities."
+        }, {
+          "label" : "APST.6.2.3",
+          "title" : "High Accomplished",
+          "description" : "Plan for professional learning by accessing and critiquing relevant research, engage in high quality targeted opportunities to improve practice and offer quality placements for pre-service teachers where applicable."
+        }, {
+          "label" : "APST.6.2.4",
+          "title" : "Lead",
+          "description" : "Initiate collaborative relationships to expand professional learning opportunities, engage in research, and provide quality opportunities and placements for pre- service teachers."
+        }]
+      }, {
+        "label" : "APST.6.3",
+        "title" : "Focus",
+        "description" : "Engage with colleagues and improve practice",
+        "cells" : [{
+          "label" : "APST.6.3.1",
+          "title" : "Graduate",
+          "description" : "Seek and apply constructive feedback from supervisors and teachers to improve teaching practices."
+        }, {
+          "label" : "APST.6.3.2",
+          "title" : "Proficient",
+          "description" : "Contribute to collegial discussions and apply constructive feedback from colleagues to improve professional knowledge and practice."
+        }, {
+          "label" : "APST.6.3.3",
+          "title" : "High Accomplished",
+          "description" : "Initiate and engage in professional discussions with colleagues in a range of forums to evaluate practice directed at improving professional knowledge and practice, and the educational outcomes of students."
+        }, {
+          "label" : "APST.6.3.4",
+          "title" : "Lead",
+          "description" : "Implement professional dialogue within the school or professional learning network(s) that is informed by feedback, analysis of current research and practice to improve the educational outcomes of students."
+        }]
+      }, {
+        "label" : "APST.6.4",
+        "title" : "Focus",
+        "description" : "Apply professional learning and improve student learning",
+        "cells" : [{
+          "label" : "APST.6.4.1",
+          "title" : "Graduate",
+          "description" : "Demonstrate an understanding of the rationale for continued professional learning and the implications for improved student learning."
+        }, {
+          "label" : "APST.6.4.2",
+          "title" : "Proficient",
+          "description" : "Undertake professional learning programs designed to address identified student learning needs."
+        }, {
+          "label" : "APST.6.4.3",
+          "title" : "High Accomplished",
+          "description" : "Engage with colleagues to evaluate the effectiveness of teacher professional learning activities to address student learning needs."
+        }, {
+          "label" : "APST.6.4.4",
+          "title" : "Lead",
+          "description" : "Advocate, participate in and lead strategies to support high- quality professional learning opportunities for colleagues that focus on improved student learning."
+        }]
+      }]
+    }, {
+      "number" : 7,
+      "title" : "Standard 7",
+      "description" : "Engage professionally with colleagues, parents/carers and the community",
+      "items" : [{
+        "label" : "APST.7.1",
+        "title" : "Focus",
+        "description" : "Meet professional ethics and responsibilities",
+        "cells" : [{
+          "label" : "APST.7.1.1",
+          "title" : "Graduate",
+          "description" : "Understand and apply the key principles described in codes of ethics and conduct for the teaching profession."
+        }, {
+          "label" : "APST.7.1.2",
+          "title" : "Proficient",
+          "description" : "Meet codes of ethics and conduct established by regulatory authorities, systems and schools."
+        }, {
+          "label" : "APST.7.1.3",
+          "title" : "High Accomplished",
+          "description" : "Maintain high ethical standards and support colleagues to interpret codes of ethics and exercise sound judgement in all school and community contexts."
+        }, {
+          "label" : "APST.7.1.4",
+          "title" : "Lead",
+          "description" : "Model exemplary ethical behaviour and exercise informed judgements in all professional dealings with students, colleagues and the community."
+        }]
+      }, {
+        "label" : "APST.7.2",
+        "title" : "Focus",
+        "description" : "Comply with legislative, administrative and organisational requirements",
+        "cells" : [{
+          "label" : "APST.7.2.1",
+          "title" : "Graduate",
+          "description" : "Understand the relevant legislative, administrative and organisational policies and processes required for teachers according to school stage."
+        }, {
+          "label" : "APST.7.2.2",
+          "title" : "Proficient",
+          "description" : "Understand the implications of and comply with relevant legislative, administrative, organisational and professional requirements, policies and processes."
+        }, {
+          "label" : "APST.7.2.3",
+          "title" : "High Accomplished",
+          "description" : "Support colleagues to review and interpret legislative, administrative, and organisational requirements, policies and processes."
+        }, {
+          "label" : "APST.7.2.4",
+          "title" : "Lead",
+          "description" : "Initiate, develop and implement relevant policies and processes to support colleagues? compliance with and understanding of existing and new legislative, administrative, organisational and professional responsibilities."
+        }]
+      }, {
+        "label" : "APST.7.3",
+        "title" : "Focus",
+        "description" : "Engage with the parents/carers",
+        "cells" : [{
+          "label" : "APST.7.3.1",
+          "title" : "Graduate",
+          "description" : "Understand strategies for working effectively, sensitively and confidentially with parents/carers."
+        }, {
+          "label" : "APST.7.3.2",
+          "title" : "Proficient",
+          "description" : "Establish and maintain respectful collaborative relationships with parents/ carers regarding their children?s learning and wellbeing."
+        }, {
+          "label" : "APST.7.3.3",
+          "title" : "High Accomplished",
+          "description" : "Demonstrate responsiveness in all communications with parents/carers about their children?s learning and wellbeing."
+        }, {
+          "label" : "APST.7.3.4",
+          "title" : "Lead",
+          "description" : "Identify, initiate and build on opportunities that engage parents/carers in both the progress of their children?s learning and in the educational priorities of the school."
+        }]
+      }, {
+        "label" : "APST.7.4",
+        "title" : "Focus",
+        "description" : "Engage with professional teaching networks and broader communities",
+        "cells" : [{
+          "label" : "APST.7.4.1",
+          "title" : "Graduate",
+          "description" : "Understand the role of external professionals and community representatives in broadening teachers? professional knowledge and practice."
+        }, {
+          "label" : "APST.7.4.2",
+          "title" : "Proficient",
+          "description" : "Participate in professional and community networks and forums to broaden knowledge and improve practice."
+        }, {
+          "label" : "APST.7.4.3",
+          "title" : "High Accomplished",
+          "description" : "Contribute to professional networks and associations and build productive links with the wider community to improve teaching and learning."
+        }, {
+          "label" : "APST.7.4.4",
+          "title" : "Lead",
+          "description" : "Take a leadership role in professional and community networks and support the involvement of colleagues in external learning opportunities."
+        }]
+      }]
+    }]
+  }]
+}

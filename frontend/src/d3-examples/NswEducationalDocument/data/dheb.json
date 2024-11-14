@@ -1,0 +1,41 @@
+[
+    {
+        "name": "australian.curriculum.Curriculum-English",
+        "size": 120,
+        "imports": [
+            "australian.curriculum.Curriculum-Mathematics",
+            "australian.LearningProgressing.Learning-Progressing-English",
+            "nsw.syllabus.Syllabus-English"
+        ]
+    },
+    {
+        "name": "australian.curriculum.Curriculum-Mathematics",
+        "size": 120,
+        "imports": []
+    },
+    {
+        "name": "australian.LearningProgressing.Learning-Progressing-English",
+        "size": 120,
+        "imports": [
+            "australian.LearningProgressing.Learning-Progressing-Mathematics",
+            "australian.curriculum.Curriculum-English"
+        ]
+    },
+    {
+        "name": "australian.LearningProgressing.Learning-Progressing-Mathematics",
+        "size": 120,
+        "imports": []
+    },
+    {
+        "name": "nsw.syllabus.Syllabus-Mathematics",
+        "size": 120,
+        "imports": []
+    },
+    {
+        "name": "nsw.syllabus.Syllabus-English",
+        "size": 120,
+        "imports": [
+            "nsw.syllabus.Syllabus-Mathematics"
+        ]
+    }
+]
